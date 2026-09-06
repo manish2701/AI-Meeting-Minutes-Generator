@@ -1,0 +1,8 @@
+Audio File: audio_057.wav
+Detected Language: en
+Language Probability: 0.9778
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 2.40s] I have this really excited pirate-copied thing.

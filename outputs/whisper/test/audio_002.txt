@@ -1,0 +1,8 @@
+Audio File: audio_002.wav
+Detected Language: en
+Language Probability: 0.9995
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 7.22s] Okay, so maybe we should store a mean measure for the segments and meetings as well.

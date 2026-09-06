@@ -1,0 +1,8 @@
+Audio File: audio_022.wav
+Detected Language: en
+Language Probability: 0.9980
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.44s] Like with the data structures, I'm just like over these vague ideas of some trees.

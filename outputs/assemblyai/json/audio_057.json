@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_057.wav",
+    "transcript": "I have this really excited pirate copied thing.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 2.388,
+            "text": "I have this really excited pirate copied thing."
+        }
+    ]
+}

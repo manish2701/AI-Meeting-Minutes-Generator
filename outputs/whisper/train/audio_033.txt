@@ -1,0 +1,8 @@
+Audio File: audio_033.wav
+Detected Language: en
+Language Probability: 0.8867
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 0.68s] The temps, yeah.

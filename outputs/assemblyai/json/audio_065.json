@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_065.wav",
+    "transcript": "Sort of like, but that, like, the problem with that is it is easy to do in the text level,",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 3.597,
+            "text": "Sort of like, but that, like, the problem with that is it is easy to do in the text level,"
+        }
+    ]
+}

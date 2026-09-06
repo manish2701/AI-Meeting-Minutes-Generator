@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_030.wav",
+    "transcript": "So I'd just be building the data structure again.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 2.147,
+            "text": "So I'd just be building the data structure again."
+        }
+    ]
+}

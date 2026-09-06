@@ -1,0 +1,100 @@
+audio_file,transcript,num_utterances
+audio_000.wav,"For example, for the dialogue acts and so on.",1
+audio_001.wav,No.,1
+audio_002.wav,"OK, so maybe we should build a— store a mean measure for the segments and meetings as well.",1
+audio_003.wav,Then maybe we can more or less use the same code and just make a few ifs and stuff.,1
+audio_004.wav,How do you do that?,1
+audio_005.wav,"But I am still confused, because I thought, like, that is just what Jonathan said, that we cannot do, like, load a massive document of that size.",1
+audio_006.wav,Then I need something different later anyway.,1
+audio_007.wav,"Yeah, I need frequency as well.",1
+audio_008.wav,"We can probably just start with a Java HashMap and, like, just HashMap over it and see how far we get.",1
+audio_009.wav,"And then, yeah.",1
+audio_010.wav,So we have to demonstrate something next week.,1
+audio_011.wav,"Uh, yeah.",1
+audio_012.wav,Yeah.,1
+audio_013.wav,I can probably just implement like a 5-line Java Hashtable frequency dictionary builder in C.,1
+audio_014.wav,Okay.,1
+audio_015.wav,Okay.,1
+audio_016.wav,"So I would, for example, need the most frequent words.",1
+audio_017.wav,Like after this.,1
+audio_018.wav,,0
+audio_019.wav,"and just have different fine-grainedness levels, sort of.",1
+audio_000.wav,"If you SSH in, they have this big warning about doing nothing at all in the gateway machine.",1
+audio_001.wav,Hardly any.,1
+audio_002.wav,"Because, yeah, I mean, the wave data are obviously not going to get off there completely.",1
+audio_003.wav,"Yeah, it will play them in some order in which they were set, because otherwise it is going to be more entertaining.",1
+audio_004.wav,Yeah.,1
+audio_005.wav,,0
+audio_006.wav,all these fancy pens.,1
+audio_007.wav,Like something that represents the whole series in a structure very similar to the structure in which we represent individual meetings.,1
+audio_008.wav,"If we are going to allow disjoint segments, for example, then how are we going to know what is going to be in context at any given time?",1
+audio_009.wav,"Is anyone of you for the document frequency over total frequency? You're going to have total frequencies of words then with that, right?",1
+audio_010.wav,"Like, I don't know, copies of Shakespeare or something.",1
+audio_011.wav,Not quite. So what did you want to do? You just wanted to assign—,1
+audio_012.wav,And that will obviously make it much easier to display.,1
+audio_013.wav,I ordered according to the starting times of the utterances.,1
+audio_014.wav,"'Cause if we are, I reckon we should all read our classes out of the database.",1
+audio_015.wav,"And probably separate to that, information about the different topics.",1
+audio_016.wav,"That means sort of we have multiple levels of representation, which we probably—",1
+audio_017.wav,Hmm.,1
+audio_018.wav,Yeah.,1
+audio_019.wav,Then we should probably find some abstraction models,1
+audio_020.wav,Are we still gonna dump it into a database?,1
+audio_021.wav,say.,1
+audio_022.wav,"Like with the data structures, I am just like over these vague ideas of some trees.",1
+audio_023.wav,Yay!,1
+audio_024.wav,I thought that was the whole beauty that you can just make a new XML file and sort of tie that to the other end.,1
+audio_025.wav,,0
+audio_026.wav,,0
+audio_028.wav,"Thing is, I'm away this weekend.",1
+audio_029.wav,"So I'm just wondering if there's ways to abandon the whole concept of meetings and sort of, which is not really treating separate meetings as too much of a separate entity,",1
+audio_030.wav,So I'd just be building the data structure again.,1
+audio_031.wav,"Yeah, you'd have to count it yourself, yeah.",1
+audio_032.wav,"then skip it, because it is probably something with a dot in between, which is usually not something you want to have.",1
+audio_033.wav,"The temps, yeah.",1
+audio_034.wav,Are they spoken numbers?,1
+audio_035.wav,"Oh, that's easy.",1
+audio_036.wav,"That's what I'm guessing, that's, you know,",1
+audio_037.wav,Let's check that out.,1
+audio_038.wav,and then just sort of everyone— make sure everyone understands the interface.,1
+audio_039.wav,Yeah.,1
+audio_040.wav,"In memory, yeah.",1
+audio_041.wav,Yeah.,1
+audio_042.wav,"Yeah, and that's also fairly easy to store along with our segments, isn't it?",1
+audio_043.wav,Okay.,1
+audio_044.wav,"Yeah, one group, yeah.",1
+audio_045.wav,When do we have to meet again then with this?,1
+audio_046.wav,"Yeah, I— it'd be useful for me as well.",1
+audio_047.wav,Gosh.,1
+audio_048.wav,"I was just thinking, if the overhead for having the same amount of data coming from 2 files instead of from 1 file is massive,",1
+audio_049.wav,Am I the only one who needs it with frequencies?,1
+audio_050.wav,"I just wondered, so who's then doing the frequencies on the words?",1
+audio_051.wav,Yeah.,1
+audio_052.wav,"Yeah, for me it's better if they're by meeting.",1
+audio_053.wav,"Yeah, the search is— I guess the search is sort of a strange beast anyway, because for the search, we are leaving the Knight XML framework.",1
+audio_054.wav,"Yeah, one series has the same 3 starting letters.",1
+audio_055.wav,and just build one in memory.,1
+audio_056.wav,I have no idea.,1
+audio_057.wav,I have this really excited pirate copied thing.,1
+audio_058.wav,"Basically, apart from the display module, the display itself,",1
+audio_059.wav,Yeah.,1
+audio_060.wav,"No, no, it's for—",1
+audio_061.wav,"I mean, like, how Jasmine does it internally, I don't know.",1
+audio_062.wav,I can try to do it and send it to you.,1
+audio_063.wav,,0
+audio_064.wav,Did you also order?,1
+audio_065.wav,"Sort of like, but that, like, the problem with that is it is easy to do in the text level,",1
+audio_066.wav,Is it just the first and the last line?,1
+audio_067.wav,"The interface is mainly, while it is running, just working on data that is just loaded from a file, I guess.",1
+audio_068.wav,It's just like until the information density is up and running.,1
+audio_069.wav,"So then you'd start with all your utterances here, and when you go up to get topic segments, you go to here, here, here, here, here, here, here.",1
+audio_070.wav,"Because if we're doing— I think for the information density, we should calculate it on the lowest level, not on the highest.",1
+audio_071.wav,So...,1
+audio_072.wav,And they have a score.,1
+audio_073.wav,Mm-hmm.,1
+audio_074.wav,"Yes, but what are the other things that's some kind of number?",1
+audio_075.wav,"And that is not so much what he meant with not possibly loading everything, was that you load all the annotation stuff,",1
+audio_076.wav,for every single word.,1
+audio_077.wav,,0
+audio_078.wav,Yeah.,1
+audio_079.wav,Because,1

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_001.wav",
+    "transcript": "Hardly any.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 1.132,
+            "end": 1.544,
+            "text": "Hardly any."
+        }
+    ]
+}

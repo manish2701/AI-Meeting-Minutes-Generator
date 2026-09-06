@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_022.wav",
+    "transcript": "Like with the data structures, I am just like over these vague ideas of some trees.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.016,
+            "end": 4.607,
+            "text": "Like with the data structures, I am just like over these vague ideas of some trees."
+        }
+    ]
+}

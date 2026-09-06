@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_053.wav",
+    "transcript": "Yeah, the search is— I guess the search is sort of a strange beast anyway, because for the search, we are leaving the Knight XML framework.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.193,
+            "end": 6.072,
+            "text": "Yeah, the search is— I guess the search is sort of a strange beast anyway, because for the search, we are leaving the Knight XML framework."
+        }
+    ]
+}

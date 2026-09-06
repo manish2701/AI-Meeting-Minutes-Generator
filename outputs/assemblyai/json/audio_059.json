@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_059.wav",
+    "transcript": "Yeah.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.136,
+            "end": 0.249,
+            "text": "Yeah."
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+If we are going to allow disjoint segments, for example, then how are we going to know what is going to be in context at any given time?

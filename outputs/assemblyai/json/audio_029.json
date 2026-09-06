@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_029.wav",
+    "transcript": "So I'm just wondering if there's ways to abandon the whole concept of meetings and sort of, which is not really treating separate meetings as too much of a separate entity,",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 10.427,
+            "text": "So I'm just wondering if there's ways to abandon the whole concept of meetings and sort of, which is not really treating separate meetings as too much of a separate entity,"
+        }
+    ]
+}

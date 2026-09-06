@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_075.wav",
+    "transcript": "And that is not so much what he meant with not possibly loading everything, was that you load all the annotation stuff,",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.096,
+            "end": 10.247,
+            "text": "And that is not so much what he meant with not possibly loading everything, was that you load all the annotation stuff,"
+        }
+    ]
+}

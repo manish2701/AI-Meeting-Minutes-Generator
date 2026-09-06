@@ -1,0 +1,8 @@
+Audio File: audio_017.wav
+Detected Language: en
+Language Probability: 0.4787
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 0.30s] Hmm.

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_068.wav",
+    "transcript": "It's just like until the information density is up and running.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 3.737,
+            "text": "It's just like until the information density is up and running."
+        }
+    ]
+}

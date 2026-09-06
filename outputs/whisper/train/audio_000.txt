@@ -1,0 +1,8 @@
+Audio File: audio_000.wav
+Detected Language: en
+Language Probability: 0.9934
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.14s] If you ask this agent, they have this big warning about doing nothing at all in the gateway machine.

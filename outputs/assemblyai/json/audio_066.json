@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_066.wav",
+    "transcript": "Is it just the first and the last line?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.135,
+            "end": 1.355,
+            "text": "Is it just the first and the last line?"
+        }
+    ]
+}

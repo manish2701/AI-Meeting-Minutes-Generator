@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_076.wav",
+    "transcript": "for every single word.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 1.208,
+            "text": "for every single word."
+        }
+    ]
+}

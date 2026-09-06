@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_003.wav",
+    "transcript": "Yeah, it will play them in some order in which they were set, because otherwise it is going to be more entertaining.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 5.612,
+            "text": "Yeah, it will play them in some order in which they were set, because otherwise it is going to be more entertaining."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+Audio File: audio_043.wav
+Detected Language: en
+Language Probability: 0.9404
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 0.24s] Okay.

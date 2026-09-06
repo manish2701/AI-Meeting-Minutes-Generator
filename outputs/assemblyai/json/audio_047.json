@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_047.wav",
+    "transcript": "Gosh.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 0.133,
+            "text": "Gosh."
+        }
+    ]
+}

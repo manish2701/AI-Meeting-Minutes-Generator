@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_032.wav",
+    "transcript": "then skip it, because it is probably something with a dot in between, which is usually not something you want to have.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 4.386,
+            "text": "then skip it, because it is probably something with a dot in between, which is usually not something you want to have."
+        }
+    ]
+}

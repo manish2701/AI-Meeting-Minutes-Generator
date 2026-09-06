@@ -1,0 +1,8 @@
+Audio File: audio_004.wav
+Detected Language: en
+Language Probability: 0.9984
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 1.20s] How do you do that?

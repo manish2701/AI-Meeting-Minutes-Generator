@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_020.wav",
+    "transcript": "Are we still gonna dump it into a database?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.134,
+            "end": 1.902,
+            "text": "Are we still gonna dump it into a database?"
+        }
+    ]
+}

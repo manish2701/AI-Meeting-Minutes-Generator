@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_019.wav",
+    "transcript": "Then we should probably find some abstraction models",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.033,
+            "end": 2.659,
+            "text": "Then we should probably find some abstraction models"
+        }
+    ]
+}

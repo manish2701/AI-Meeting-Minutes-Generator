@@ -1,0 +1,8 @@
+Audio File: audio_028.wav
+Detected Language: en
+Language Probability: 0.9759
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 1.90s] The thing is I'm away this weekend.

@@ -1,0 +1,1 @@
+I mean, like, how Jasmine does it internally, I don't know.

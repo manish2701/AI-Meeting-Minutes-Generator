@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_056.wav",
+    "transcript": "I have no idea.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.099,
+            "end": 1.278,
+            "text": "I have no idea."
+        }
+    ]
+}

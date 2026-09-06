@@ -1,0 +1,8 @@
+Audio File: audio_054.wav
+Detected Language: en
+Language Probability: 0.9455
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.00s] Yeah, one series has the same three starting letters.

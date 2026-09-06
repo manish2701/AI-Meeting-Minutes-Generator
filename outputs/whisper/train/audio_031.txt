@@ -1,0 +1,8 @@
+Audio File: audio_031.wav
+Detected Language: en
+Language Probability: 0.9878
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 1.76s] Yeah, you'd have to count it yourself, yeah.

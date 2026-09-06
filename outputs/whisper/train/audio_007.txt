@@ -1,0 +1,9 @@
+Audio File: audio_007.wav
+Detected Language: en
+Language Probability: 0.9993
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 3.90s] like something that represents the whole series
+[3.90s - 8.90s] in a structure very similar to the structure in which we represent individual meetings.

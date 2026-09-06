@@ -1,0 +1,8 @@
+Audio File: audio_015.wav
+Detected Language: en
+Language Probability: 0.9960
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 3.38s] And probably separate to that information about the different topics like that.

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_038.wav",
+    "transcript": "and then just sort of everyone— make sure everyone understands the interface.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 4.618,
+            "text": "and then just sort of everyone— make sure everyone understands the interface."
+        }
+    ]
+}

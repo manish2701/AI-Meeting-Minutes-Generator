@@ -1,0 +1,8 @@
+Audio File: audio_042.wav
+Detected Language: en
+Language Probability: 0.9959
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 2.94s] Yeah, and that's also fairly easy to store along with our segments, isn't it?

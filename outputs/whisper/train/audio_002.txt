@@ -1,0 +1,8 @@
+Audio File: audio_002.wav
+Detected Language: en
+Language Probability: 0.9971
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 5.00s] Because, yeah, I mean, the wave data are obviously not going to get off there completely.

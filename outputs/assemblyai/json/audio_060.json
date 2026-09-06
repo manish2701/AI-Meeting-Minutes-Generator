@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_060.wav",
+    "transcript": "No, no, it's for—",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.559,
+            "end": 2.78,
+            "text": "No, no, it's for—"
+        }
+    ]
+}

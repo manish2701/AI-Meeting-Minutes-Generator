@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_046.wav",
+    "transcript": "Yeah, I— it'd be useful for me as well.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 2.465,
+            "text": "Yeah, I— it'd be useful for me as well."
+        }
+    ]
+}

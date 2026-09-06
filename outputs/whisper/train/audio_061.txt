@@ -1,0 +1,9 @@
+Audio File: audio_061.wav
+Detected Language: en
+Language Probability: 0.9703
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 2.52s] I mean, like, how does Jasmin does it internally?
+[2.64s - 3.00s] I don't know.

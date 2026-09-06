@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_045.wav",
+    "transcript": "When do we have to meet again then with this?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 2.501,
+            "text": "When do we have to meet again then with this?"
+        }
+    ]
+}

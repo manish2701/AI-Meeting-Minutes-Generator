@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_052.wav",
+    "transcript": "Yeah, for me it's better if they're by meeting.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 2.048,
+            "text": "Yeah, for me it's better if they're by meeting."
+        }
+    ]
+}

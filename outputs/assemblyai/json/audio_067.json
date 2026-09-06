@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_067.wav",
+    "transcript": "The interface is mainly, while it is running, just working on data that is just loaded from a file, I guess.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.683,
+            "end": 5.698,
+            "text": "The interface is mainly, while it is running, just working on data that is just loaded from a file, I guess."
+        }
+    ]
+}

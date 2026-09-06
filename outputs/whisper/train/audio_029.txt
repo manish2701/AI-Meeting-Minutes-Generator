@@ -1,0 +1,9 @@
+Audio File: audio_029.wav
+Detected Language: en
+Language Probability: 0.9981
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.82s] I'm just wondering if there's ways to abandon the whole concept of meetings
+[4.82s - 10.38s] which is not really treating separate meetings as too much of a separate entity.

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_061.wav",
+    "transcript": "I mean, like, how Jasmine does it internally, I don't know.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.259,
+            "end": 2.935,
+            "text": "I mean, like, how Jasmine does it internally, I don't know."
+        }
+    ]
+}

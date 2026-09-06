@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_054.wav",
+    "transcript": "Yeah, one series has the same 3 starting letters.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 4.096,
+            "text": "Yeah, one series has the same 3 starting letters."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_062.wav",
+    "transcript": "I can try to do it and send it to you.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.348,
+            "end": 2.336,
+            "text": "I can try to do it and send it to you."
+        }
+    ]
+}

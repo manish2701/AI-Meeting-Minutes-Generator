@@ -1,0 +1,8 @@
+Audio File: audio_056.wav
+Detected Language: en
+Language Probability: 0.9545
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 2.00s] I have no idea

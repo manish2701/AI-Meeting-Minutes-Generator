@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_034.wav",
+    "transcript": "Are they spoken numbers?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.034,
+            "end": 1.194,
+            "text": "Are they spoken numbers?"
+        }
+    ]
+}

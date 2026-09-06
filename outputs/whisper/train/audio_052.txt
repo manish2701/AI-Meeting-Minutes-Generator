@@ -1,0 +1,8 @@
+Audio File: audio_052.wav
+Detected Language: en
+Language Probability: 0.9989
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 2.04s] For me, it's better if they're by meeting.

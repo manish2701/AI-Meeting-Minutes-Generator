@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_049.wav",
+    "transcript": "Am I the only one who needs it with frequencies?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.033,
+            "end": 1.732,
+            "text": "Am I the only one who needs it with frequencies?"
+        }
+    ]
+}

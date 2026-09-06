@@ -1,0 +1,9 @@
+Audio File: audio_053.wav
+Detected Language: en
+Language Probability: 0.9983
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 3.86s] Yeah, I guess the search is sort of a strange beast anyway because for the search we're
+[3.86s - 6.10s] leaving the NiteXML framework.

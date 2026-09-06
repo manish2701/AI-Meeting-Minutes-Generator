@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_069.wav",
+    "transcript": "So then you'd start with all your utterances here, and when you go up to get topic segments, you go to here, here, here, here, here, here, here.",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.0,
+            "end": 7.735,
+            "text": "So then you'd start with all your utterances here, and when you go up to get topic segments, you go to here, here, here, here, here, here, here."
+        }
+    ]
+}

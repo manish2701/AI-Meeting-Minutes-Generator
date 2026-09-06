@@ -1,0 +1,8 @@
+Audio File: audio_032.wav
+Detected Language: en
+Language Probability: 0.9951
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.36s] then skip it because it's probably something with a dot in between which is usually not something you want to have.

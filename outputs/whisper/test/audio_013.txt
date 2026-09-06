@@ -1,0 +1,9 @@
+Audio File: audio_013.wav
+Detected Language: en
+Language Probability: 0.9996
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.84s] I can probably just implement like a five line Java hash table frequency dictionary builder
+[4.84s - 5.34s] and see

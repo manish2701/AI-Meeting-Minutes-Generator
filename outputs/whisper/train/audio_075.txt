@@ -1,0 +1,8 @@
+Audio File: audio_075.wav
+Detected Language: en
+Language Probability: 0.9853
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 10.24s] and that's not so much what he meant with not possibly loading everything was that you load all the annotation stuff.

@@ -1,0 +1,9 @@
+Audio File: audio_009.wav
+Detected Language: en
+Language Probability: 0.9995
+
+TRANSCRIPT
+------------------------------------------------------------
+
+[0.00s - 4.50s] Is anyone of you, for the document frequency over total frequency,
+[4.50s - 8.40s] you gonna have total frequencies of words then with that, right?

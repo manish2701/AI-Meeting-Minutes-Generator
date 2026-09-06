@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_036.wav",
+    "transcript": "That's what I'm guessing, that's, you know,",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.033,
+            "end": 2.456,
+            "text": "That's what I'm guessing, that's, you know,"
+        }
+    ]
+}

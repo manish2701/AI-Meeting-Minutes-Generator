@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_074.wav",
+    "transcript": "Yes, but what are the other things that's some kind of number?",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.032,
+            "end": 4.055,
+            "text": "Yes, but what are the other things that's some kind of number?"
+        }
+    ]
+}

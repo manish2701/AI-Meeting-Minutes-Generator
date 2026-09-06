@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "audio_file": "dataset/processed/train/audio_016.wav",
+    "transcript": "That means sort of we have multiple levels of representation, which we probably—",
+    "utterances": [
+        {
+            "speaker": "A",
+            "start": 0.016,
+            "end": 4.548,
+            "text": "That means sort of we have multiple levels of representation, which we probably—"
+        }
+    ]
+}
