@@ -1,1 +1,0 @@
-Like something that represents the whole series in a structure very similar to the structure in which we represent individual meetings.

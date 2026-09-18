@@ -1,1 +1,0 @@
-Then we should probably find some abstraction models

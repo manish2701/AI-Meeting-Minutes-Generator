@@ -1,0 +1,37 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_5.txt
+
+KEY POINTS
+--------------------
+• Before we close, the decisions are to run a three-creative advertising experiment, keep the teaser free of final pricing, and hold the final campaign review next Friday at 4 PM.
+• I prepared a four-week social media calendar.
+• I completed the first draft of the landing page copy.
+• Customer support needs a knowledge base before launch.
+• The hardware price is currently proposed at 18,999 rupees. The annual subscription is proposed at 1,999 rupees.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• Content Lead — update the pricing section after finance confirms the final numbers
+• Video Producer — shoot the remaining demonstrations on Friday if the build is ready
+• Video Producer — use the production-like build
+• Influencer Lead — prepare it by Wednesday
+• Influencer Lead — include estimated cost per thousand impressions and expected engagement
+• Email Lead — create a reminder campaign
+• Email Lead — prepare the reminder segment and email by Tuesday afternoon
+• Support Lead — finish the remaining articles by Friday
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• I will prepare the reminder segment and email by — Tuesday afternoon.
+• I will fix and test it by — Thursday evening.
+• Have it ready by — Friday morning.
+• I will finish it by — Friday morning.
+• The launch target remains the 15th of — next month.
+• Let's hold the final campaign review — next Friday.
+• free of final pricing, and hold the final campaign review — next Friday.
+• I will prepare the campaign dashboard by — Friday morning.

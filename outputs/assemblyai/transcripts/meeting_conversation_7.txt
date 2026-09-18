@@ -1,0 +1,137 @@
+Research Lead: Today's meeting is about the satellite-image reconstruction experiment. We need to review the dataset, preprocessing pipeline, model architecture, training results, cloud cost, and the plan for the next experiment.
+
+Remote Sensing Specialist: I completed the dataset preparation. We now have 18,500 image patches after removing corrupted files and cloud masks that did not meet the quality threshold.
+
+ML Engineer: What percentage was removed?
+
+Remote Sensing Specialist: About 7.6 percent of the original patches.
+
+Research Lead: Did we preserve the geographic distribution?
+
+Remote Sensing Specialist: Yes. The patches cover five regions and the train, validation, and test splits were created by geographic area to reduce leakage.
+
+ML Engineer: That is important because random patch splitting could put neighboring images into different sets.
+
+Research Lead: What are the baseline results?
+
+ML Engineer: The baseline U-Net achieved an average reconstruction PSNR of 27.8 dB and SSIM of 0.84.
+
+Research Lead: And the attention-based model?
+
+ML Engineer: The attention model reached 29.1 dB PSNR and 0.88 SSIM, but training time increased from six hours to nearly eleven hours per run.
+
+Cloud Engineer: What GPU was used?
+
+ML Engineer: One A100 instance.
+
+Cloud Engineer: That costs considerably more than our previous setup.
+
+Research Lead: Can we test a smaller GPU?
+
+Cloud Engineer: We can. I will benchmark the attention model on an A10 instance and compare cost per training run.
+
+ML Engineer: I will also test mixed precision to reduce training time.
+
+Research Lead: Do both by Thursday.
+
+Remote Sensing Specialist: The evaluation has one issue. Some reconstructed areas look visually sharp but contain incorrect road boundaries.
+
+Research Lead: How are we measuring that?
+
+Remote Sensing Specialist: Current metrics focus on pixel similarity. They do not specifically measure structural accuracy.
+
+ML Engineer: We can add an edge-based metric and compare road-boundary preservation.
+
+Research Lead: Add it to the evaluation pipeline.
+
+ML Engineer: I will implement the metric and run it on the existing test set by Friday.
+
+Remote Sensing Specialist: I can prepare a small manually reviewed subset of 300 patches with annotated road boundaries.
+
+Research Lead: That would be useful.
+
+Remote Sensing Specialist: I will prepare the subset by Wednesday.
+
+ML Engineer: There is also a data normalization issue. Images from one region have a different brightness distribution.
+
+Remote Sensing Specialist: That region was captured by a different sensor configuration.
+
+Research Lead: We should not normalize it blindly. Compare the sensor distributions first.
+
+Remote Sensing Specialist: I will prepare a sensor-wise distribution report by Tuesday.
+
+ML Engineer: If the difference is significant, I can add sensor-aware normalization.
+
+Research Lead: Only after reviewing the report.
+
+Cloud Engineer: The current experiment stored intermediate checkpoints for every five hundred steps. That is consuming almost 90 GB.
+
+Research Lead: Keep the best checkpoint and the latest checkpoint only.
+
+ML Engineer: I will change checkpoint retention and clean the old experiment storage after confirming the required artifacts.
+
+Cloud Engineer: I will verify the storage reduction after cleanup.
+
+Research Lead: Do that by Wednesday evening.
+
+ML Engineer: The attention model also occasionally produces small artifacts around cloud boundaries.
+
+Remote Sensing Specialist: I noticed that in seven of the first fifty test patches.
+
+Research Lead: Is it caused by the reconstruction model or preprocessing?
+
+ML Engineer: I am not sure yet. I need to compare the model output with the cloud-mask boundaries.
+
+Research Lead: Run that analysis before changing the architecture.
+
+ML Engineer: I will prepare the artifact analysis by Thursday.
+
+Research Lead: What is our target for the next experiment?
+
+ML Engineer: I propose comparing the baseline, attention model, and a lightweight residual model.
+
+Research Lead: Use the same train, validation, and test splits for all three.
+
+ML Engineer: I will prepare the experiment configuration file.
+
+Research Lead: Have it ready by Wednesday.
+
+Remote Sensing Specialist: We should also include visual examples in the final report.
+
+Research Lead: Yes. Select examples from each geographic region.
+
+Remote Sensing Specialist: I will prepare twelve representative examples by Friday morning.
+
+Cloud Engineer: We need to estimate the total cost of the next experiment.
+
+ML Engineer: The current A100 setup costs approximately 420 rupees per hour, and each run takes about ten hours.
+
+Cloud Engineer: The A10 would be roughly 40 percent cheaper but may take longer.
+
+Research Lead: Compare total cost rather than hourly cost.
+
+Cloud Engineer: I will prepare the cost comparison by Thursday.
+
+Research Lead: We also need to document reproducibility.
+
+ML Engineer: The current code is in Git, but the exact package versions are not locked.
+
+Cloud Engineer: I can create a container image with the required dependencies.
+
+ML Engineer: I will provide the dependency list.
+
+Research Lead: Create the reproducible environment before the next training run.
+
+Cloud Engineer: I will build and test the container by Friday.
+
+Research Lead: Let's schedule the experiment review for next Monday at 11 AM.
+
+ML Engineer: By then I will have the three model configurations ready.
+
+Remote Sensing Specialist: I will have the annotated subset and visual examples ready.
+
+Research Lead: The decisions are to use geographic splits, add the edge-based metric, retain only the best and latest checkpoints, and compare the three model architectures using the same evaluation protocol.
+
+Cloud Engineer: I will update the experiment runbook.
+
+Research Lead: Update it before Monday's review and report any blockers in tomorrow's stand-up.

@@ -1,0 +1,161 @@
+Project Director: This is the final readiness meeting for the campus mobile application. We need to review the completed features, known bugs, performance, security, store submission, analytics, documentation, and launch support.
+
+Android Developer: The Android build is complete. Login, registration, profile management, product search, notifications, and order history are all working.
+
+iOS Developer: The iOS build is also complete. I fixed the notification permission issue from the previous build.
+
+QA Lead: I completed functional testing on both platforms. Most core workflows passed.
+
+Project Director: What remains?
+
+QA Lead: I found three medium-priority issues. The first affects search filters, the second affects notification deep links, and the third affects the order-history pagination on smaller screens.
+
+Android Developer: I fixed the search-filter issue yesterday.
+
+iOS Developer: The deep-link issue is fixed on iOS, but I have not verified the Android behavior yet.
+
+Android Developer: I will verify the notification deep link on Android by tomorrow afternoon.
+
+QA Lead: I will retest the search and notification fixes after the new build is uploaded.
+
+Project Director: What about pagination?
+
+Android Developer: The pagination issue occurs when the device width is below 360 pixels.
+
+UI Designer: I adjusted the layout and reduced the spacing around the order cards.
+
+Android Developer: I will include the layout change in the next build.
+
+Project Director: Please make sure the fix does not affect tablet layouts.
+
+UI Designer: I will test both small phones and tablets today.
+
+Backend Developer: The order-history API is stable. Response time is around 180 milliseconds for normal requests.
+
+Project Director: What happens with large histories?
+
+Backend Developer: For customers with more than 500 orders, the response increases to about 420 milliseconds.
+
+QA Lead: That could affect the smaller-screen issue if several pages are loaded quickly.
+
+Backend Developer: I can reduce the page size from 50 to 25 records and add a database index on customer ID and order date.
+
+Project Director: Test the change before applying it to production.
+
+Backend Developer: I will benchmark the query and deploy the optimized version to staging by Thursday.
+
+Security Engineer: I completed the mobile security review. No critical vulnerabilities were found, but two medium findings remain.
+
+Project Director: What are they?
+
+Security Engineer: The first is overly verbose error messages in one API response. The second is that an old analytics key is still present in a legacy configuration file.
+
+Backend Developer: I will remove the verbose error details and replace the legacy configuration.
+
+Security Engineer: I will verify both fixes by Friday morning.
+
+Project Director: Make sure the new key is stored through the secure configuration system.
+
+Backend Developer: I will verify that it is not committed to the repository.
+
+Analytics Lead: Analytics events are configured for login, search, product views, add-to-cart, checkout, and completed orders.
+
+Project Director: Are notification events tracked?
+
+Analytics Lead: Not yet. We need notification-open and notification-action events.
+
+Backend Developer: I can add the event payloads.
+
+Analytics Lead: I will update the analytics dashboard after those events are available.
+
+Project Director: Have the notification analytics ready before launch.
+
+Analytics Lead: I will finish the dashboard by Friday afternoon.
+
+Product Manager: The store listing content is ready except for the final screenshots.
+
+UI Designer: I will prepare screenshots for five phone sizes and two tablet sizes.
+
+Product Manager: Have them ready by Thursday evening.
+
+UI Designer: I will prepare them by Thursday evening.
+
+Project Director: What about the privacy policy and terms?
+
+Product Manager: Both are approved. The privacy-policy link is working in the application.
+
+QA Lead: I will verify the links in both Android and iOS builds.
+
+Project Director: Do that before store submission.
+
+Product Manager: The Android store submission draft is ready.
+
+iOS Developer: The iOS submission requires the final build number and screenshots.
+
+Product Manager: I will submit both builds after QA signs off.
+
+Project Director: What is the planned launch date?
+
+Product Manager: The current target is next Tuesday.
+
+Project Director: Then store submissions need to be completed by Friday so there is enough review time.
+
+Product Manager: I will submit them by Friday afternoon if QA signs off.
+
+QA Lead: I will complete the final regression cycle by Friday morning.
+
+Project Director: Include login, search, product details, cart, checkout, notifications, order history, profile, and offline behavior.
+
+QA Lead: I will include all of those.
+
+Support Lead: Customer support has prepared a launch FAQ. The main topics are login problems, password reset, notification settings, payments, and order tracking.
+
+Project Director: How many support agents are trained?
+
+Support Lead: Twelve agents have completed the training. Four more are scheduled for tomorrow.
+
+Support Lead: I will complete the remaining training by Thursday.
+
+Project Director: Prepare an escalation contact sheet as well.
+
+Support Lead: I will share it by Friday morning.
+
+Backend Developer: We should also monitor error rates during launch.
+
+DevOps Engineer: I can create alerts for API errors, authentication failures, payment failures, and notification delivery failures.
+
+Project Director: Set warning thresholds based on current baseline traffic.
+
+DevOps Engineer: I will configure the alerts and test them in staging by Friday.
+
+Product Manager: We should have a rollback build available in case the release causes a major issue.
+
+Android Developer: I will archive the previous stable build.
+
+iOS Developer: I will archive the previous iOS build too.
+
+Project Director: Keep both available until the launch review is complete.
+
+QA Lead: We should conduct a final release-readiness review.
+
+Project Director: Schedule it for Monday at 2 PM.
+
+Product Manager: I will prepare the release checklist before that meeting.
+
+QA Lead: I will attach the final test report.
+
+Security Engineer: I will attach the security verification report.
+
+Analytics Lead: I will attach the analytics validation report.
+
+Support Lead: I will attach the support readiness checklist.
+
+Project Director: The final decisions are to submit both mobile builds after QA sign-off, keep the previous stable builds available for rollback, monitor authentication, payment, API, and notification errors during launch, and conduct the final release-readiness review Monday at 2 PM.
+
+Product Manager: The launch remains targeted for next Tuesday.
+
+Project Director: Correct. Please update the launch task board today and report any remaining blockers at tomorrow's stand-up.
+
+QA Lead: I will update the test status before the stand-up.
+
+Project Director: Good. That concludes the readiness meeting.

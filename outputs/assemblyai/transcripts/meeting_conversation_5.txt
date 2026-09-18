@@ -1,0 +1,155 @@
+Marketing Manager: We need to finalize the launch campaign for the new smart-home product. The campaign includes social media, email, influencer outreach, the landing page, paid advertising, and customer support preparation.
+
+Content Lead: I completed the first draft of the landing page copy. The main sections cover product benefits, energy monitoring, mobile control, security alerts, and compatibility.
+
+Marketing Manager: Did you include pricing?
+
+Content Lead: Yes, but I left the final subscription price as a placeholder because finance has not approved it.
+
+Finance Representative: The hardware price is currently proposed at 18,999 rupees. The annual subscription is proposed at 1,999 rupees.
+
+Marketing Manager: Is that final?
+
+Finance Representative: Not yet. Finance will confirm it after reviewing the margin calculation tomorrow.
+
+Marketing Manager: Then keep the placeholder until confirmation.
+
+Content Lead: I will update the pricing section after finance confirms the final numbers.
+
+Social Media Lead: I prepared a four-week social media calendar. Week one focuses on awareness, week two on product demonstrations, week three on customer problems, and week four on launch offers.
+
+Marketing Manager: How many posts are planned?
+
+Social Media Lead: Five posts and three short videos per week.
+
+Marketing Manager: That is a lot. Do we have enough video material?
+
+Video Producer: I have filmed two demonstrations. The remaining three videos require the final product firmware.
+
+Product Manager: The firmware team expects the stable build by Thursday.
+
+Video Producer: I will shoot the remaining demonstrations on Friday if the build is ready.
+
+Marketing Manager: Good. Make sure the videos show the actual mobile app and not mockups.
+
+Video Producer: I will use the production-like build.
+
+Influencer Lead: I contacted six technology creators. Three are interested, two requested additional information, and one declined.
+
+Marketing Manager: What audience sizes are we talking about?
+
+Influencer Lead: The interested creators have audiences between 80,000 and 450,000 followers.
+
+Marketing Manager: Prepare a cost and audience comparison.
+
+Influencer Lead: I will prepare it by Wednesday.
+
+Finance Representative: We should compare the expected acquisition cost, not just audience size.
+
+Influencer Lead: I will include estimated cost per thousand impressions and expected engagement.
+
+Marketing Manager: Excellent.
+
+Email Lead: The first customer email draft is ready. It introduces the product and links to the early-access registration page.
+
+Marketing Manager: How many early-access registrations do we have?
+
+Email Lead: 1,240 registrations so far.
+
+Product Manager: The target is 2,000 before launch.
+
+Marketing Manager: We should send another email to users who registered but have not confirmed their address.
+
+Email Lead: I can create a reminder campaign.
+
+Marketing Manager: Do it, but exclude customers who already confirmed.
+
+Email Lead: I will prepare the reminder segment and email by Tuesday afternoon.
+
+Support Lead: Customer support needs a knowledge base before launch. The common questions are installation, Wi-Fi requirements, subscription billing, and mobile pairing.
+
+Marketing Manager: How complete is the knowledge base?
+
+Support Lead: About 60 percent complete.
+
+Support Lead: I will finish the remaining articles by Friday.
+
+Product Manager: The mobile application currently has one onboarding issue. The permission screen appears before the account setup is complete.
+
+Mobile Developer: I found that issue yesterday. I can move the permission request to the end of onboarding.
+
+Product Manager: Please test both Android and iOS after changing it.
+
+Mobile Developer: I will fix and test it by Thursday evening.
+
+Marketing Manager: What about the landing page performance?
+
+Content Lead: The current page loads in 3.2 seconds on a standard mobile connection.
+
+Web Developer: I can compress the hero images and defer two scripts.
+
+Marketing Manager: Target less than two seconds if possible.
+
+Web Developer: I will optimize the page and compare the results by Wednesday.
+
+Analytics Lead: Tracking is configured for page visits, registration clicks, video plays, and purchase clicks.
+
+Marketing Manager: Is the campaign source captured?
+
+Analytics Lead: Yes, UTM parameters are working. I will also create a dashboard showing traffic by campaign source.
+
+Marketing Manager: Have it ready by Friday morning.
+
+Analytics Lead: I will finish it by Friday morning.
+
+Finance Representative: Paid advertising budget is currently 600,000 rupees for the first month.
+
+Marketing Manager: How is that split?
+
+Finance Representative: Forty percent search, thirty-five percent social, fifteen percent video, and ten percent reserved for experiments.
+
+Marketing Manager: Keep ten percent for experiments.
+
+Finance Representative: That is already included.
+
+Product Manager: We should run a small ad experiment before the full launch.
+
+Marketing Manager: Agreed. Use three creative variants and compare click-through rate and registration conversion.
+
+Analytics Lead: I will prepare the experiment dashboard.
+
+Finance Representative: I will allocate the test budget.
+
+Marketing Manager: Start the experiment next Monday.
+
+Social Media Lead: I will publish the first teaser on the 1st and the product demonstration series from the 8th.
+
+Marketing Manager: Make sure the teaser does not reveal the final price before finance approves it.
+
+Content Lead: I will keep the price out of the teaser.
+
+Support Lead: We also need a process for negative reviews during launch week.
+
+Marketing Manager: Prepare response templates for installation problems, billing complaints, and connectivity issues.
+
+Support Lead: I will prepare those templates by Thursday.
+
+Product Manager: The launch target remains the 15th of next month.
+
+Marketing Manager: The campaign should be fully ready one week before launch.
+
+Social Media Lead: I will have the final social calendar ready by the 8th.
+
+Email Lead: I will schedule the launch email for the 15th after final approval.
+
+Marketing Manager: Let's hold the final campaign review next Friday at 4 PM.
+
+Finance Representative: Finance will confirm the final pricing before that review.
+
+Content Lead: I will update the landing page immediately after the pricing confirmation.
+
+Marketing Manager: Before we close, the decisions are to run a three-creative advertising experiment, keep the teaser free of final pricing, and hold the final campaign review next Friday at 4 PM.
+
+Analytics Lead: I will prepare the campaign dashboard by Friday morning.
+
+Marketing Manager: Everyone should update their campaign tasks before tomorrow's stand-up.

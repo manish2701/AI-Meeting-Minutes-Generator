@@ -1,0 +1,149 @@
+Project Lead: We are reviewing the migration from the on-premise PostgreSQL cluster to the managed cloud database. The migration plan has six areas: schema conversion, data transfer, application compatibility, security, performance, and rollback.
+
+Database Administrator: I completed the schema assessment. We have 146 tables, 23 stored procedures, 11 scheduled jobs, and approximately 680 gigabytes of data.
+
+Cloud Engineer: Did you identify any features that are not supported by the managed service?
+
+Database Administrator: Three stored procedures use extensions that need alternatives. Two scheduled jobs also depend on the old server's local filesystem.
+
+Backend Developer: I checked the application. The connection layer uses standard PostgreSQL drivers, so the application should not require major changes.
+
+Security Engineer: What about network access?
+
+Cloud Engineer: The managed database will be placed in a private subnet. Application servers will connect through the internal network, and public access will remain disabled.
+
+Project Lead: Good. We need the security group rules reviewed before migration.
+
+Security Engineer: I will review the inbound and outbound rules by Tuesday.
+
+Database Administrator: I ran a small migration test with 50 gigabytes of data. The transfer completed in 47 minutes, but the final verification took another 18 minutes.
+
+Project Lead: Did the checksums match?
+
+Database Administrator: Yes. The row counts and checksum samples matched.
+
+Cloud Engineer: The production dataset is much larger, so we should test parallel transfer.
+
+Database Administrator: I can run a 200-gigabyte test using four parallel workers tomorrow.
+
+Project Lead: Do that and record throughput and verification time.
+
+Database Administrator: I will prepare the test report by Wednesday.
+
+Backend Developer: I found one compatibility issue. The application expects the database timezone to be UTC, but the managed instance defaults to the configured region timezone.
+
+Project Lead: That could affect timestamps.
+
+Backend Developer: Yes. I will add an explicit UTC setting in the application connection configuration.
+
+Cloud Engineer: I can also set the database parameter to UTC so both layers use the same value.
+
+Project Lead: Let's configure UTC at both levels.
+
+Cloud Engineer: I will apply the setting in the staging environment today.
+
+QA Engineer: I want to test reports that use date ranges because timezone changes could shift records between days.
+
+Backend Developer: I will provide a list of the affected reports.
+
+QA Engineer: I will test those reports after the staging configuration is changed.
+
+Database Administrator: There is another concern. The largest table has about 310 million rows, and the initial migration test did not include it.
+
+Cloud Engineer: We should use a snapshot-based migration for that table instead of transferring everything through the application layer.
+
+Database Administrator: Agreed. I can create a snapshot and restore it into a temporary managed instance.
+
+Project Lead: Do that before the production migration rehearsal.
+
+Database Administrator: I will complete the large-table rehearsal by Thursday evening.
+
+Security Engineer: We also need encryption verification. The managed database supports encryption at rest, but we should verify key management and rotation.
+
+Cloud Engineer: The instance will use the organization's managed encryption key.
+
+Security Engineer: I will verify the key policy and rotation settings by Wednesday.
+
+Project Lead: Please document the verification results.
+
+Security Engineer: I will add them to the migration security checklist.
+
+Backend Developer: I tested the application against the staging database for basic login, search, reporting, and customer updates. The main workflows passed.
+
+QA Engineer: Did you test connection failures?
+
+Backend Developer: Not yet. I will test connection timeout, database restart, and credential failure scenarios.
+
+QA Engineer: Please include retry behavior.
+
+Backend Developer: I will complete the failure tests by Friday.
+
+Project Lead: What is our rollback mechanism?
+
+Database Administrator: The old database will remain read-only during the initial migration window. We can redirect the application back to it if verification fails.
+
+Cloud Engineer: I will prepare the DNS and connection switch procedure.
+
+Project Lead: Prepare a step-by-step rollback document and rehearse it.
+
+Cloud Engineer: I will prepare and test the rollback procedure by Friday afternoon.
+
+QA Engineer: We should also run performance tests before and after migration.
+
+Project Lead: What workload?
+
+QA Engineer: Search, dashboard queries, report generation, and bulk customer updates.
+
+Backend Developer: I can provide a script that generates the same workload against both databases.
+
+QA Engineer: I will run the benchmark with 100, 500, and 1,000 concurrent requests.
+
+Project Lead: Complete the benchmark by Friday.
+
+QA Engineer: I will complete it by Friday evening.
+
+Database Administrator: There is a data retention issue. The old database contains records older than the current retention policy.
+
+Project Lead: We should not delete anything until legal confirms the retention requirement.
+
+Security Engineer: I will contact legal and request written confirmation.
+
+Project Lead: Do that before the migration rehearsal.
+
+Security Engineer: I will follow up tomorrow.
+
+Cloud Engineer: The production migration window is currently planned for Saturday from 11 PM to 3 AM.
+
+Project Lead: That gives us four hours.
+
+Database Administrator: Based on the 200-gigabyte test, we need to optimize the transfer for the full dataset.
+
+Cloud Engineer: I can increase the transfer workers during the migration window.
+
+Project Lead: Use the highest safe parallelism we can support without affecting the source system.
+
+Cloud Engineer: I will test the maximum safe setting during the rehearsal.
+
+QA Engineer: We also need business users to validate the reports after migration.
+
+Project Lead: The finance and operations teams will receive a validation checklist.
+
+QA Engineer: I will prepare the checklist by Thursday.
+
+Backend Developer: I will send the updated connection configuration to the deployment team before the rehearsal.
+
+Project Lead: The migration rehearsal will be Friday at 8 PM.
+
+Cloud Engineer: Then I will have the environment prepared by Friday afternoon.
+
+Project Lead: After the rehearsal, we will decide whether the Saturday production migration can proceed.
+
+Security Engineer: I will attend the rehearsal and verify network and encryption controls.
+
+Database Administrator: I will verify row counts and checksums after the rehearsal.
+
+Project Lead: Good. The main decisions are to configure UTC at both application and database levels, use a snapshot-based approach for the largest table, keep the old database read-only during the migration window, and perform a full rollback rehearsal before production.
+
+Cloud Engineer: I will update the migration runbook with those decisions.
+
+Project Lead: Update the task board today and report any migration blockers in tomorrow morning's stand-up.
