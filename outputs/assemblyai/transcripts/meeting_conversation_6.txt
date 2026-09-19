@@ -1,0 +1,137 @@
+Incident Manager: We are reviewing yesterday's security incident involving unusual authentication traffic. The purpose is to understand the timeline, identify the root cause, confirm whether customer data was exposed, and define the remediation work.
+
+Security Analyst: The first alert was generated at 02:14 AM. The authentication service received approximately 18,000 login attempts within twelve minutes from a small group of IP addresses.
+
+Incident Manager: Were the attempts successful?
+
+Security Analyst: About 96 percent failed. Roughly 720 attempts reached valid accounts, but we have not found evidence that the attackers accessed protected customer records.
+
+Backend Engineer: I checked the authentication logs and found repeated requests against the password-reset endpoint.
+
+Security Analyst: That endpoint was not rate-limited as strictly as the login endpoint.
+
+Incident Manager: Why was the difference introduced?
+
+Backend Engineer: The password-reset endpoint was implemented separately because it uses email verification.
+
+Security Engineer: I recommend applying the same rate-limiting policy to both endpoints.
+
+Incident Manager: We will apply the stricter rate limit to password reset as well.
+
+Backend Engineer: I will implement the rate limit and deploy it to staging today.
+
+Security Analyst: I will verify the new limit using a controlled test.
+
+Incident Manager: Do not run aggressive tests against production.
+
+Security Analyst: Understood.
+
+Database Engineer: I checked the audit logs for the affected accounts. There were 34 password-reset requests associated with valid customer accounts, but only five completed the email verification step.
+
+Incident Manager: Did any of those five accounts have unusual activity afterward?
+
+Database Engineer: Four showed no activity. One account had a profile update from the same browser fingerprint that initiated the reset.
+
+Security Analyst: We should review that account manually.
+
+Incident Manager: Do that first.
+
+Database Engineer: I will prepare the account activity timeline by noon.
+
+Privacy Officer: Have we confirmed whether any personal data was accessed?
+
+Database Engineer: No evidence of access to customer records has been found so far. The affected service does not directly return full customer profiles.
+
+Privacy Officer: We still need a documented evidence review.
+
+Privacy Officer: I will complete the initial privacy assessment by tomorrow afternoon.
+
+Incident Manager: Good.
+
+Security Engineer: The IP addresses were blocked at the edge firewall, and the authentication service is stable now.
+
+Network Engineer: I also added a temporary rule to block the highest-volume sources.
+
+Incident Manager: How long should the temporary rule remain?
+
+Security Engineer: Until the permanent rate-limiting changes are deployed and verified.
+
+Incident Manager: Keep it in place until verification.
+
+Backend Engineer: I found that one application server had a debug endpoint enabled in staging, but not in production.
+
+Incident Manager: Confirm that production has no debug endpoints exposed.
+
+Backend Engineer: I will run the endpoint inventory and verify production by today evening.
+
+Security Analyst: We should also rotate the service credentials associated with the authentication service.
+
+Incident Manager: Agreed. Rotate them after the incident evidence is collected.
+
+DevOps Engineer: I can rotate the credentials and update the deployment secrets.
+
+Incident Manager: Do it after Security Analyst confirms the evidence snapshot.
+
+Security Analyst: I will create the evidence snapshot before 5 PM today.
+
+DevOps Engineer: Then I will rotate the credentials tonight.
+
+Database Engineer: There is another concern. Some logs contain full email addresses.
+
+Privacy Officer: Those logs should be masked.
+
+Backend Engineer: I can change the logging formatter so email addresses are partially masked.
+
+Privacy Officer: Please test the masking with normal, failed, and malformed addresses.
+
+Backend Engineer: I will test all three cases by Wednesday.
+
+Incident Manager: We also need to review monitoring.
+
+Security Analyst: The current alert triggers on failed login volume but not on password-reset spikes.
+
+DevOps Engineer: I can add an alert for password-reset volume and unusual geographic distribution.
+
+Incident Manager: Add both alerts.
+
+DevOps Engineer: I will configure them by Thursday morning.
+
+Network Engineer: We should also review whether the firewall rule can automatically respond to repeated attack patterns.
+
+Security Engineer: We can enable automated blocking for the highest-confidence signatures, but I want to test false positives first.
+
+Incident Manager: Test it in staging before enabling automation.
+
+Security Engineer: I will prepare the staging test cases by Thursday.
+
+Privacy Officer: We also need an incident report for management.
+
+Incident Manager: Include the timeline, affected services, evidence reviewed, actions taken, and remaining risks.
+
+Security Analyst: I will draft the incident report by Thursday afternoon.
+
+Incident Manager: Management review will be Friday at 2 PM.
+
+Privacy Officer: I will attend and provide the privacy assessment.
+
+Database Engineer: I will provide the account activity timeline.
+
+DevOps Engineer: I will provide the credential-rotation confirmation and monitoring configuration.
+
+Incident Manager: Before the management review, we need confirmation that the rate limit, credential rotation, log masking, and alerts are all verified.
+
+Security Analyst: I will create a remediation checklist.
+
+Incident Manager: Put the checklist in the incident folder and update it as each task is completed.
+
+Security Analyst: I will update it after each verification.
+
+Incident Manager: The decisions are to apply stricter rate limiting to password reset, retain the temporary firewall block until verification, rotate authentication credentials after evidence collection, and test automated blocking before production use.
+
+Network Engineer: I will update the network incident notes.
+
+Incident Manager: Do that by tomorrow morning.
+
+DevOps Engineer: I will update the deployment notes after the credential rotation.
+
+Incident Manager: Good. Everyone should report any new indicators immediately rather than waiting for the management review.

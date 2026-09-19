@@ -1,0 +1,145 @@
+Department Head: Today's meeting is about the university's new AI lab project. We need to review the equipment list, room preparation, student access, safety procedures, budget, and the first semester workshop schedule.
+
+Lab Coordinator: The room renovation is approximately 70 percent complete. Electrical work is finished, network cabling is installed, and the new workstations have been delivered.
+
+IT Administrator: How many workstations arrived?
+
+Lab Coordinator: Thirty-two workstations arrived. Two have damaged monitors and are being replaced by the supplier.
+
+Department Head: When will the replacements arrive?
+
+Lab Coordinator: The supplier promised delivery by Friday.
+
+IT Administrator: I configured the network switches yesterday. Each workstation has access to the internal development VLAN, but internet access is still restricted.
+
+Department Head: That is fine for now. We need to complete security configuration before unrestricted access.
+
+IT Administrator: I will finish the firewall rules and test the VLAN isolation by Wednesday.
+
+Faculty Member: The GPU machines are important for the deep-learning workshops. Have they been installed?
+
+Lab Coordinator: Eight GPU workstations are installed, but the CUDA environment has not been configured.
+
+IT Administrator: I can install the required drivers and verify the CUDA versions.
+
+Faculty Member: Please make sure the versions match the software environment we will use in the workshops.
+
+IT Administrator: I will complete the GPU software setup by Thursday.
+
+Department Head: What software stack are we standardizing on?
+
+Faculty Member: Python, JupyterLab, PyTorch, TensorFlow, and the university's Git service.
+
+IT Administrator: JupyterLab will run locally, while Git repositories will be hosted on the university server.
+
+Department Head: Let's standardize the lab images so every workstation has the same environment.
+
+IT Administrator: I will create a base image and test it on three machines first.
+
+Faculty Member: I will prepare the required Python packages and environment file by Tuesday.
+
+Department Head: Good.
+
+Student Coordinator: We also need an access policy. Students should not be able to install arbitrary software on the lab machines.
+
+IT Administrator: We can give students standard accounts and provide a controlled package installation process.
+
+Department Head: Use standard accounts and require administrator approval for additional software.
+
+IT Administrator: I will configure the account policy before the lab opens.
+
+Faculty Member: The first workshop will cover introductory machine learning. I have prepared a draft agenda with data preprocessing, regression, classification, and model evaluation.
+
+Department Head: How long is the workshop?
+
+Faculty Member: Three hours.
+
+Student Coordinator: We should leave at least thirty minutes for students to set up their environments.
+
+Faculty Member: Then the teaching section will be two and a half hours.
+
+Department Head: Let's schedule the first workshop for next Saturday at 10 AM.
+
+Student Coordinator: I will prepare the registration form and student instructions by Thursday.
+
+Faculty Member: I will finalize the workshop slides by Friday evening.
+
+Lab Coordinator: We also need to decide how students will access the GPU machines outside workshop hours.
+
+Department Head: Allow access only through the booking system.
+
+IT Administrator: I can integrate the booking system with the existing university login.
+
+Student Coordinator: Can students reserve more than one machine?
+
+Department Head: Limit each student to one active reservation.
+
+IT Administrator: I will configure the access rule and test it with sample accounts by Friday.
+
+Faculty Member: What about project storage? Some students will generate large datasets.
+
+IT Administrator: The current storage allocation is 4 TB.
+
+Lab Coordinator: We may need more. Last year's data-science projects used nearly 3 TB.
+
+Department Head: Request an additional 4 TB so we have enough capacity for this academic year.
+
+Lab Coordinator: I will submit the storage request today.
+
+Student Coordinator: We also need backup rules.
+
+IT Administrator: Daily incremental backups and weekly full backups are available.
+
+Department Head: Use daily incremental and weekly full backups.
+
+IT Administrator: I will configure the backup schedule and test a restore by next Monday.
+
+Faculty Member: Safety training should be mandatory before students receive lab access.
+
+Department Head: Agreed.
+
+Student Coordinator: I will prepare a short safety quiz and acknowledgment form.
+
+Department Head: Have that ready before the first workshop.
+
+Student Coordinator: I will finish it by Thursday.
+
+Lab Coordinator: The room also needs emergency signage and a first-aid kit.
+
+Department Head: Please install both before Friday.
+
+Lab Coordinator: I will arrange the signage and first-aid kit by Thursday afternoon.
+
+IT Administrator: There is one more issue. The lab's internal Git service currently has a 100 MB file limit.
+
+Faculty Member: Some machine-learning datasets will be larger than that.
+
+IT Administrator: We can store large datasets on the lab storage and keep code and configuration files in Git.
+
+Department Head: Use that approach and document it for students.
+
+Faculty Member: I will add the storage instructions to the workshop material.
+
+Student Coordinator: We should also explain how students should report GPU or network problems.
+
+IT Administrator: I will create a support form and add the lab administrator contact information.
+
+Department Head: Make the support form available before the lab opens.
+
+IT Administrator: I will publish it by Friday.
+
+Faculty Member: The first student project review should happen after four weeks.
+
+Department Head: Schedule it for the fourth Friday of the semester at 2 PM.
+
+Student Coordinator: I will prepare the project review rubric by the second week.
+
+Department Head: Good. Before we close, our decisions are to standardize the workstation image, use standard student accounts, require booking for GPU access, limit students to one active reservation, use daily incremental and weekly full backups, and require safety training before access.
+
+Lab Coordinator: I will update the room-preparation checklist.
+
+IT Administrator: I will update the technical setup checklist.
+
+Faculty Member: I will send the workshop plan to the department.
+
+Department Head: Send all updated checklists to me by Friday afternoon.

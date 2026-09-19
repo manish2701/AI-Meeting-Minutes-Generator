@@ -1,0 +1,35 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_4.txt
+
+KEY POINTS
+--------------------
+• Good. Before we close, our decisions are to standardize the workstation image, use standard student accounts, require booking for GPU access, limit students to one active reservation, use daily incremental and weekly full backups, and require safety training before access.
+• The room renovation is approximately 70% complete. Electrical work is finished, network cabling is installed, and the new workstations have been delivered.
+• I have prepared a draft agenda with data preprocessing, regression, classification and model evaluation.
+• I configured the network switches yesterday. Each workstation has access to the internal development VLAN, but internet access is still restricted.
+• There is one more issue. The lab's internal Git service currently has a 100 MB file limit.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• IT Administrator — finish the firewall rules and test the VLAN isolation by Wednesday
+• IT Administrator — install the required drivers and verify the CUDA versions
+• IT Administrator — complete the GPU software setup by Thursday
+• IT Administrator — create a base image and test it on three machines first
+• Faculty Member — prepare the required Python packages and environment file by Tuesday
+• IT Administrator — configure the account policy before the lab opens
+• Student Coordinator — prepare the registration form and student instructions by Thursday
+• Faculty Member — finalize the workshop slides by Friday evening
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Meeting date — Today.
+• Let's schedule the first workshop for — next Saturday.
+• I will finalize the workshop slides by — Friday evening.
+• will configure the backup schedule and test a restore by — next Monday.
+• I will arrange the signage and first-aid kit by — Thursday afternoon.
+• Send all updated checklists to me by — Friday afternoon.

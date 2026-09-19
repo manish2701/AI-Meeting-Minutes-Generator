@@ -1,0 +1,153 @@
+Scrum Master: Welcome everyone. This sprint review is focused on the recommendation engine, data quality, model performance, API integration, and the mobile experience. We also need to decide whether the current model is ready for the pilot release.
+
+Data Engineer: The new customer event dataset has been loaded into the warehouse. We now have approximately 2.4 million events covering the last six months.
+
+ML Engineer: I finished preprocessing yesterday. I removed duplicate event IDs, normalized timestamps, and handled missing device information.
+
+Product Manager: Did you measure how much data was removed?
+
+Data Engineer: About 3.8 percent of the raw events were duplicates. Another 1.2 percent had incomplete fields.
+
+ML Engineer: After cleaning, the training dataset contains 2.28 million events.
+
+QA Lead: Did the preprocessing change the class distribution?
+
+ML Engineer: Slightly. The positive recommendation class increased from 14.7 percent to 15.1 percent because several duplicate negative events were removed.
+
+Product Manager: Is that difference acceptable?
+
+ML Engineer: Yes, but I want to compare the model using both the old and new preprocessing pipeline.
+
+ML Engineer: I will run that comparison by Wednesday afternoon.
+
+Data Engineer: The feature pipeline is also ready. I added rolling seven-day activity, thirty-day purchase frequency, average order value, and category diversity.
+
+ML Engineer: The first experiment with the new features achieved 87.4 percent accuracy and an F1 score of 0.81.
+
+QA Lead: What about precision and recall?
+
+ML Engineer: Precision is 0.84 and recall is 0.78.
+
+Product Manager: How does that compare with the current production model?
+
+ML Engineer: The production model has an F1 score of 0.76 on the same validation sample.
+
+Product Manager: That is an improvement, but we should not make the decision using accuracy alone.
+
+ML Engineer: Agreed. I will prepare a complete comparison with precision, recall, F1, and inference time.
+
+Data Engineer: The second experiment uses gradient boosted trees. It reached an F1 score of 0.83 but inference time increased by about 40 milliseconds per request.
+
+Product Manager: Is 40 milliseconds acceptable for the API?
+
+Backend Developer: The current service budget is 200 milliseconds at the 95th percentile. The additional 40 milliseconds is manageable, but the database query also contributes around 70 milliseconds.
+
+Backend Developer: I can optimize the feature lookup query and add a cache for frequently requested customer profiles.
+
+Product Manager: How long will that take?
+
+Backend Developer: I will benchmark the query and implement the cache by Thursday.
+
+QA Lead: Please test both cold-cache and warm-cache performance.
+
+Backend Developer: I will include both cases.
+
+Mobile Developer: The mobile recommendation screen is almost finished. I added the recommendation cards, explanation text, and a refresh button.
+
+Product Manager: Does refresh call the recommendation API every time?
+
+Mobile Developer: Yes. I can add a five-minute local cache so users do not repeatedly request the same recommendations.
+
+Product Manager: Do that, but make sure the user can manually refresh.
+
+Mobile Developer: I will implement the cache and manual refresh behavior by Thursday evening.
+
+QA Lead: I found a problem with the explanation text. For some customers the model recommends a product, but the explanation mentions a different category.
+
+ML Engineer: I saw that too. It happens when the feature explanation is generated from stale category metadata.
+
+Data Engineer: The metadata table is updated once per day, while the recommendation features are updated every hour.
+
+Product Manager: That mismatch needs to be resolved before the pilot.
+
+Data Engineer: I can change the metadata refresh to every four hours.
+
+Product Manager: Let's use four-hour metadata refreshes for the pilot.
+
+Data Engineer: I will update the schedule today.
+
+ML Engineer: I will also add a validation check that compares recommendation category IDs against the current metadata before returning explanations.
+
+QA Lead: Please include that validation in regression testing.
+
+ML Engineer: I will add it by Friday morning.
+
+Backend Developer: There is another issue with the API. When the customer has no recent activity, the endpoint sometimes returns an empty recommendation list.
+
+Product Manager: Is that expected?
+
+ML Engineer: Not really. We have a fallback popularity model for customers with insufficient history, but the fallback is not being triggered for one specific null-value condition.
+
+Backend Developer: I can fix the condition and add a test case for new customers.
+
+Backend Developer: I will deploy the fix to staging by Wednesday.
+
+QA Lead: I will test new customers, returning customers, and customers with incomplete history after the staging deployment.
+
+Product Manager: Good.
+
+Data Engineer: We also need to review data privacy. The recommendation logs currently contain the customer ID and several feature values.
+
+Product Manager: Do we need all of those values in the logs?
+
+ML Engineer: No. We only need a hashed request ID, model version, latency, and recommendation result for debugging.
+
+Product Manager: Then remove raw customer identifiers from the application logs.
+
+Backend Developer: I will update the logging configuration and verify the production log format before Friday.
+
+QA Lead: I will verify that customer IDs are not present in the staging logs.
+
+Product Manager: Please include that in the release checklist.
+
+Scrum Master: We also need to discuss the pilot size.
+
+Product Manager: The initial pilot should include 5,000 customers across three regions.
+
+Data Engineer: Should the regions be selected randomly?
+
+Product Manager: Use the regions with the highest event volume so we get enough activity for evaluation.
+
+ML Engineer: I will prepare the pilot sampling query and share the customer counts by Tuesday.
+
+Data Engineer: I will validate the sample for duplicate customers before it is sent to the product team.
+
+QA Lead: What is the pilot duration?
+
+Product Manager: Two weeks. We should review results after the first week and again at the end.
+
+Scrum Master: Let's schedule the first pilot review for next Wednesday at 2 PM.
+
+Product Manager: Yes, and the final pilot review will be the following Friday at 3 PM.
+
+Mobile Developer: I also need the final API response schema before I finish the mobile integration.
+
+Backend Developer: I will send the updated schema this afternoon.
+
+Mobile Developer: Then I will complete the mobile API integration by Friday.
+
+Product Manager: Make sure the recommendation explanation field is optional so an API failure does not block the recommendation card.
+
+Backend Developer: I will update the schema accordingly.
+
+QA Lead: I will add an API contract test for the optional field.
+
+Product Manager: Before we close, the decisions are: use the gradient boosted model as the candidate for the pilot, refresh metadata every four hours, remove raw customer identifiers from logs, and start the pilot with 5,000 customers across three high-volume regions.
+
+ML Engineer: I will prepare the model comparison report by Thursday.
+
+Backend Developer: I will complete the feature-query optimization by Thursday and the logging changes by Friday.
+
+QA Lead: I will prepare the regression cases today.
+
+Scrum Master: Everyone should update the task board before the daily stand-up tomorrow.

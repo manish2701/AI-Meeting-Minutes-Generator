@@ -1,0 +1,223 @@
+Project Manager: Good morning everyone. Today we need to review the release readiness for the customer analytics platform. We have the backend, dashboard, data pipeline, authentication, testing, and deployment work to cover. Please keep the discussion focused because we need to finalize the release plan today.
+
+Aarav: The data ingestion pipeline is mostly complete. I finished the CSV and API ingestion jobs yesterday, and the pipeline is now processing the daily customer files automatically.
+
+Meera: What about the validation errors we saw during the last test?
+
+Aarav: I checked those yesterday. Most were caused by missing customer IDs and invalid date formats in the source files. I added validation rules for both cases, but there are still a few records that need manual review.
+
+Project Manager: How many records are still affected?
+
+Aarav: The latest test had 18 invalid records out of about 12,000 rows. Twelve were missing customer IDs and six had invalid dates.
+
+Meera: Can the pipeline reject those records without stopping the entire batch?
+
+Aarav: Yes. Invalid records are now moved to a separate error file while valid records continue through the pipeline.
+
+Project Manager: Please upload the latest error file to the shared project folder after the meeting.
+
+Aarav: I will upload it after this meeting.
+
+Meera: I completed the dashboard redesign. The overview page now shows total customers, active customers, monthly revenue, churn rate, and unresolved support cases.
+
+Project Manager: Are the filters working?
+
+Meera: The date and region filters are working correctly. The product filter still has an issue when more than one product is selected. The API sends the selected values correctly, but the dashboard query only uses the first value.
+
+Rohan: I can fix that query. I will update the product filter logic and test it with single and multiple selections by tomorrow afternoon.
+
+Project Manager: Please also make sure the filter state remains selected when the user moves from the overview page to the customer details page.
+
+Rohan: I will test that as part of the same change.
+
+Meera: The customer details page is almost finished. I added customer profile information, purchase history, support tickets, and recent activity.
+
+Project Manager: What is still missing?
+
+Meera: The export button. The design is ready, but the export API has not been connected yet.
+
+Rohan: I can connect the export API after I finish the product filter issue.
+
+Project Manager: We need the export feature included in the release candidate.
+
+Aarav: There is another data issue. The customer segmentation job is producing different totals between the staging database and the dashboard.
+
+Meera: How large is the difference?
+
+Aarav: Staging has 8,420 active customers, but the dashboard shows 8,367.
+
+Project Manager: Did you check whether the dashboard is applying an additional filter?
+
+Meera: Yes. The dashboard query excludes customers whose account status is pending, while the staging query counts them as active.
+
+Aarav: That explains the difference. I can update the staging query to use the same status definition.
+
+Project Manager: Before changing the staging query, let's confirm the business definition. We should not change the data pipeline just to match the dashboard.
+
+Meera: According to the requirements document, only customers with an active subscription should be counted as active.
+
+Project Manager: Then the dashboard is correct if it filters by active subscription. Aarav, please update the staging validation query to use the same definition and share the comparison results.
+
+Aarav: I will do that by Thursday morning.
+
+Rohan: I have one concern about the export API. The current endpoint returns all customer records at once. With a large customer list, that could create a timeout.
+
+Project Manager: What size are we expecting?
+
+Rohan: The database has around 120,000 customer records and is growing every month.
+
+Meera: Can we export only the filtered records?
+
+Rohan: Yes. I can make the export endpoint accept the same region, date, and product filters as the dashboard.
+
+Project Manager: Let's use the filtered export approach.
+
+Rohan: I will update the API contract and implement the filtered export endpoint by Friday.
+
+Project Manager: Send the API contract to Meera before you start.
+
+Rohan: I will send it this afternoon.
+
+Meera: Once I receive the contract, I can connect the export button and test the downloaded CSV.
+
+Project Manager: Now let's discuss authentication.
+
+Rohan: The login and registration flows are complete. Password reset is also working in development, but email verification still uses a test SMTP account.
+
+Project Manager: We cannot use the test SMTP account in production.
+
+Rohan: I will replace it with the production email service after we receive the credentials.
+
+Meera: Do we already have those credentials?
+
+Project Manager: Operations will provide them tomorrow. I will follow up this afternoon.
+
+Rohan: Once I receive them, I can configure the email service and test registration, password reset, and email verification.
+
+Project Manager: Store the credentials in environment variables and do not commit them to the repository.
+
+Rohan: I will verify that before the release build.
+
+Aarav: The segmentation task sometimes runs before ingestion has finished. It happened twice in the last seven nightly runs.
+
+Project Manager: What happens when that occurs?
+
+Aarav: Segmentation starts with incomplete data.
+
+Meera: Can we make segmentation depend on successful ingestion instead of a fixed start time?
+
+Aarav: Yes. I can change the scheduler so segmentation starts only after ingestion completes successfully.
+
+Project Manager: Do that and add an alert if ingestion fails.
+
+Aarav: I will add the dependency and failure alert by Friday morning.
+
+Meera: The dashboard overview page takes around four seconds to load for a full month of data.
+
+Rohan: The slowest query is the monthly revenue aggregation. It scans the transaction table every time because there is no suitable index on the transaction date column.
+
+Project Manager: Create the index in staging first. Do not apply it directly to production.
+
+Rohan: I will add the index in staging and compare response time by Thursday afternoon.
+
+Aarav: I can also check whether ingestion creates duplicate transactions.
+
+Project Manager: Check that, but do not change ingestion logic until we confirm the source.
+
+Aarav: I will prepare a duplicate-record report by Thursday.
+
+Meera: The support-case table does not show the last updated time. The API already returns the timestamp; it is just not displayed.
+
+Meera: I will add the last updated column and make sure the timestamp uses the user's local time.
+
+Project Manager: Include that in the next frontend build.
+
+Meera: I will finish it by Wednesday evening.
+
+Tester: I completed smoke testing for login, registration, dashboard loading, and customer search. All four passed.
+
+Project Manager: What about export and segmentation?
+
+Tester: I could not complete those because the export endpoint is still changing and segmentation data is not stable in staging.
+
+Project Manager: We will conduct the full regression test after those two areas are ready.
+
+Tester: I can prepare the regression checklist today and share it with the team.
+
+Project Manager: Include authentication, filters, exports, segmentation, dashboard calculations, and failure scenarios.
+
+Tester: I will include all of those.
+
+Meera: We should test the dashboard with a large dataset. Current test data has only 15,000 transactions.
+
+Rohan: I can generate a staging dataset with around 500,000 transactions.
+
+Project Manager: Create the dataset by Thursday and let the tester know when it is ready.
+
+Rohan: I will prepare it by Thursday afternoon.
+
+Tester: Once it is available, I will run the performance test and record page-load times for 15,000, 100,000, and 500,000 transactions.
+
+Project Manager: Good.
+
+Aarav: Staging uses Python 3.11, but production currently has Python 3.10. Some dependencies were tested only on 3.11.
+
+Project Manager: Can we upgrade production?
+
+Rohan: Yes, but that needs an operations change request.
+
+Project Manager: I will raise the change request today and ask operations to confirm whether the upgrade can be completed before release.
+
+Aarav: I can test the application with Python 3.10 locally.
+
+Rohan: I will generate a locked dependency file so we use the same package versions.
+
+Project Manager: Generate it before the release candidate is built.
+
+Rohan: I will generate the locked dependency file by Wednesday.
+
+Project Manager: The current release target is next Monday. We need the release candidate ready by Monday morning.
+
+Tester: If export and segmentation fixes are completed by Friday, I can start regression testing Friday afternoon.
+
+Project Manager: Let's schedule the design review for Friday at 11 AM and the release-readiness review for Monday at 3 PM.
+
+Rohan: I will make sure the frontend build is available before the Friday design review.
+
+Meera: I will prepare the updated dashboard screenshots and release notes before Friday morning.
+
+Aarav: I will prepare the data validation report before the design review.
+
+Meera: The user guide is about 80 percent complete. The remaining sections are export instructions and troubleshooting.
+
+Project Manager: Please finish those sections by Friday.
+
+Meera: I will finish them by Friday morning.
+
+Rohan: The API documentation needs the updated export endpoint and authentication details.
+
+Project Manager: Update the API documentation after the endpoint contract is finalized.
+
+Rohan: I will update it by Friday afternoon.
+
+Tester: I will add the final regression results to the release document after testing.
+
+Project Manager: The release document should contain the test summary, known issues, deployment checklist, and rollback steps.
+
+Tester: I will add those sections after regression testing.
+
+Project Manager: To summarize, we are using filtered exports instead of exporting the complete customer database. Segmentation will run only after successful ingestion. The active-customer definition will use active subscriptions. Performance testing will use 15,000, 100,000, and 500,000 transaction levels.
+
+Meera: And the design review is Friday at 11 AM.
+
+Project Manager: Correct. The release-readiness review is Monday at 3 PM, and the release candidate is targeted for Monday morning.
+
+Aarav: I will upload the data validation report before the Friday design review.
+
+Rohan: I will send the export API contract this afternoon and complete the export implementation by Friday.
+
+Tester: I will prepare the regression checklist today and run the full regression once the remaining features are ready.
+
+Project Manager: Please update the task board before the end of the day and report any blockers in tomorrow's stand-up.
+
+Meera: Thanks everyone.

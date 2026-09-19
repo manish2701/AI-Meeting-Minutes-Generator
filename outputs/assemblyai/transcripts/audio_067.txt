@@ -1,1 +1,0 @@
-The interface is mainly, while it is running, just working on data that is just loaded from a file, I guess.

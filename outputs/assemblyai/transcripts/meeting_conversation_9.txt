@@ -1,0 +1,141 @@
+Finance Manager: Today's budget review covers the next software development phase. We need to examine personnel costs, cloud infrastructure, software licenses, testing, contingency, and the expected spending for the next quarter.
+
+Finance Analyst: The current proposed budget is 3.8 million rupees.
+
+Finance Manager: How is it divided?
+
+Finance Analyst: Personnel is 2.1 million, cloud infrastructure is 620,000, software licenses are 310,000, testing services are 280,000, and contingency is 490,000.
+
+Engineering Manager: Cloud infrastructure seems high.
+
+Cloud Architect: The estimate assumes 24-hour operation of the staging environment and a 30 percent increase in production traffic.
+
+Engineering Manager: Can we reduce staging runtime?
+
+Cloud Architect: Yes. We can shut down non-production resources overnight and on weekends.
+
+Finance Manager: What would that save?
+
+Cloud Architect: Approximately 90,000 rupees per quarter.
+
+Engineering Manager: That seems reasonable.
+
+Cloud Architect: I will prepare an optimized cloud estimate by Wednesday.
+
+Finance Analyst: The software license estimate includes three enterprise analytics licenses and two security tools.
+
+Engineering Manager: Do all teams need the enterprise analytics licenses?
+
+Data Analyst: The analytics team needs two. Product and engineering currently use open-source tools for most analysis.
+
+Finance Manager: Then reduce the enterprise license count to two for the initial budget.
+
+Finance Analyst: I will update the budget model today.
+
+Security Manager: The security-tool estimate includes a vulnerability scanner and a cloud security platform.
+
+Finance Manager: Are both required?
+
+Security Manager: The scanner is required for compliance. The cloud platform is recommended for continuous monitoring.
+
+Engineering Manager: Could we delay the cloud platform until the second quarter?
+
+Security Manager: Yes, but we would have less continuous visibility.
+
+Finance Manager: Keep the scanner in the initial budget and show the cloud platform as an optional second-quarter item.
+
+Finance Analyst: I will create both scenarios.
+
+Engineering Manager: We also need more testing capacity. The current QA team is overloaded during release weeks.
+
+Finance Manager: What additional cost are you proposing?
+
+QA Manager: One contract tester for three months, estimated at 240,000 rupees.
+
+Finance Manager: What benefit would that provide?
+
+QA Manager: It would allow us to increase regression coverage and reduce the backlog before releases.
+
+Engineering Manager: I support the additional testing capacity.
+
+Finance Manager: Include it in the proposed budget, but track the actual usage monthly.
+
+QA Manager: I will prepare the staffing plan by Thursday.
+
+Finance Analyst: The contingency amount is 490,000, which is about 13 percent of the total.
+
+Finance Manager: Is that sufficient?
+
+Finance Analyst: It covers approximately two months of the current cloud and contractor risk estimates.
+
+Engineering Manager: We may also need additional storage if the analytics dataset grows faster than expected.
+
+Cloud Architect: The current storage estimate assumes 8 TB. At current growth, we could reach 11 TB by the end of the quarter.
+
+Finance Manager: Prepare a sensitivity scenario for 8 TB, 10 TB, and 12 TB.
+
+Cloud Architect: I will prepare it by Thursday afternoon.
+
+Data Analyst: There is also a proposal to purchase a data-quality monitoring tool.
+
+Finance Manager: What is the annual cost?
+
+Data Analyst: Approximately 180,000 rupees.
+
+Engineering Manager: We could build basic checks internally.
+
+Data Analyst: Internal checks would cover missing values and duplicates but not distribution drift.
+
+Finance Manager: Show the cost and coverage difference.
+
+Data Analyst: I will prepare the comparison by Friday.
+
+Security Manager: We should not reduce security spending simply to meet the budget target.
+
+Finance Manager: Agreed. Security requirements will be treated separately from optional improvements.
+
+Finance Analyst: The current quarterly cloud estimate is based on last quarter's traffic.
+
+Cloud Architect: Traffic increased 22 percent last month.
+
+Finance Manager: Update the estimate using the latest traffic numbers.
+
+Cloud Architect: I will update it by tomorrow morning.
+
+Engineering Manager: The development team also wants a new code-analysis license.
+
+Finance Manager: How many users?
+
+Engineering Manager: Twenty-five developers.
+
+Finance Analyst: The annual cost would be about 150,000 rupees.
+
+Finance Manager: Put it in the optional section unless the engineering team can show a measurable benefit.
+
+Engineering Manager: I will prepare a short productivity comparison by Friday.
+
+Finance Manager: Good.
+
+Finance Analyst: We should review the budget every month instead of waiting until the end of the quarter.
+
+Finance Manager: Let's schedule monthly budget reviews on the first Monday of each month.
+
+Engineering Manager: The first review should be next month.
+
+Finance Manager: Agreed.
+
+Finance Analyst: I will prepare the monthly reporting template.
+
+Finance Manager: Have it ready by Thursday.
+
+Finance Analyst: I will finish it by Thursday.
+
+Finance Manager: Before closing, the budget decisions are to reduce enterprise analytics licenses to two, include one contract tester, keep the vulnerability scanner in the initial budget, show the cloud security platform as a second-quarter option, and review the budget monthly.
+
+Finance Analyst: I will circulate the revised budget by Friday afternoon.
+
+Cloud Architect: I will send the updated cloud scenarios tomorrow and the storage sensitivity analysis Thursday.
+
+QA Manager: I will send the staffing plan Thursday.
+
+Finance Manager: Everyone should report budget changes before the next review.

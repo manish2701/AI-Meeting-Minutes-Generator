@@ -1,0 +1,34 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_7.txt
+
+KEY POINTS
+--------------------
+• The decisions are to use geographic splits, add the edge-based metric, retain only the best and latest checkpoints, and compare the three model architectures using the same evaluation protocol.
+• The attention model reached 29.1 PSNR and 0.88 SSIM, but training time increased from six hours to nearly eleven hours per run.
+• We now have 18,500 image patches after removing corrupted files and cloud masks that did not meet the quality threshold.
+• The baseline U-Net achieved an average reconstruction PSNR of 27.8 dB and SSIM of 0.84.
+• The current A100 setup costs approximately 420 rupees per hour, and each run takes about ten hours.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• ML Engineer — also test mixed precision to reduce training time
+• ML Engineer — implement the metric and run it on the existing test set by Friday
+• Remote Sensing Specialist — prepare a small manually reviewed subset of 300 patches with annotated road boundaries
+• Remote Sensing Specialist — prepare the subset by Wednesday
+• Remote Sensing Specialist — prepare a sensor-wise distribution report by Tuesday
+• ML Engineer — change checkpoint retention and clean the old experiment storage after confirming the required artifacts
+• Cloud Engineer — verify the storage reduction after cleanup
+• ML Engineer — prepare the artifact analysis by Thursday
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Meeting date — Today.
+• Do that by — Wednesday evening.
+• I will prepare twelve representative examples by — Friday morning.
+• Let's schedule the experiment review for — next Monday.
+• Update it before Monday's review and report any blockers in — tomorrow.
