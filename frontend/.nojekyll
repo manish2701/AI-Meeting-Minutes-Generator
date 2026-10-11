@@ -1,0 +1,4 @@
+# Prevents Jekyll from processing this folder.
+# GitHub Pages runs Jekyll by default; this file tells it to serve
+# the raw static files (including folders like assets/ and files
+# without extensions) exactly as they are.

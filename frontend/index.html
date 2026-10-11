@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Meeting Minutes Generator</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎙️</text></svg>">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+    <div id="app">
+        <aside id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L2 7l10 5 10-5V2zm0 18.4l-2.96-1.5a.5.5 0 010-.8L12 15l2.96-1.5a.5.5 0 01.88 0l2.96 1.5a.5.5 0 01-.44.8z" fill="currentColor"/>
+                    </svg>
+                </div>
+                <h1>AI Meeting Minutes</h1>
+            </div>
+            <nav class="sidebar-nav">
+                <button class="nav-item active" data-view="dashboard">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                        <polyline points="12 8 12 12 16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    Dashboard
+                </button>
+                <button class="nav-item" data-view="new-meeting">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 4v12M4 12h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    New Meeting
+                </button>
+                <button class="nav-item" data-view="history">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M8 7h8m-4 4v4m4-4h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    Meeting History
+                </button>
+                <button class="nav-item" data-view="settings">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                        <path d="M12 12v2m0-6v2m6 6H6m6-6h2M12 12a4 4 0 100-8 4 4 0 000 8z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    Settings
+                </button>
+            </nav>
+            <div class="sidebar-footer">
+                <div class="backend-status" id="backend-status">
+                    <div class="status-indicator offline"></div>
+                    <span>Backend: Not Configured</span>
+                </div>
+                <div class="version">
+                    v<span id="app-version">1.0.0</span>
+                </div>
+            </div>
+        </aside>
+
+        <main id="main-content">
+            <header id="top-nav">
+                <div class="nav-left">
+                    <button id="sidebar-toggle" class="nav-button" aria-label="Toggle sidebar">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <line x1="3" y1="12" x2="21" y2="12" stroke="currentColor" stroke-width="2"/>
+                            <line x1="3" y1="6" x2="21" y2="6" stroke="currentColor" stroke-width="2"/>
+                            <line x1="3" y1="18" x2="21" y2="18" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </button>
+                    <h2 id="page-title">Dashboard</h2>
+                </div>
+                <div class="nav-right">
+                    <div class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 12.79A9 9 0 1112.21 3 7.5 7.5 0 0021 12.79z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <button id="new-meeting-btn" class="nav-button primary">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 4v12M4 12h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                        New Meeting
+                    </button>
+                </div>
+            </header>
+
+            <section id="views">
+                <!-- Dashboard View -->
+                <div id="view-dashboard" class="view">
+                    <div class="welcome">
+                        <h1>Welcome to AI Meeting Minutes Generator</h1>
+                        <p class="subtitle">
+                            Transform meeting transcripts into structured minutes with AI-powered summarization.
+                        </p>
+                    </div>
+
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <h3>Meetings Processed</h3>
+                            <p class="stat-value" id="total-meetings">0</p>
+                        </div>
+                        <div class="stat-card">
+                            <h3>Saved Summaries</h3>
+                            <p class="stat-value" id="saved-summaries">0</p>
+                        </div>
+                        <div class="stat-card">
+                            <h3>Recent Activity</h3>
+                            <p class="stat-value" id="recent-count">0</p>
+                        </div>
+                        <div class="stat-card">
+                            <h3>Available Models</h3>
+                            <p class="stat-value" id="models-available">2</p>
+                        </div>
+                    </div>
+
+                    <div class="quick-actions">
+                        <button class="btn btn-primary btn-large" id="quick-new-meeting">
+                            Create New Meeting
+                        </button>
+                        <button class="btn btn-secondary btn-large" id="quick-view-history">
+                            View History
+                        </button>
+                    </div>
+
+                    <div class="recent-meetings">
+                        <h3>Recent Meetings</h3>
+                        <div class="meeting-list" id="recent-meetings-list">
+                            <p class="empty-state">No meetings yet. Create your first meeting to get started.</p>
+                        </div>
+                    </div>
+
+                    <div class="model-info">
+                        <h3>How It Works</h3>
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <h4>1. Transcript Input</h4>
+                                <p>Paste meeting transcripts or upload text files.</p>
+                            </div>
+                            <div class="info-item">
+                                <h4>2. AI Processing</h4>
+                                <p>Choose BART or FLAN-T5 models for summarization.</p>
+                            </div>
+                            <div class="info-item">
+                                <h4>3. Structured Output</h4>
+                                <p>Get organized minutes with key points, decisions, and action items.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- New Meeting View -->
+                <div id="view-new-meeting" class="view">
+                    <form id="new-meeting-form" class="meeting-form">
+                        <div class="form-group">
+                            <label for="meeting-title">Meeting Title</label>
+                            <input type="text" id="meeting-title" placeholder="e.g., Weekly Team Sync - Q3 Planning" required>
+                            <small class="form-text">Optional but recommended for easy reference</small>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="meeting-date">Meeting Date</label>
+                                <input type="date" id="meeting-date">
+                            </div>
+                            <div class="form-group">
+                                <label for="participants">Participants (Optional)</label>
+                                <input type="text" id="participants" placeholder="Comma-separated names">
+                                <small class="form-text">e.g., Alice Smith, Bob Jones, Carol Lee</small>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="meeting-context">Meeting Context / Description</label>
+                            <textarea id="meeting-context" rows="3" placeholder="Brief description of the meeting purpose, agenda, or background..."></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="transcript-input">Meeting Transcript</label>
+                            <div class="transcript-container">
+                                <textarea id="transcript-input" rows="12" placeholder="Paste the meeting transcript here..."></textarea>
+                                <div class="transcript-actions">
+                                    <button type="button" class="btn btn-sm btn-outline" id="clear-transcript">
+                                        Clear
+                                    </button>
+                                    <button type="button" class="btn btn-sm btn-outline" id="upload-transcript">
+                                        Upload File
+                                    </button>
+                                    <input type="file" id="transcript-file" accept=".txt,.md" style="display: none">
+                                </div>
+                                <div id="transcript-preview" class="transcript-preview"></div>
+                                <small class="form-text" id="transcript-stats">0 characters • 0 words</small>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="summarization-method">Summarization Method</label>
+                                <select id="summarization-method">
+                                    <option value="bart">BART (Facebook/bart-large-cnn)</option>
+                                    <option value="flan-t5" selected>FLAN-T5 (Google/flan-t5-small)</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="max-output">Max Summary Length</label>
+                                <select id="max-output">
+                                    <option value="64">64 tokens</option>
+                                    <option value="128" selected>128 tokens</option>
+                                    <option value="192">192 tokens</option>
+                                    <option value="256">256 tokens</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-actions">
+                            <button type="button" class="btn btn-secondary" id="cancel-meeting">
+                                Cancel
+                            </button>
+                            <button type="submit" class="btn btn-primary" id="generate-minutes">
+                                Generate Meeting Minutes
+                            </button>
+                        </div>
+
+                        <div id="form-status" class="form-status"></div>
+                    </form>
+                </div>
+
+                <!-- Results View -->
+                <div id="view-results" class="view">
+                    <div class="results-header">
+                        <h2 id="results-title">Meeting Minutes</h2>
+                        <div class="results-actions">
+                            <button class="btn btn-sm btn-outline" id="copy-summary">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <rect x="9" y="9" width="13" height="13" rx="2" stroke="currentColor" stroke-width="2"/>
+                                    <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h10a2 2 0 012 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                                Copy Summary
+                            </button>
+                            <button class="btn btn-sm btn-outline" id="download-txt">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <polyline points="7 10 12 15 17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                                Download TXT
+                            </button>
+                            <button class="btn btn-sm btn-outline" id="download-md">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 22h16a2 2 0 002-2V8a2 2 0 00-2-2H4a2 2 0 00-2 2v12z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <line x1="2" y1="7" x2="22" y2="7" stroke="currentColor" stroke-width="2"/>
+                                </svg>
+                                Download MD
+                            </button>
+                            <button class="btn btn-sm btn-outline" id="print-minutes">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+                                    <line x1="6" y1="1" x2="6" y2="4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+                                    <line x1="10" y1="1" x2="10" y2="4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+                                </svg>
+                                Print
+                            </button>
+                            <button class="btn btn-sm btn-outline" id="save-meeting">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                                    <path d="M12 8v4M8 12h4m4 0h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                                </svg>
+                                Save Locally
+                            </button>
+                        </div>
+                    </div>
+
+                    <div id="results-content" class="results-content">
+                        <!-- Results will be populated here -->
+                    </div>
+                </div>
+
+                <!-- Meeting History View -->
+                <div id="view-history" class="view">
+                    <div class="history-header">
+                        <h2>Meeting History</h2>
+                        <div class="history-actions">
+                            <input type="text" id="history-search" placeholder="Search meetings...">
+                            <button class="btn btn-sm btn-outline" id="clear-history-search">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/>
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="history-filters">
+                        <label for="history-date-filter">Filter by Date:</label>
+                        <select id="history-date-filter">
+                            <option value="all">All Time</option>
+                            <option value="today">Today</option>
+                            <option value="week">This Week</option>
+                            <option value="month">This Month</option>
+                        </select>
+                    </div>
+
+                    <div class="history-list" id="history-list">
+                        <!-- Meeting items will be populated here -->
+                    </div>
+                </div>
+
+                <!-- Settings View -->
+                <div id="view-settings" class="view">
+                    <div class="settings-section">
+                        <h3>Backend Configuration</h3>
+                        <div class="setting-item">
+                            <label for="backend-url">Backend API URL</label>
+                            <input type="text" id="backend-url" placeholder="e.g., https://your-api.example.com">
+                            <small class="form-text">
+                                Leave empty for local-only mode (rule-based extraction only).
+                                Backend must implement the API contract documented in README.md.
+                            </small>
+                        </div>
+                        <div class="setting-item">
+                            <button class="btn btn-sm" id="test-backend-connection">
+                                Test Connection
+                            </button>
+                            <span id="backend-connection-status" class="connection-status"></span>
+                        </div>
+                        <div class="setting-item" id="backend-info">
+                            <h4>Available Methods (when backend configured)</h4>
+                            <ul id="backend-methods-list">
+                                <li>Loading...</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="settings-section">
+                        <h3>Appearance</h3>
+                        <div class="setting-item">
+                            <label class="switch">
+                                <input type="checkbox" id="theme-preference">
+                                <span class="slider"></span>
+                            </label>
+                            Dark Theme
+                        </div>
+                    </div>
+
+                    <div class="settings-section">
+                        <h3>Local Data</h3>
+                        <div class="setting-item">
+                            <button class="btn btn-sm btn-outline" id="export-all-data">
+                                Export All Meetings
+                            </button>
+                            <button class="btn btn-sm btn-outline" id="import-data">
+                                Import Meetings
+                            </button>
+                            <input type="file" id="import-file" accept=".json" style="display: none">
+                        </div>
+                        <div class="setting-item">
+                            <button class="btn btn-sm btn-danger" id="clear-all-data" data-confirm="Are you sure you want to delete ALL locally stored meeting data? This action cannot be undone.">
+                                Clear All Local Data
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="settings-section">
+                        <h3>About</h3>
+                        <div class="setting-item">
+                            <p><strong>AI Meeting Minutes Generator</strong></p>
+                            <p>Frontend for meeting summarization using fine-tuned BART and FLAN-T5 models.</p>
+                            <p>Version: <span id="about-version">1.0.0</span></p>
+                            <p><small>Models remain on server/backend; frontend never loads .pt files directly.</small></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="./assets/js/config.js"></script>
+    <script src="./assets/js/api.js"></script>
+    <script src="./assets/js/summarizer.js"></script>
+    <script src="./assets/js/app.js"></script>
+</body>
+</html>
