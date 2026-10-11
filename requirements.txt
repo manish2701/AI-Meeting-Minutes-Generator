@@ -1,3 +1,40 @@
-streamlit
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Audio processing
+librosa
+soundfile
+pydub
+
+# PyTorch
 torch
-transformers
+torchaudio
+
+# Whisper
+openai-whisper
+faster-whisper
+
+# AssemblyAI
+assemblyai
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+
+# Progress bars
+tqdm
+
+# Environment variables / API keys
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning utilities
+scikit-learn
+
+streamlit
