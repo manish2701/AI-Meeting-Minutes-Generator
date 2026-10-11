@@ -160,6 +160,32 @@
       <div class="pipe-badge">05</div>
       <h4>Structured Output</h4>
       <p>Key points, decisions, actions, dates.</p>
+    <!-- Panel 2 -->
+    <div class="tab-panel" role="tabpanel" id="panel-2">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — Whisper Transcript (MTG_32040)</h4>
+          <div class="transcript-box" id="transcript-2"></div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — BART</h4>
+          <div class="minutes-box" id="minutes-2"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Panel 3 -->
+    <div class="tab-panel" role="tabpanel" id="panel-3">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — Whisper Transcript (MTG_32040)</h4>
+          <div class="transcript-box" id="transcript-3"></div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — FLAN-T5</h4>
+          <div class="minutes-box" id="minutes-3"></div>
+        </div>
+      </div>
+    </div>
     </div>
   </div>
 </section>
@@ -241,13 +267,7 @@
       <div class="two-col">
         <div class="result-panel">
           <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
-          <div class="transcript-box" id="transcript-0">
-            <p><strong>Source:</strong> <code>outputs/assemblyai/transcripts/MTG_32040.txt</code></p>
-            <p><strong>Meeting:</strong> Smart Kitchen Product Brainstorming</p>
-            <p><strong>Utterances:</strong> 81 · <strong>Speakers:</strong> 5 (A, B, C, D, E)</p>
-            <hr>
-            <div class="excerpt" id="excerpt-0"></div>
-          </div>
+          <div class="transcript-box" id="transcript-0"></div>
         </div>
         <div class="result-panel">
           <h4>Generated Minutes — BART</h4>
@@ -260,46 +280,11 @@
       <div class="two-col">
         <div class="result-panel">
           <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
-          <div class="transcript-box"><p><strong>Source:</strong> <code>outputs/assemblyai/transcripts/MTG_32040.txt</code><br><strong>Meeting:</strong> Smart Kitchen Product Brainstorming<br><strong>Format:</strong> Timestamped diarization · 81 utterances · Speakers A–E</p><hr><pre style="font-family:var(--font-mono);font-size:.82rem;color:var(--text-secondary);line-height:1.7;white-space:pre-wrap;overflow:auto;max-height:420px;">[7.19s - 8.22s] A: Morning everyone.
-[9.05s - 9.35s] B: Morning.
-[9.47s - 18.39s] C: It's really exciting meeting today discussing the products for our smart kitchen. Is that what it is?
-[18.46s - 19.45s] B: Smart kitchen.
-[19.64s - 20.32s] A: Robotic kitchen.
-[20.37s - 24.13s] C: Robotic smart of the future is here.
-[24.34s - 25.07s] B: The future kitchen.
-[25.53s - 38.50s] C: So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest.
-[38.50s - 40.38s] B: Like what?
-[40.38s - 42.74s] C: Oh, what's that called, that company?</pre></div><br><strong>Meeting:</strong> Smart Kitchen Product Brainstorming<br><strong>Utterances:</strong> 31 · <strong>Speakers:</strong> A–E</p><hr><div class="excerpt" style="font-family:var(--font-mono);font-size:.82rem;color:var(--text-secondary);line-height:1.7;white-space:pre-wrap;">Speaker A: Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen... Speaker B: Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field... Speaker C: So this is more for restaurants, right? Speaker D: Yeah, that was my question. Are we aiming at industrial kitchens or home kitchens? Speaker E: success in selling them, I think you'll have more private kitchens than restaurants opening individually.</div></div>
+          <div class="transcript-box" id="transcript-1"></div>
         </div>
         <div class="result-panel">
           <h4>Generated Minutes — FLAN-T5</h4>
           <div class="minutes-box" id="minutes-1"></div>
-        </div>
-      </div>
-    </div>
-    <!-- Panel 2 -->
-    <div class="tab-panel" role="tabpanel" id="panel-2">
-      <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — Whisper Transcript (MTG_32040)</h4>
-          <div class="transcript-box"><p><strong>Source:</strong> <code>outputs/whisper/transcripts/MTG_32040.txt</code> · 31 utterances · Speaker A–E.</p><p>Format: <code>Speaker A: ...</code> (no timestamps).</p></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — BART</h4>
-          <div class="minutes-box" id="minutes-2"></div>
-        </div>
-      </div>
-    </div>
-    <!-- Panel 3 -->
-    <div class="tab-panel" role="tabpanel" id="panel-3">
-      <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — Whisper Transcript (MTG_32040)</h4>
-          <div class="transcript-box"><p>Same Whisper transcript (31 utterances).</p></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — FLAN-T5</h4>
-          <div class="minutes-box" id="minutes-3"></div>
         </div>
       </div>
     </div>

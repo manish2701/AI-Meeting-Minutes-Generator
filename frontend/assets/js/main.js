@@ -22,13 +22,11 @@
       if (!data.examples) return;
 
       data.examples.forEach((ex, idx) => {
-        // Transcript excerpt
-        const excerptText = (ex.transcript_excerpt || [])
-          .slice(0, 8)
-          .map(r => (r.speaker ? '[' + r.speaker + '] ' : '') + (r.body || ''))
-          .join(' ');
-        const el = document.getElementById('excerpt-' + idx);
-        if (el) el.innerHTML = '<pre style="font-family:var(--font-mono);font-size:.82rem;line-height:1.7;color:var(--text-secondary);white-space:pre-wrap;word-break:break-word;">' + excerptText.replace(/</g, '&lt;').slice(0, 900) + (excerptText.length > 900 ? ' …' : '') + '</pre>';
+        // Full transcript into panel
+        const transcriptEl = document.getElementById('transcript-' + idx);
+        if (transcriptEl && ex.transcript_full) {
+          transcriptEl.innerHTML = '<pre style="font-family:var(--font-mono);font-size:.82rem;line-height:1.7;color:var(--text-secondary);white-space:pre-wrap;word-break:break-word;"><strong>Source:</strong> ' + (ex.engine === 'whisper' ? 'Whisper' : 'AssemblyAI') + ' · ' + ex.meeting_id + ' · Utterances: ' + (ex.transcript_total_utterances || '-') + '<br><hr>' + String(ex.transcript_full).replace(/</g, '&lt;') + '</pre>';
+        }
 
         // Minutes
         const minutesEl = document.getElementById('minutes-' + idx);
