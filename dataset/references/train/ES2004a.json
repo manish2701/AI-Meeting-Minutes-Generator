@@ -1,0 +1,1575 @@
+{
+  "meeting_id": "ES2004a",
+  "language": "en-US",
+  "duration_s": 1049.3499755859375,
+  "speakers": [
+    "ES2004a.A",
+    "ES2004a.B",
+    "ES2004a.C",
+    "ES2004a.D"
+  ],
+  "num_speakers": 4,
+  "num_utterances": 260,
+  "segments": [
+    {
+      "speaker": "ES2004a.A",
+      "start": 0.0,
+      "end": 1.792,
+      "text": "Hmm hmm hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 10.944,
+      "end": 14.737,
+      "text": "Are we we're not allowed to dim the lights so people can see that a bit better?"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 17.619,
+      "end": 18.391,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 18.722,
+      "end": 20.32,
+      "text": "Okay, that's fine."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 22.352,
+      "end": 23.872,
+      "text": "Am I supposed to be standing up there?"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 24.992,
+      "end": 27.024,
+      "text": "So we've got both of these clipped on?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 25.163,
+      "end": 25.98,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 28.56,
+      "end": 30.59,
+      "text": "She gonna answer me or not?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 29.098,
+      "end": 32.297,
+      "text": "Yeah, I've got"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 31.28,
+      "end": 33.48,
+      "text": "Right, both of them, okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 34.112,
+      "end": 34.764,
+      "text": "Yes."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 42.017,
+      "end": 43.386,
+      "text": "God."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 49.613,
+      "end": 53.228,
+      "text": "Jesus, it's gonna fall off."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 63.063,
+      "end": 66.416,
+      "text": "Okay. Yep, yep."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 71.087,
+      "end": 72.624,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 80.272,
+      "end": 94.743,
+      "text": "Okay. Hello everybody. Um I'm Sarah, the Project Manager and this is our first meeting, surprisingly enough. Okay, this is our agenda, um"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 80.443,
+      "end": 81.985,
+      "text": "Tu tu tu tu"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 83.2,
+      "end": 84.332,
+      "text": "Hi, good morning."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 95.664,
+      "end": 115.952,
+      "text": "we will do some stuff, get to know each other a bit better to feel more comfortable with each other. Um then we'll go do tool training, talk about the project plan, discuss our own ideas and everything um and we've got twenty five minutes to do that, as far as I can understand."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 117.6,
+      "end": 161.04,
+      "text": "Now, we're developing a remote control which you probably already know. Um, we want it to be original, something that's uh people haven't thought of, that's not out in the shops, um, trendy, appealing to a wide market, but you know, not a hunk of metal, and user-friendly, grannies to kids, maybe even pooches should be able to use it. Okay, um, first is the functional design, um this is where we all go off and do our individual work, um what needs need to be fulfilled by the product, um what effects the product has to have and how it's actually going to do that. Um, conceptual design,"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 162.288,
+      "end": 167.904,
+      "text": "what we're thinking, how it's gonna go and then the detailed design, how we're actually gonna put it into practice and make it work."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 168.768,
+      "end": 169.04,
+      "text": "'Kay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 170.288,
+      "end": 186.128,
+      "text": "Okay, right. We're gonna practice with the pens and draw our favourite animal on the white board, I'll go first, and um sum up the characteristics of that animal. So"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 187.957,
+      "end": 188.461,
+      "text": "Oops."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 188.577,
+      "end": 192.976,
+      "text": "Okay, I'll leave space for everyone else. Um"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 211.44,
+      "end": 212.016,
+      "text": "What's missing?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 243.2,
+      "end": 244.432,
+      "text": "We're running out of blue."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 246.912,
+      "end": 250.64,
+      "text": "Okay. I'm not gonna ask you to guess, I'm going to tell you that's supposed to be a tiger."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 252.157,
+      "end": 252.833,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 254.512,
+      "end": 257.44,
+      "text": "And I see them as majestic,"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 255.725,
+      "end": 256.426,
+      "text": "Oh sorry."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 257.875,
+      "end": 258.688,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 259.872,
+      "end": 262.388,
+      "text": "and independent,"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 266.16,
+      "end": 267.072,
+      "text": "and"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 268.688,
+      "end": 269.216,
+      "text": "proud."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 272.208,
+      "end": 275.84,
+      "text": "Now, who would like to go next? 'Kay."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 274.992,
+      "end": 275.6,
+      "text": "Yeah, me."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 277.312,
+      "end": 279.795,
+      "text": "Cat."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 284.816,
+      "end": 287.36,
+      "text": "Where did this come from?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 287.482,
+      "end": 290.368,
+      "text": "Is that your lapel then? There you go."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 289.072,
+      "end": 296.176,
+      "text": "Uh, yep. Thank you. Uh, maybe you can guess what I'm trying to make?"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 306.208,
+      "end": 307.248,
+      "text": "A kind of dog?"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 308.144,
+      "end": 310.262,
+      "text": "Yep."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 312.984,
+      "end": 322.112,
+      "text": "It's actually sitting, so it's sitting, it's not standing. Okay, I see it as one thing it's very supportive."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 315.593,
+      "end": 316.535,
+      "text": "Sorry?"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 315.696,
+      "end": 317.696,
+      "text": "It's sitting down."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 317.872,
+      "end": 318.896,
+      "text": "Uh."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 323.904,
+      "end": 352.368,
+      "text": "It's your best friend and your you can talk to a dog, it can be your best friend, it doesn't discriminate between you, based on what you are. Second it's loyal and third thing it's got intuition. dogs can som sometimes can make out between a thief and a person so basically these are the three unique features I think belong to a dog. Thank you."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 344.616,
+      "end": 345.49,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 349.968,
+      "end": 351.33,
+      "text": "Okay, thank you."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 353.461,
+      "end": 355.754,
+      "text": "Yeah I'll have a go."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 353.873,
+      "end": 354.929,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 356.083,
+      "end": 357.213,
+      "text": "Sorry."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 356.257,
+      "end": 362.224,
+      "text": "Please, please leave me a space at the bottom, I'm little, you can get to the top, with standing on a chair."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 356.773,
+      "end": 357.433,
+      "text": "Thanks."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 359.088,
+      "end": 367.697,
+      "text": "Alright, okay. Well since you guys have chosen the ones I wanted to do, I'll have to have to go for something a bit random."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 364.336,
+      "end": 368.077,
+      "text": "Does it look like a dog actually?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 364.608,
+      "end": 366.423,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 371.376,
+      "end": 375.525,
+      "text": "And also, my drawing skill isn't that great so, yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 373.576,
+      "end": 376.864,
+      "text": "Well, as you can see, the quality of the work today is um"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 374.885,
+      "end": 375.843,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 376.784,
+      "end": 379.584,
+      "text": "I think it's outstandingly good."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 378.48,
+      "end": 384.768,
+      "text": "Okay, now I'm gonna have to change what is was originally gonna be because that looks like a beak now, so."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 390.412,
+      "end": 406.304,
+      "text": "Yeah, it can be a crocodile, it can be a crocodile. Well it was it was an at first firstly it was an attempt at a T Rex and then it sort of changed into a pelican but it can be a crocodile now actually."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 390.818,
+      "end": 391.776,
+      "text": "Crocodile?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 393.968,
+      "end": 395.001,
+      "text": "Gonna be a bird."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 396.063,
+      "end": 400.142,
+      "text": "Is it gonna be it's gonna be a bird."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 403.097,
+      "end": 403.707,
+      "text": "O"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 420.08,
+      "end": 420.992,
+      "text": "That's lovely."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 421.182,
+      "end": 422.34,
+      "text": "Beauti that's"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 421.184,
+      "end": 426.592,
+      "text": "Yeah and uh I'll have to think on the spot of uh things that it is. Um"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 428.096,
+      "end": 430.32,
+      "text": "uh scary,"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 432.464,
+      "end": 434.447,
+      "text": "uh strong,"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 438.344,
+      "end": 442.4,
+      "text": "yeah that's about it I think."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 439.803,
+      "end": 441.808,
+      "text": "Okay it's fine."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 440.149,
+      "end": 442.369,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 443.136,
+      "end": 450.928,
+      "text": "Um, I'm very impressed with your artistic skills, mine's are dreadful. Oops this is now coming apart, let me just put the top in."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 445.082,
+      "end": 446.682,
+      "text": "Uh uh"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 450.144,
+      "end": 451.744,
+      "text": "Wo"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 453.968,
+      "end": 457.059,
+      "text": "I hope that clicks in, I'll just I'll hold it on, okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 457.872,
+      "end": 460.64,
+      "text": "Oops, oh dear, what happened there?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 461.072,
+      "end": 462.192,
+      "text": "Technical help."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 465.28,
+      "end": 466.028,
+      "text": "Hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 465.36,
+      "end": 470.88,
+      "text": "Hopefully that'll stay on, two-handed version. Okay, uh"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 467.92,
+      "end": 468.768,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 474.384,
+      "end": 479.472,
+      "text": "Again this is off the top of my head, I was gonna do a big cat too, um."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 476.672,
+      "end": 477.792,
+      "text": "Uh"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 481.018,
+      "end": 484.848,
+      "text": "Oh dear, it doesn't look what like what I want it to be."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 481.248,
+      "end": 481.719,
+      "text": "Hmm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 484.274,
+      "end": 484.884,
+      "text": "S"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 486.928,
+      "end": 487.747,
+      "text": "Uh."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 487.408,
+      "end": 487.92,
+      "text": "Uh"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 488.752,
+      "end": 491.648,
+      "text": "It's not a vampire bat honestly."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 489.66,
+      "end": 491.405,
+      "text": "Okay, yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 492.88,
+      "end": 518.752,
+      "text": "Uh and somewhere there's a body behind. That's my dreadful that's the worst yet, that's it's meant to be an eagle you can tell it's a flying animal could have been a seagull, I never thought of a seagull. An eagle, um again I'm thinking on my feet goodness. I suppose they're all so independent, I'd put that one down again. Da dum um."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 497.126,
+      "end": 500.592,
+      "text": "Okay, some sort of bird."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 500.94,
+      "end": 505.375,
+      "text": "A seagu right, not a seagull."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 501.616,
+      "end": 502.854,
+      "text": "Eagle, okay."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 501.744,
+      "end": 503.474,
+      "text": "Ah eagle, right okay."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 519.744,
+      "end": 521.013,
+      "text": "They're good at golf."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 520.256,
+      "end": 536.8,
+      "text": "Indepen independent, right, did you say they're good at golf? Are they? Oh. Oh right, okay, I'm not good at golf. I'd say they're quite free-spirited, flying around everywhere, doing their own thing."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 524.131,
+      "end": 526.0,
+      "text": "Eagle."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 524.288,
+      "end": 529.024,
+      "text": "Yeah, no yeah, an eagle."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 541.12,
+      "end": 549.664,
+      "text": "And uh, birds of prey aren't they, oh dear, intrepid. I'll put that, intrepid."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 545.078,
+      "end": 545.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 553.476,
+      "end": 556.832,
+      "text": "There we go, hope that pen's gonna be okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 554.412,
+      "end": 555.402,
+      "text": "That's lovely."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 558.528,
+      "end": 559.51,
+      "text": "Whoops."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 561.055,
+      "end": 561.632,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 563.104,
+      "end": 575.536,
+      "text": "That was fun, right. Um finance-wise, we've got a selling price at twenty five Euros, which I don't actually know what that is in Pounds, at all. Any ideas?"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 574.6,
+      "end": 577.751,
+      "text": "It's about mm, mm yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 576.323,
+      "end": 577.554,
+      "text": "Seventeen."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 576.454,
+      "end": 581.547,
+      "text": "One point four or something like that. One point four Euro would make a Pound or something like that."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 580.784,
+      "end": 587.648,
+      "text": "Yeah, yeah, something like that, so that yeah about seventeen, seventeen Pounds, something like that."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 582.538,
+      "end": 583.04,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 583.728,
+      "end": 588.016,
+      "text": "D fifteen? Seventeen. Okay, that's expensive."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 584.698,
+      "end": 586.17,
+      "text": "Seventeen Pounds."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 588.24,
+      "end": 592.368,
+      "text": "Should we be making notes of this? We can just refer to this later can't we? Yeah, okay."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 590.677,
+      "end": 591.37,
+      "text": "But"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 590.755,
+      "end": 595.995,
+      "text": "I think so, I think so, I'll be able to um pull it up, or I could put it in the shared folder or something."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 593.792,
+      "end": 594.517,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 594.038,
+      "end": 608.506,
+      "text": "Havi having said that though, if you wanna get one of those the the ones on the market at the moment they're s they're about twenty pounds anyway. So, it'd still be yeah, we had to buy one."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 603.488,
+      "end": 604.316,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 603.61,
+      "end": 604.256,
+      "text": "Really?"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 605.824,
+      "end": 606.223,
+      "text": "So"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 606.492,
+      "end": 607.072,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 608.016,
+      "end": 614.106,
+      "text": "so I suppose later it depends if we want to undercut the price, we d or or is it going to make our product look a cheapie-cheapie option?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 608.062,
+      "end": 609.291,
+      "text": "I think"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 613.489,
+      "end": 617.856,
+      "text": "Yeah, um production cost's at twelve fifty, so"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 614.016,
+      "end": 615.056,
+      "text": "Hmm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 617.335,
+      "end": 619.75,
+      "text": "Okay, pretty huge margin."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 619.072,
+      "end": 629.44,
+      "text": "half of the selling price is taken up by building it. Um, and profit aim is fifty million Euros, which is uh"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 621.2,
+      "end": 622.416,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 622.0,
+      "end": 622.416,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 623.824,
+      "end": 624.288,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 630.352,
+      "end": 631.248,
+      "text": "In our first year?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 630.896,
+      "end": 637.195,
+      "text": "Yi yes, um yeah, I presume so. Um"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 635.408,
+      "end": 635.936,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 636.16,
+      "end": 637.104,
+      "text": "So then"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 638.0,
+      "end": 651.52,
+      "text": "You've got market range international and you did say earlier it's got to be a um accessible and usable by sort of all age groups just t we're not focusing on business market, any particular thing, it's everyone user-friendly to everyone. Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 645.152,
+      "end": 645.632,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 648.883,
+      "end": 650.357,
+      "text": "No, yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 653.072,
+      "end": 655.552,
+      "text": "Big target group."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 653.549,
+      "end": 670.376,
+      "text": "So yes, yes, I don't think we have to I don't think it's a case of worrying about different languages and things like that, um making that a key point, just that it's going to be in the international market like Australia, America, things like that. Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 661.776,
+      "end": 662.272,
+      "text": "No."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 666.576,
+      "end": 666.976,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 675.184,
+      "end": 704.832,
+      "text": "What are your experiences with remote controls? I mean I've got we got um we had three videos, a TV and a sort of amp thing all set up so we got one of the universal remote controls, um that you programme each of your things into, but that kept losing the signals so we'd have to re-programme it every now and again. I think it was quite a cheapie as well, so that might have had something to do with it, but that was quite good, the fact that you could"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 687.149,
+      "end": 687.873,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 687.803,
+      "end": 688.544,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 690.978,
+      "end": 692.231,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 690.982,
+      "end": 692.467,
+      "text": "Yeah, that c"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 691.104,
+      "end": 692.011,
+      "text": "Alright."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 700.641,
+      "end": 701.952,
+      "text": "Yeah uh."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 700.979,
+      "end": 701.878,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 704.937,
+      "end": 707.28,
+      "text": "Use all the ones at the same time."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 705.781,
+      "end": 708.976,
+      "text": "You didn't have six remote controls sitting in front of you."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 707.968,
+      "end": 708.672,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 708.486,
+      "end": 711.04,
+      "text": "Okay, you wanna integrate everything into one like"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 711.067,
+      "end": 713.328,
+      "text": "Yeah, 'cause you"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 711.856,
+      "end": 736.096,
+      "text": "Mm-hmm. My experience has only been being given the remote control with the object I buy, not doing any tampering with it and programming, using it to programme TV and uh uh videos and things. But basically on, off, volume up and down, channel one, two, th that basic functions, I don't think I could go any further with it than that, so, I suppose it's got to be something usable by someone like me as well."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 712.272,
+      "end": 712.768,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 727.648,
+      "end": 728.209,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 734.731,
+      "end": 751.93,
+      "text": "Yeah, the main that's the main stuff anyway, I mean and you don't want to I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do and just sitting there searching for the teletext button or something like that."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 737.248,
+      "end": 737.888,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 746.352,
+      "end": 746.876,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 747.488,
+      "end": 748.36,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 749.639,
+      "end": 755.328,
+      "text": "Mm. And symbols that you don't necessarily understand, symbols you're meant to understand that you don't."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 752.4,
+      "end": 752.986,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 754.864,
+      "end": 755.952,
+      "text": "Um."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 754.938,
+      "end": 758.268,
+      "text": "So simplification of symbols you could think of."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 757.408,
+      "end": 779.84,
+      "text": "When they're when you've got the main things on the front of it and a section opens up or something to the other functions where you can do sound or options kind of recording, things like that inside it. 'Cause it doesn't make when you pick it up it doesn't make it really complicated to look at, it's obvious what you're doing, um."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 768.48,
+      "end": 769.024,
+      "text": "Oh yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 772.304,
+      "end": 772.72,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 775.552,
+      "end": 775.872,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 777.296,
+      "end": 777.736,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 777.776,
+      "end": 778.721,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 778.928,
+      "end": 794.512,
+      "text": "Actually that just raises a point, I wonder what our design people think, but you know on a mobile phone, you can press a key and it gives you a menu, it's got a menu display, I wonder if incorporating that into the design of a remote control might be useful, so you've got a little LCD display."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 784.96,
+      "end": 785.387,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 787.056,
+      "end": 787.87,
+      "text": "Menu, alright."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 791.899,
+      "end": 793.054,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 792.661,
+      "end": 793.601,
+      "text": "Uh uh"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 794.432,
+      "end": 812.064,
+      "text": "Right, I was thinking on the same lines you, instead of having too many b buttons and make it complicated for the user, may h maybe have an LCD di display or something like that, like a mobile, yeah and with menus. And if it's s somewhat similar to what you have on mobile phone, people might find it easier to browse and navigate also maybe."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 803.776,
+      "end": 805.952,
+      "text": "With menus, yeah, yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 811.072,
+      "end": 811.856,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 811.44,
+      "end": 815.12,
+      "text": "What about the older generation? What about granny and grandads?"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 815.216,
+      "end": 819.161,
+      "text": "You mean to save it lesser number."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 816.128,
+      "end": 823.872,
+      "text": "Um, my grandad can answer his mobile phone, but he couldn't even dream of texting or something like that."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 819.832,
+      "end": 821.056,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 821.333,
+      "end": 828.176,
+      "text": "Mm-hmm. Mm-hmm. Can he programme his remote control or is it basic with that too?"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 825.949,
+      "end": 826.456,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 828.096,
+      "end": 831.516,
+      "text": "I don't think they tape things, I don't think they use"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 829.265,
+      "end": 834.544,
+      "text": "Yeah, my grandad's actually better than me at using teletext, so."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 830.032,
+      "end": 830.747,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 833.2,
+      "end": 834.052,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 834.608,
+      "end": 844.688,
+      "text": "So that's a problem regardless of of any design modifications you you come up with, that's gonna be a problem anyway with the older generation perhaps, and that's another issue how we tackle that."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 838.557,
+      "end": 839.344,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 840.952,
+      "end": 843.364,
+      "text": "Mm, yeah, the age gap."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 843.392,
+      "end": 849.648,
+      "text": "Yeah, what it just needs to be as long as it's sort of self-intuitive and you can can work out"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 850.96,
+      "end": 862.224,
+      "text": "what everything's doing, 'cause I mean, menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 862.288,
+      "end": 862.8,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 863.168,
+      "end": 863.584,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 864.07,
+      "end": 865.885,
+      "text": "But I don't know how"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 864.208,
+      "end": 871.84,
+      "text": "I don't know, I d I don't like the, you know the new phones that have kind of got a Windows-based running system."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 870.16,
+      "end": 870.864,
+      "text": "Oh yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 872.176,
+      "end": 872.64,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 872.928,
+      "end": 883.28,
+      "text": "I find it really confusing, I kept getting lost in the phone, I di I've not got a new one but uh my friend got a new one and I was trying to do things with it and I just kept getting lost, but"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 878.336,
+      "end": 878.922,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 884.288,
+      "end": 885.2,
+      "text": "that's just me."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 884.976,
+      "end": 899.344,
+      "text": "Yeah, I don't I don't know how for twenty fi, or twelve Euros fifty how much of a excellent screen you could get, you'd you'd have to sort of keep it down to a black and white LCD thing anyway, I'd assume."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 893.28,
+      "end": 894.581,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 895.376,
+      "end": 895.979,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 898.688,
+      "end": 912.407,
+      "text": "Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books? Obviously it displays less on the screen, it displays less on the screen but as long as they can read it that's the main thing."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 905.221,
+      "end": 905.764,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 905.487,
+      "end": 907.78,
+      "text": "Teletext has got that option as well."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 911.84,
+      "end": 912.384,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 913.516,
+      "end": 935.076,
+      "text": "Or what about kind of a dual function? In that you've got the basic buttons just for your play, volume, programme things and also and then a menu to go into with obvious pictures, obvious symbols and that's where you control recording and things like that."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 923.632,
+      "end": 924.08,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 930.704,
+      "end": 931.532,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 932.96,
+      "end": 933.408,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 934.332,
+      "end": 947.76,
+      "text": "Mm. The other thing is, just ch chucking into mobile phone f design features again, it could have a flip top remote control so that when you flip over the top, your screen is you can have a bigger screen in the the flip over."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 945.413,
+      "end": 946.031,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 946.0,
+      "end": 946.744,
+      "text": "Mm, okay."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 948.278,
+      "end": 949.177,
+      "text": "S"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 948.464,
+      "end": 953.165,
+      "text": "I think that's a cost thing, I don't I don't know how much we're gonna know about"
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 949.62,
+      "end": 950.52,
+      "text": "Y"
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 950.694,
+      "end": 959.392,
+      "text": "It might it might save a b bit of space, it's i instead of looking bulky, it might look small. But it might have its cost implications."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 951.04,
+      "end": 951.44,
+      "text": "Yeah?"
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 954.896,
+      "end": 955.41,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 956.0,
+      "end": 958.152,
+      "text": "Yes, no that's important."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 956.752,
+      "end": 958.64,
+      "text": "Yeah, like smaller."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 957.152,
+      "end": 957.856,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 959.456,
+      "end": 960.373,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 959.461,
+      "end": 972.975,
+      "text": "And there's no reason we need to make it look as fashionable and stylish as a mobile phone, it can still be lightweight plastic, you know? Something that's easily moulded and produced. Sorry I'm treading on your territory guys."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 965.056,
+      "end": 965.6,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 966.192,
+      "end": 966.731,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 968.816,
+      "end": 969.264,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 970.384,
+      "end": 971.79,
+      "text": "No uh uh"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 970.976,
+      "end": 980.032,
+      "text": "Um, right, okay we've got half an hour before the next meeting, so we're all gonna go off and do our individual things. Um"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 981.049,
+      "end": 989.552,
+      "text": "I think that's probably about it and then we'll come back and liaise again and I get to do another fantastic PowerPoint presentation."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 984.944,
+      "end": 1014.848,
+      "text": "Yeah. Just just a quick thing about the um about what you're saying about the uh does does it need to be fashionable? The sort of I I had a quick look at the company website and it's like the the uh we put the fashion into electronics, so I think think the whole design thing might be qui I mean you don't you you can still have plastic and it'd look quite good but"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 990.987,
+      "end": 991.663,
+      "text": "Sure."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1004.976,
+      "end": 1006.018,
+      "text": "Ah right."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 1005.519,
+      "end": 1006.426,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1005.624,
+      "end": 1006.496,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1006.656,
+      "end": 1007.575,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1008.784,
+      "end": 1011.344,
+      "text": "Sure b y yeah."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1013.68,
+      "end": 1024.512,
+      "text": "But yeah, I mean it doesn't have to be that, you know th that was my main point, we don't have to use metal, I don't know if using plastic does make it cheaper, I presume it would. Yeah, yeah, yeah."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 1018.34,
+      "end": 1019.568,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1019.961,
+      "end": 1020.627,
+      "text": "Mm."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 1021.92,
+      "end": 1023.536,
+      "text": "Yeah. Yeah."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1022.304,
+      "end": 1024.032,
+      "text": "I would it would probably."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1025.024,
+      "end": 1041.616,
+      "text": "I mean there's Sky remote controls and everything. They're kind of moulded and look a bit different, and the Telewest remote controls are silver plastic, which looks a bit smarter, so yeah I guess that's stuff we can think about. Okay, so let's break it up there."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1032.896,
+      "end": 1033.504,
+      "text": "Right."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1037.07,
+      "end": 1038.078,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1042.004,
+      "end": 1042.82,
+      "text": "'Kay."
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1042.327,
+      "end": 1044.208,
+      "text": "Okay? So, see you in half an hour."
+    },
+    {
+      "speaker": "ES2004a.C",
+      "start": 1042.331,
+      "end": 1043.632,
+      "text": "Okay."
+    },
+    {
+      "speaker": "ES2004a.D",
+      "start": 1046.4,
+      "end": 1048.582,
+      "text": "Do we go back to our room? Yep?"
+    },
+    {
+      "speaker": "ES2004a.B",
+      "start": 1047.488,
+      "end": 1049.206,
+      "text": "I think so, yeah."
+    },
+    {
+      "speaker": "ES2004a.A",
+      "start": 1048.016,
+      "end": 1048.672,
+      "text": "Mm, yeah."
+    }
+  ]
+}

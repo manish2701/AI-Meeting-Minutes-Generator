@@ -1,0 +1,1475 @@
+{
+  "meeting_id": "MTG_32179",
+  "language": "en-US",
+  "duration_s": 359.6400146484375,
+  "speakers": [
+    "Beth",
+    "John",
+    "Linda",
+    "Rachel",
+    "Ron",
+    "Sarah"
+  ],
+  "num_speakers": 6,
+  "num_utterances": 243,
+  "segments": [
+    {
+      "speaker": "Ron",
+      "start": 6.08,
+      "end": 11.9,
+      "text": "Well, I am glad everybody is here today um we'll be going to lunch soon but"
+    },
+    {
+      "speaker": "Ron",
+      "start": 11.91,
+      "end": 14.16,
+      "text": "uh I want everybody to   to focus."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 14.15,
+      "end": 14.74,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Beth",
+      "start": 14.49,
+      "end": 16.39,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 14.54,
+      "end": 18.86,
+      "text": "Because we've gone over budget on the"
+    },
+    {
+      "speaker": "Beth",
+      "start": 16.43,
+      "end": 19.11,
+      "text": "It's a tough time, budget before lunch."
+    },
+    {
+      "speaker": "Ron",
+      "start": 18.86,
+      "end": 19.13,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 20.17,
+      "end": 21.6,
+      "text": "uh the aquarium."
+    },
+    {
+      "speaker": "Beth",
+      "start": 21.64,
+      "end": 22.24,
+      "text": "Mmm."
+    },
+    {
+      "speaker": "Ron",
+      "start": 22.53,
+      "end": 27.09,
+      "text": "That means that everybody's department will have to cut twenty percent"
+    },
+    {
+      "speaker": "Ron",
+      "start": 27.33,
+      "end": 29.13,
+      "text": "of uh   of   of their"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 27.44,
+      "end": 28.01,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Ron",
+      "start": 29.28,
+      "end": 31.13,
+      "text": "<FILL/> specific budget"
+    },
+    {
+      "speaker": "Ron",
+      "start": 31.55,
+      "end": 34.12,
+      "text": "and uh I'd like to   to hear"
+    },
+    {
+      "speaker": "Beth",
+      "start": 32.27,
+      "end": 32.55,
+      "text": "I"
+    },
+    {
+      "speaker": "Beth",
+      "start": 32.55,
+      "end": 33.98,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 32.91,
+      "end": 33.34,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 34.0,
+      "end": 34.45,
+      "text": "Ugh."
+    },
+    {
+      "speaker": "Ron",
+      "start": 34.24,
+      "end": 35.57,
+      "text": "how everybody can"
+    },
+    {
+      "speaker": "Linda",
+      "start": 35.36,
+      "end": 37.05,
+      "text": "Twenty percent?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 35.58,
+      "end": 36.21,
+      "text": "uh"
+    },
+    {
+      "speaker": "Ron",
+      "start": 36.8,
+      "end": 38.84,
+      "text": "twenty percent everybody's gonna have to cut."
+    },
+    {
+      "speaker": "Beth",
+      "start": 37.64,
+      "end": 39.26,
+      "text": "Wow."
+    },
+    {
+      "speaker": "Linda",
+      "start": 38.63,
+      "end": 39.62,
+      "text": "That's a lot."
+    },
+    {
+      "speaker": "Ron",
+      "start": 39.61,
+      "end": 44.37,
+      "text": "Well, the   the aquarium went uh   went overbudget from what we were expecting."
+    },
+    {
+      "speaker": "John",
+      "start": 44.33,
+      "end": 46.29,
+      "text": "Why did it go over budget exactly?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 44.59,
+      "end": 44.9,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 44.78,
+      "end": 45.67,
+      "text": "By how much?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 45.83,
+      "end": 46.26,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 46.32,
+      "end": 48.34,
+      "text": "The octopus. The octopus"
+    },
+    {
+      "speaker": "John",
+      "start": 47.52,
+      "end": 49.16,
+      "text": "Octopus was too expensive?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 49.17,
+      "end": 51.31,
+      "text": "Much more expensive than we thought."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 49.2,
+      "end": 50.6,
+      "text": "OK let's get rid of the"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 50.55,
+      "end": 54.73,
+      "text": "So we're talking about budget just for the aquarium or the whole floor?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 51.22,
+      "end": 51.78,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 52.02,
+      "end": 55.7,
+      "text": "Wait a minute. How much was   <FILL/> I'm just curious <FILL/>   How much was the octopus?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 55.69,
+      "end": 56.44,
+      "text": "<FILLlaugh/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 55.9,
+      "end": 60.23,
+      "text": "Well the <FILL/>   <FILL/> it wasn't just the octopus which cost like five thousand."
+    },
+    {
+      "speaker": "John",
+      "start": 58.08,
+      "end": 59.77,
+      "text": "The shipping was expensive."
+    },
+    {
+      "speaker": "Linda",
+      "start": 58.24,
+      "end": 58.77,
+      "text": "OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 58.4,
+      "end": 62.84,
+      "text": "It's like the whole   it's the   the   and   and   and the way we have to uh maintain it."
+    },
+    {
+      "speaker": "John",
+      "start": 60.65,
+      "end": 60.92,
+      "text": "The"
+    },
+    {
+      "speaker": "John",
+      "start": 61.16,
+      "end": 61.78,
+      "text": "<FL/> the shipping."
+    },
+    {
+      "speaker": "Ron",
+      "start": 61.73,
+      "end": 62.35,
+      "text": "We   We"
+    },
+    {
+      "speaker": "Ron",
+      "start": 62.71,
+      "end": 63.09,
+      "text": "We"
+    },
+    {
+      "speaker": "Linda",
+      "start": 62.74,
+      "end": 64.55,
+      "text": "Five thousand including everything?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 64.22,
+      "end": 70.46,
+      "text": "Yeah, but we had   the fact that we had to replace the octopus when the shark ate the first octopus, that's uh yes"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 68.21,
+      "end": 71.0,
+      "text": "So are we talking about budget just for"
+    },
+    {
+      "speaker": "Beth",
+      "start": 68.31,
+      "end": 69.07,
+      "text": "<FILLlaugh/>"
+    },
+    {
+      "speaker": "John",
+      "start": 69.33,
+      "end": 70.15,
+      "text": "Exactly."
+    },
+    {
+      "speaker": "John",
+      "start": 70.4,
+      "end": 70.96,
+      "text": "Yes."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 72.0,
+      "end": 75.61,
+      "text": "Just for that or are we talking about budget for the whole third floor?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 72.8,
+      "end": 73.37,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ron",
+      "start": 75.82,
+      "end": 79.5,
+      "text": "No we're talking about the entire budget for the mall."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 76.68,
+      "end": 77.66,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 79.61,
+      "end": 80.04,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 79.73,
+      "end": 80.36,
+      "text": "OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 79.76,
+      "end": 81.55,
+      "text": "So I don't know."
+    },
+    {
+      "speaker": "Ron",
+      "start": 80.21,
+      "end": 81.79,
+      "text": "So everybody has to come uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 80.35,
+      "end": 85.8,
+      "text": "So let's be   let's be positive. We know that there is no way back on the twenty percent uh"
+    },
+    {
+      "speaker": "Linda",
+      "start": 80.37,
+      "end": 80.87,
+      "text": "Oh <UNKNOWN/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 81.17,
+      "end": 82.04,
+      "text": "for the whole mall."
+    },
+    {
+      "speaker": "Ron",
+      "start": 82.27,
+      "end": 84.36,
+      "text": "Let's hear what everybody has to say."
+    },
+    {
+      "speaker": "Linda",
+      "start": 85.18,
+      "end": 88.24,
+      "text": "So we're talking   So we're talking <FILL/> hundreds of thousands."
+    },
+    {
+      "speaker": "Beth",
+      "start": 85.93,
+      "end": 89.74,
+      "text": "Is there a hierarchy maybe because I don't see how I'm gonna be able to <UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 86.47,
+      "end": 87.43,
+      "text": "There is no"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 87.93,
+      "end": 88.43,
+      "text": "not"
+    },
+    {
+      "speaker": "Beth",
+      "start": 89.81,
+      "end": 93.97,
+      "text": "twenty percent from the   from"
+    },
+    {
+      "speaker": "Beth",
+      "start": 94.08,
+      "end": 95.72,
+      "text": "<FILL/> from the"
+    },
+    {
+      "speaker": "Beth",
+      "start": 95.75,
+      "end": 96.24,
+      "text": "yeah"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 96.02,
+      "end": 96.59,
+      "text": "We have"
+    },
+    {
+      "speaker": "Beth",
+      "start": 96.29,
+      "end": 97.97,
+      "text": "toiletry like from the toilets?"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 97.62,
+      "end": 102.97,
+      "text": "So we <FILL/>   So we know   Wait, let's just organize this for a second. So we know that for the aquarium, we have gone a bit"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 98.4,
+      "end": 98.88,
+      "text": "So"
+    },
+    {
+      "speaker": "Ron",
+      "start": 101.05,
+      "end": 103.46,
+      "text": "Cheaper toilet paper. There are lots of different ways."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 103.47,
+      "end": 105.82,
+      "text": "<FILL/> I know for the aquarium we went a bit over budget."
+    },
+    {
+      "speaker": "Beth",
+      "start": 105.85,
+      "end": 106.42,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 106.01,
+      "end": 108.32,
+      "text": "But in some areas, I know that we have"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 107.95,
+      "end": 108.39,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 108.42,
+      "end": 115.22,
+      "text": "an extra budget. So let's say that this kind of equals out. So we know   we need to know how we are budgeting throughout this."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 111.89,
+      "end": 112.93,
+      "text": "Yeah, let's note"
+    },
+    {
+      "speaker": "Linda",
+      "start": 112.99,
+      "end": 116.67,
+      "text": "<FILL/> But   <FILL/> But we   But we don't   But we don't know that without the numbers."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 113.42,
+      "end": 115.66,
+      "text": "the numbers. What are the numbers?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 115.47,
+      "end": 116.01,
+      "text": "OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 116.52,
+      "end": 118.23,
+      "text": "Give me the numbers please."
+    },
+    {
+      "speaker": "Ron",
+      "start": 116.63,
+      "end": 117.18,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 117.56,
+      "end": 122.96,
+      "text": "I have   I have the full numbers. Uh the report I can send it to <FILL/> <PName> Ron </PName> I can send it to you for tomorrow."
+    },
+    {
+      "speaker": "Linda",
+      "start": 121.37,
+      "end": 127.41,
+      "text": "Are we talking about <FILL/> thousands of dollars, hundreds of dollars, ten thousand dollars? How much are we talking?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 121.53,
+      "end": 122.48,
+      "text": "No we wanna"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 122.59,
+      "end": 124.1,
+      "text": "uh I wanna hear them now."
+    },
+    {
+      "speaker": "Ron",
+      "start": 124.13,
+      "end": 124.71,
+      "text": "OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 124.68,
+      "end": 130.77,
+      "text": "And for how long are you expecting this twenty percent to be deducted from our usual budgets, which"
+    },
+    {
+      "speaker": "Beth",
+      "start": 130.87,
+      "end": 133.95,
+      "text": "we gave four months ago. Let me remind you all."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 132.57,
+      "end": 137.25,
+      "text": "Yeah, but from all of our departments I think we can all go and kind of see where we can"
+    },
+    {
+      "speaker": "Ron",
+      "start": 132.9,
+      "end": 133.26,
+      "text": "OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 133.0,
+      "end": 133.56,
+      "text": "No, but"
+    },
+    {
+      "speaker": "Beth",
+      "start": 136.98,
+      "end": 138.13,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 137.29,
+      "end": 140.3,
+      "text": "I know that   I know that I cannot go"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 137.56,
+      "end": 139.47,
+      "text": "kinda deduct a little bit from."
+    },
+    {
+      "speaker": "Linda",
+      "start": 139.24,
+      "end": 142.16,
+      "text": "What ten   ten percent from each uh   from each department?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 141.2,
+      "end": 144.54,
+      "text": "I know that I cannot go for less than uh"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 142.63,
+      "end": 143.79,
+      "text": "Maybe something like that."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 144.78,
+      "end": 145.65,
+      "text": "two million"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 145.8,
+      "end": 146.92,
+      "text": "under the uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 147.04,
+      "end": 150.84,
+      "text": "<FILL/> under my   under my regular budget. If I go under two million"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 147.24,
+      "end": 148.31,
+      "text": "Under the budget."
+    },
+    {
+      "speaker": "Beth",
+      "start": 148.32,
+      "end": 150.54,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 151.08,
+      "end": 151.71,
+      "text": "we are done."
+    },
+    {
+      "speaker": "Linda",
+      "start": 151.89,
+      "end": 152.38,
+      "text": "Right."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 151.92,
+      "end": 154.62,
+      "text": "We   We uh I cannot   I cannot uh"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 152.26,
+      "end": 152.76,
+      "text": "OK."
+    },
+    {
+      "speaker": "Linda",
+      "start": 152.79,
+      "end": 153.2,
+      "text": "Right."
+    },
+    {
+      "speaker": "Linda",
+      "start": 154.47,
+      "end": 154.75,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 155.31,
+      "end": 156.02,
+      "text": "How about you?"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 156.25,
+      "end": 157.47,
+      "text": "How about <PName> John </PName> ? What do you think?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 157.59,
+      "end": 159.51,
+      "text": "In your   In your department how much"
+    },
+    {
+      "speaker": "Beth",
+      "start": 157.74,
+      "end": 158.46,
+      "text": "<PName> John </PName> ."
+    },
+    {
+      "speaker": "John",
+      "start": 157.88,
+      "end": 158.97,
+      "text": "I think"
+    },
+    {
+      "speaker": "John",
+      "start": 159.08,
+      "end": 159.36,
+      "text": "<FILL/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 159.51,
+      "end": 160.09,
+      "text": "<FILL/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 159.93,
+      "end": 161.07,
+      "text": "<FILL/> I would say a million."
+    },
+    {
+      "speaker": "John",
+      "start": 160.57,
+      "end": 165.01,
+      "text": "I think there's   there is a lot of things we need to take into consideration at this moment."
+    },
+    {
+      "speaker": "John",
+      "start": 165.11,
+      "end": 171.62,
+      "text": "For now we need to look at yes we're gonna spend a lot of money with our aquarium but we need to understand that we're gonna make a lot of money"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 165.29,
+      "end": 165.85,
+      "text": "Like"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 169.14,
+      "end": 169.62,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 169.58,
+      "end": 170.1,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "John",
+      "start": 171.92,
+      "end": 176.3,
+      "text": "with of the   with amount of customers we're gonna get. I don't know who the <FILL/>   the numbers now."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 172.74,
+      "end": 173.75,
+      "text": "How much money?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 174.27,
+      "end": 174.97,
+      "text": "How much money?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 175.43,
+      "end": 179.05,
+      "text": "We have to have numbers we cannot move forward without numbers."
+    },
+    {
+      "speaker": "Linda",
+      "start": 176.9,
+      "end": 178.58,
+      "text": "Yeah, we need to   we need to know for   if we"
+    },
+    {
+      "speaker": "John",
+      "start": 177.8,
+      "end": 179.73,
+      "text": "We will only know in the next two months."
+    },
+    {
+      "speaker": "Linda",
+      "start": 178.7,
+      "end": 184.61,
+      "text": "if we're talking about the ten thousands, if we're talking about the hundred thousands, what are we talking about in terms of numbers?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 182.53,
+      "end": 183.18,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 183.51,
+      "end": 185.44,
+      "text": "Well let's just   let's just talk."
+    },
+    {
+      "speaker": "Beth",
+      "start": 184.51,
+      "end": 191.77,
+      "text": "OK, well look my   my annual budget which we gave four months ago, so this should always be clear in our minds anyway people was uh <FILL/>"
+    },
+    {
+      "speaker": "John",
+      "start": 186.98,
+      "end": 187.98,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 189.7,
+      "end": 190.26,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 190.57,
+      "end": 190.98,
+      "text": "Right."
+    },
+    {
+      "speaker": "Beth",
+      "start": 191.87,
+      "end": 194.12,
+      "text": "Sixty mill for the year OK?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 193.84,
+      "end": 194.39,
+      "text": "OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 194.22,
+      "end": 201.35,
+      "text": "And twenty percent of that I   I really think we have to break this down and actually make a hierarchy so"
+    },
+    {
+      "speaker": "Beth",
+      "start": 201.55,
+      "end": 208.71,
+      "text": "you know <FILL/> what's more important because I don't think that I can actually cut from my budget or we're already ready scraping it."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 201.67,
+      "end": 202.66,
+      "text": "of what's important."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 202.99,
+      "end": 204.34,
+      "text": "I think uh"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 207.49,
+      "end": 209.64,
+      "text": "So what's   <FILL/> Remind me what's your department again."
+    },
+    {
+      "speaker": "Beth",
+      "start": 210.11,
+      "end": 213.19,
+      "text": "And the facilities like uh toilets"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 211.27,
+      "end": 214.42,
+      "text": "If I may   <FILL/> If I may interrupt here"
+    },
+    {
+      "speaker": "Beth",
+      "start": 213.2,
+      "end": 213.95,
+      "text": "<FILL/>"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 213.58,
+      "end": 214.24,
+      "text": "OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 214.53,
+      "end": 217.47,
+      "text": "instead of each one of us fighting for their own"
+    },
+    {
+      "speaker": "Beth",
+      "start": 215.99,
+      "end": 216.55,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 217.68,
+      "end": 220.07,
+      "text": "cut let's do now. Let's"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 220.24,
+      "end": 224.11,
+      "text": "<FILL/> We know that we need this. We know   We know that the   the uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 224.21,
+      "end": 229.04,
+      "text": "the addition of the third floor has been voted, we know that the aquarium is voted."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 227.09,
+      "end": 227.48,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 227.1,
+      "end": 227.92,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 229.12,
+      "end": 229.49,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 229.17,
+      "end": 232.83,
+      "text": "So, let's now make it numbers. I will believe that"
+    },
+    {
+      "speaker": "Ron",
+      "start": 229.46,
+      "end": 229.76,
+      "text": "OK."
+    },
+    {
+      "speaker": "Ron",
+      "start": 231.31,
+      "end": 231.76,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 233.02,
+      "end": 237.47,
+      "text": "<FILL/> instead of talking uh percentage, I'm ready to   I told you, I'm ready to give"
+    },
+    {
+      "speaker": "Beth",
+      "start": 236.72,
+      "end": 237.26,
+      "text": "Mmm."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 237.48,
+      "end": 237.89,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 237.91,
+      "end": 239.06,
+      "text": "a million and a half"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 239.43,
+      "end": 241.76,
+      "text": "out of my budget. How much are you get already?"
+    },
+    {
+      "speaker": "John",
+      "start": 241.46,
+      "end": 245.16,
+      "text": "<FILL/> I personally don't wanna take out any budget of my personal"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 242.22,
+      "end": 242.68,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Beth",
+      "start": 245.18,
+      "end": 247.54,
+      "text": "I'm willing to go down by ninety like"
+    },
+    {
+      "speaker": "John",
+      "start": 245.33,
+      "end": 245.96,
+      "text": "um"
+    },
+    {
+      "speaker": "Beth",
+      "start": 247.67,
+      "end": 248.78,
+      "text": "to five percent."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 248.62,
+      "end": 251.62,
+      "text": "<FILL/> How much is five percent? I need   I need to hear the numbers."
+    },
+    {
+      "speaker": "John",
+      "start": 251.05,
+      "end": 252.17,
+      "text": "Two hundred thousand dollars."
+    },
+    {
+      "speaker": "Beth",
+      "start": 251.68,
+      "end": 253.08,
+      "text": "Two hundred thousand dollars."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 252.96,
+      "end": 253.94,
+      "text": "Wow."
+    },
+    {
+      "speaker": "Ron",
+      "start": 253.92,
+      "end": 254.33,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Ron",
+      "start": 254.77,
+      "end": 255.46,
+      "text": "Look I would"
+    },
+    {
+      "speaker": "Linda",
+      "start": 255.04,
+      "end": 258.21,
+      "text": "OK OK the two hundred thousand to me sounds reasonable."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 255.77,
+      "end": 256.29,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Beth",
+      "start": 258.94,
+      "end": 263.31,
+      "text": "It's just that we won't have that great soap in the bathrooms that you know"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 259.36,
+      "end": 260.12,
+      "text": "One and a half."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 261.47,
+      "end": 264.52,
+      "text": "No, but guys, I think <FILL/>   I think that we are over"
+    },
+    {
+      "speaker": "Linda",
+      "start": 261.94,
+      "end": 262.66,
+      "text": "<FILL/> Right."
+    },
+    {
+      "speaker": "Linda",
+      "start": 262.77,
+      "end": 263.15,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 264.62,
+      "end": 271.3,
+      "text": "exaggerating twenty percent is now because it's under construction, but as soon as everything starts going in a holiday season"
+    },
+    {
+      "speaker": "Beth",
+      "start": 268.78,
+      "end": 272.36,
+      "text": "That's why I wanna know as well for how long is this projected?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 271.22,
+      "end": 271.92,
+      "text": "That's right."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 271.53,
+      "end": 272.74,
+      "text": "it's gonna be   I"
+    },
+    {
+      "speaker": "Ron",
+      "start": 272.35,
+      "end": 274.98,
+      "text": "We're talking about three months, OK?"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 274.11,
+      "end": 281.73,
+      "text": "Yeah it's a very short term decrease, so I think it's something that we don't really need to give up that much on. I think that we <FILL/> just have to think about the overall budget."
+    },
+    {
+      "speaker": "Linda",
+      "start": 274.84,
+      "end": 275.7,
+      "text": "Three months."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 278.85,
+      "end": 279.67,
+      "text": "So <PName> Ron </PName>"
+    },
+    {
+      "speaker": "Beth",
+      "start": 279.07,
+      "end": 283.29,
+      "text": "OK I've got some things in reserve. I've got some things stored up as well."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 280.22,
+      "end": 282.15,
+      "text": "give us   give us the numbers."
+    },
+    {
+      "speaker": "Linda",
+      "start": 281.6,
+      "end": 287.55,
+      "text": "Yeah but if   if we're estimating three months it's gonna turn out to be five months so we need to take that into consideration."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 283.31,
+      "end": 283.77,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 283.78,
+      "end": 284.02,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 284.88,
+      "end": 289.94,
+      "text": "Instead of arguing, please <PName> Ron </PName> , give us the last numbers that you need to have for each department."
+    },
+    {
+      "speaker": "Beth",
+      "start": 289.96,
+      "end": 290.52,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 290.33,
+      "end": 295.11,
+      "text": "The numbers are always uh two times, three times, four times what we   what we anticipate."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 292.01,
+      "end": 292.579,
+      "text": "Please"
+    },
+    {
+      "speaker": "Ron",
+      "start": 292.54,
+      "end": 297.07,
+      "text": "Well if we   if we end   if we strive for the rounded number of twenty"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 293.03,
+      "end": 293.969,
+      "text": "the full numbers."
+    },
+    {
+      "speaker": "Ron",
+      "start": 297.17,
+      "end": 300.58,
+      "text": "percent I would like to have everybody give me three different"
+    },
+    {
+      "speaker": "Ron",
+      "start": 301.0,
+      "end": 302.11,
+      "text": "uh   uh"
+    },
+    {
+      "speaker": "Ron",
+      "start": 302.13,
+      "end": 305.06,
+      "text": "three different uh items that they can cut on"
+    },
+    {
+      "speaker": "Beth",
+      "start": 304.9,
+      "end": 305.53,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ron",
+      "start": 305.22,
+      "end": 308.14,
+      "text": "in order to uh   to   to reduce this budget."
+    },
+    {
+      "speaker": "Linda",
+      "start": 307.48,
+      "end": 308.18,
+      "text": "Three?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 308.34,
+      "end": 310.2,
+      "text": "Yes, three. Everybody come up with three."
+    },
+    {
+      "speaker": "Beth",
+      "start": 308.61,
+      "end": 309.44,
+      "text": "<FILL/> OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 310.32,
+      "end": 310.98,
+      "text": "<FILL/> OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 310.73,
+      "end": 313.77,
+      "text": "I think that in regards to um marketing"
+    },
+    {
+      "speaker": "Beth",
+      "start": 312.79,
+      "end": 314.59,
+      "text": "<FILL/> When do you want that by? Sorry."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 313.2,
+      "end": 313.89,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 313.91,
+      "end": 314.74,
+      "text": "<FILL/> In <FILL/>"
+    },
+    {
+      "speaker": "Ron",
+      "start": 314.9,
+      "end": 320.5,
+      "text": "I'd like to hear right now you know just think of the top your head three things that you can cut everybody."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 316.36,
+      "end": 316.8,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 316.92,
+      "end": 317.96,
+      "text": "Uh-uh."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 318.08,
+      "end": 318.91,
+      "text": "I think from"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 319.74,
+      "end": 322.12,
+      "text": "I think from uh   from marketing I think"
+    },
+    {
+      "speaker": "Beth",
+      "start": 320.27,
+      "end": 321.21,
+      "text": "<FILLlaugh/>"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 322.13,
+      "end": 328.98,
+      "text": "we can be have more efficient digital marketing, we can have more efficient   we can decide to deduct a channel for now."
+    },
+    {
+      "speaker": "Ron",
+      "start": 325.28,
+      "end": 326.02,
+      "text": "What's one?"
+    },
+    {
+      "speaker": "Ron",
+      "start": 328.83,
+      "end": 329.46,
+      "text": "That's two."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 329.35,
+      "end": 330.09,
+      "text": "Um"
+    },
+    {
+      "speaker": "Beth",
+      "start": 329.54,
+      "end": 330.64,
+      "text": "Um"
+    },
+    {
+      "speaker": "Sarah",
+      "start": 330.1,
+      "end": 331.82,
+      "text": "and about my third one uh I'll think about it."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 331.84,
+      "end": 332.36,
+      "text": "Uh"
+    },
+    {
+      "speaker": "Ron",
+      "start": 332.45,
+      "end": 333.14,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 332.78,
+      "end": 334.52,
+      "text": "and while everyone else goes."
+    },
+    {
+      "speaker": "Ron",
+      "start": 334.49,
+      "end": 335.23,
+      "text": "OK, <PName> Linda </PName> ."
+    },
+    {
+      "speaker": "Linda",
+      "start": 334.98,
+      "end": 339.67,
+      "text": "Yeah, no I <FILL/> .   I   I have to give this some thought. <FILL/> These numbers are hard to crunch."
+    },
+    {
+      "speaker": "Ron",
+      "start": 337.73,
+      "end": 338.35,
+      "text": "OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 338.57,
+      "end": 343.61,
+      "text": "I told you already, my numbers is a million   eh <FILL/>   uh I could go up to a million five, also cut down"
+    },
+    {
+      "speaker": "Ron",
+      "start": 339.19,
+      "end": 340.06,
+      "text": "Go ahead <PName> Rachel </PName> ."
+    },
+    {
+      "speaker": "Ron",
+      "start": 343.11,
+      "end": 346.07,
+      "text": "But give me three different items that you could cut down on."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 345.83,
+      "end": 346.94,
+      "text": "from your department."
+    },
+    {
+      "speaker": "Sarah",
+      "start": 347.51,
+      "end": 350.34,
+      "text": "From HR <FILL/> where   where can you cut down on?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 350.28,
+      "end": 354.01,
+      "text": "I cut down on the uh   uh presents for uh   for the holidays."
+    },
+    {
+      "speaker": "Beth",
+      "start": 352.15,
+      "end": 352.64,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Beth",
+      "start": 353.85,
+      "end": 354.61,
+      "text": "Mmm."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 354.29,
+      "end": 355.71,
+      "text": "I could cut down uh"
+    }
+  ]
+}

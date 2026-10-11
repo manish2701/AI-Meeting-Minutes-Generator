@@ -1,0 +1,657 @@
+{
+  "meeting_id": "MTG_32256",
+  "language": "en-US",
+  "duration_s": 363.94000244140625,
+  "speakers": [
+    "Beth",
+    "Brad",
+    "Rachel",
+    "Tom"
+  ],
+  "num_speakers": 4,
+  "num_utterances": 107,
+  "segments": [
+    {
+      "speaker": "Tom",
+      "start": 4.8,
+      "end": 7.28,
+      "text": "Robotic nurse revolutionizes healthcare."
+    },
+    {
+      "speaker": "Tom",
+      "start": 7.47,
+      "end": 9.5,
+      "text": "Meet the latest addition to your medical team."
+    },
+    {
+      "speaker": "Tom",
+      "start": 9.81,
+      "end": 12.79,
+      "text": "In a world where technology is advancing at lightning speed"
+    },
+    {
+      "speaker": "Tom",
+      "start": 12.98,
+      "end": 17.22,
+      "text": "it was only a matter of time before robots made their way into the healthcare industry."
+    },
+    {
+      "speaker": "Tom",
+      "start": 17.62,
+      "end": 20.08,
+      "text": "Introducing the latest addition to your medical team."
+    },
+    {
+      "speaker": "Tom",
+      "start": 20.31,
+      "end": 21.49,
+      "text": "The robotic nurse."
+    },
+    {
+      "speaker": "Tom",
+      "start": 21.68,
+      "end": 25.88,
+      "text": "This futuristic device is set to revolutionize the way we receive medical care"
+    },
+    {
+      "speaker": "Tom",
+      "start": 26.07,
+      "end": 29.53,
+      "text": "making it more efficient, personalized, and accessible than ever before."
+    },
+    {
+      "speaker": "Tom",
+      "start": 30.07,
+      "end": 35.52,
+      "text": "The robotic nurse developed by leading tech company, Nursing Bot Incorporated, stands at <FILL/>"
+    },
+    {
+      "speaker": "Tom",
+      "start": 35.77,
+      "end": 39.57,
+      "text": "at an impressive five feet tall and sports a sleek modern design."
+    },
+    {
+      "speaker": "Tom",
+      "start": 39.97,
+      "end": 42.97,
+      "text": "Its shiny exterior houses advanced sensors"
+    },
+    {
+      "speaker": "Tom",
+      "start": 43.2,
+      "end": 44.44,
+      "text": "AI algorithms"
+    },
+    {
+      "speaker": "Tom",
+      "start": 44.62,
+      "end": 48.0,
+      "text": "and a range of medical tools allowing it to perform various tasks"
+    },
+    {
+      "speaker": "Tom",
+      "start": 48.13,
+      "end": 50.49,
+      "text": "that were previously exclusive to human nurses."
+    },
+    {
+      "speaker": "Tom",
+      "start": 50.93,
+      "end": 53.03,
+      "text": "From taking vital signs and <UNKNOWN/>"
+    },
+    {
+      "speaker": "Tom",
+      "start": 53.23,
+      "end": 58.84,
+      "text": "and administrating medication to performing routine checkups, and even offering emotional support"
+    },
+    {
+      "speaker": "Tom",
+      "start": 59.02,
+      "end": 61.01,
+      "text": "this robot is truly a game changer."
+    },
+    {
+      "speaker": "Tom",
+      "start": 61.57,
+      "end": 68.16,
+      "text": "One of the most significant advantages of the robotic nurse is its ability to provide round the clock care without interruption."
+    },
+    {
+      "speaker": "Tom",
+      "start": 68.53,
+      "end": 73.82,
+      "text": "Unlike human nurses who requires breaks and rest, the robot can work tirelessly twenty four seven"
+    },
+    {
+      "speaker": "Tom",
+      "start": 74.04,
+      "end": 76.93,
+      "text": "ensuring patients always have access to top notch care."
+    },
+    {
+      "speaker": "Tom",
+      "start": 77.4,
+      "end": 82.65,
+      "text": "Additionally, its advanced sensors allow it to monitor patients' conditions closely"
+    },
+    {
+      "speaker": "Tom",
+      "start": 83.12,
+      "end": 88.27,
+      "text": "detecting any changes or anomalies immediately and alerting the human medical staff if necessary."
+    },
+    {
+      "speaker": "Beth",
+      "start": 89.13,
+      "end": 93.89,
+      "text": "But what really sets the robotic nurse apart is its capacity for personalization."
+    },
+    {
+      "speaker": "Beth",
+      "start": 94.37,
+      "end": 97.02,
+      "text": "Equipped with sophisticated AI algorithms"
+    },
+    {
+      "speaker": "Beth",
+      "start": 97.2,
+      "end": 100.21,
+      "text": "the robot can learn each patient's preferences"
+    },
+    {
+      "speaker": "Beth",
+      "start": 100.38,
+      "end": 102.37,
+      "text": "habits, and needs over time"
+    },
+    {
+      "speaker": "Beth",
+      "start": 102.73,
+      "end": 104.98,
+      "text": "tailoring its care approach accordingly."
+    },
+    {
+      "speaker": "Beth",
+      "start": 105.53,
+      "end": 111.58,
+      "text": "For instance, it can adjust the temperature, lighting and even music to create a comfortable environment"
+    },
+    {
+      "speaker": "Beth",
+      "start": 111.78,
+      "end": 113.42,
+      "text": "specific to each individual."
+    },
+    {
+      "speaker": "Beth",
+      "start": 114.05,
+      "end": 117.97,
+      "text": "Such attention to detail not only enhances patient's satisfaction"
+    },
+    {
+      "speaker": "Beth",
+      "start": 118.34,
+      "end": 120.69,
+      "text": "but also promotes faster recovery rates"
+    },
+    {
+      "speaker": "Beth",
+      "start": 120.85,
+      "end": 122.97,
+      "text": "and improved overall health outcomes."
+    },
+    {
+      "speaker": "Beth",
+      "start": 123.66,
+      "end": 127.94,
+      "text": "Another benefit of the robotic nurse is its ability to alleviate the workload"
+    },
+    {
+      "speaker": "Beth",
+      "start": 128.1,
+      "end": 129.68,
+      "text": "of human medical staff."
+    },
+    {
+      "speaker": "Beth",
+      "start": 130.3,
+      "end": 133.82,
+      "text": "With the robot handling routine tasks and monitoring patients"
+    },
+    {
+      "speaker": "Beth",
+      "start": 134.18,
+      "end": 139.79,
+      "text": "nurses and doctors are freed up to focus on more complex cases and critical procedures."
+    },
+    {
+      "speaker": "Beth",
+      "start": 140.5,
+      "end": 143.6,
+      "text": "This not only improves the efficiency of the hospital"
+    },
+    {
+      "speaker": "Beth",
+      "start": 144.03,
+      "end": 148.44,
+      "text": "but also reduces the likelihood of errors caused by fatigue or stress."
+    },
+    {
+      "speaker": "Beth",
+      "start": 149.29,
+      "end": 153.09,
+      "text": "While some may worry about the lack of empathy and human touch"
+    },
+    {
+      "speaker": "Beth",
+      "start": 153.47,
+      "end": 157.13,
+      "text": "research has shown that patients actually respond positively"
+    },
+    {
+      "speaker": "Beth",
+      "start": 157.36,
+      "end": 159.1,
+      "text": "to interacting with robots."
+    },
+    {
+      "speaker": "Beth",
+      "start": 159.45,
+      "end": 160.44,
+      "text": "In fact"
+    },
+    {
+      "speaker": "Beth",
+      "start": 160.79,
+      "end": 164.4,
+      "text": "many report feeling more comfortable sharing personal information"
+    },
+    {
+      "speaker": "Beth",
+      "start": 164.6,
+      "end": 166.39,
+      "text": "and concerns with a machine"
+    },
+    {
+      "speaker": "Beth",
+      "start": 166.52,
+      "end": 167.98,
+      "text": "than with a human provider."
+    },
+    {
+      "speaker": "Beth",
+      "start": 168.78,
+      "end": 172.0,
+      "text": "Moreover, the robot's gentle voice and soothing demeanor"
+    },
+    {
+      "speaker": "Beth",
+      "start": 172.24,
+      "end": 175.59,
+      "text": "can help calm, anxious or even <FILL/> nervous patients"
+    },
+    {
+      "speaker": "Beth",
+      "start": 175.89,
+      "end": 178.96,
+      "text": "creating a sense of security and trust."
+    },
+    {
+      "speaker": "Brad",
+      "start": 179.84,
+      "end": 182.41,
+      "text": "Of course, as with any new technology"
+    },
+    {
+      "speaker": "Brad",
+      "start": 182.7,
+      "end": 185.49,
+      "text": "there are concerns regarding safety and privacy."
+    },
+    {
+      "speaker": "Brad",
+      "start": 185.99,
+      "end": 186.6,
+      "text": "However"
+    },
+    {
+      "speaker": "Brad",
+      "start": 186.73,
+      "end": 191.4,
+      "text": "Nursing Bot Incorporated has taken extensive measures to address these issues."
+    },
+    {
+      "speaker": "Brad",
+      "start": 191.86,
+      "end": 196.67,
+      "text": "The robot's software is designed with robust encryption and data protection protocols."
+    },
+    {
+      "speaker": "Brad",
+      "start": 196.92,
+      "end": 200.59,
+      "text": "ensuring patient sensitive information remains confidential."
+    },
+    {
+      "speaker": "Brad",
+      "start": 201.34,
+      "end": 202.1,
+      "text": "Furthermore"
+    },
+    {
+      "speaker": "Brad",
+      "start": 202.21,
+      "end": 207.24,
+      "text": "rigorous testing and training guarantee the robot's performance and <FILL/> reliability"
+    },
+    {
+      "speaker": "Brad",
+      "start": 207.58,
+      "end": 211.0,
+      "text": "minimizing the risk of malfunctions or errors."
+    },
+    {
+      "speaker": "Brad",
+      "start": 211.54,
+      "end": 216.69,
+      "text": "As robotic nurse begins to roll out across hospitals and clinics nationwide"
+    },
+    {
+      "speaker": "Brad",
+      "start": 216.79,
+      "end": 219.62,
+      "text": "it's clear that this innovative solution"
+    },
+    {
+      "speaker": "Brad",
+      "start": 219.75,
+      "end": 222.12,
+      "text": "will transform the healthcare landscape"
+    },
+    {
+      "speaker": "Brad",
+      "start": 222.24,
+      "end": 222.74,
+      "text": "forever."
+    },
+    {
+      "speaker": "Brad",
+      "start": 223.23,
+      "end": 227.03,
+      "text": "By augmenting human caregivers rather than replacing them"
+    },
+    {
+      "speaker": "Brad",
+      "start": 227.36,
+      "end": 232.9,
+      "text": "this cutting edge technology promises to elevate patient care to unprecedented heights."
+    },
+    {
+      "speaker": "Brad",
+      "start": 233.24,
+      "end": 234.98,
+      "text": "Embrace the future of medicine."
+    },
+    {
+      "speaker": "Brad",
+      "start": 235.26,
+      "end": 237.32,
+      "text": "Your robotic nurse is here to help."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 237.99,
+      "end": 242.34,
+      "text": "Here a Q and A session with a contrarian view on the robot."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 242.63,
+      "end": 243.3,
+      "text": "Question."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 243.63,
+      "end": 248.01,
+      "text": "What do you think about the new robot that's being introduced in the healthcare industry?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 248.53,
+      "end": 249.19,
+      "text": "Answer."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 249.33,
+      "end": 251.18,
+      "text": "I think it's a huge mistakes."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 251.31,
+      "end": 253.5,
+      "text": "Robots don't belong in healthcare."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 253.69,
+      "end": 255.64,
+      "text": "They are cold, impersonal"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 255.81,
+      "end": 260.09,
+      "text": "and lack the human touch that's so essential in caring for patients."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 260.6,
+      "end": 261.3,
+      "text": "Question."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 261.53,
+      "end": 264.89,
+      "text": "But aren't robots more efficient and accurate than humans?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 265.21,
+      "end": 265.85,
+      "text": "Answer."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 266.03,
+      "end": 266.85,
+      "text": "That's true."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 267.09,
+      "end": 270.52,
+      "text": "But efficiency and accuracy are not everything."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 270.67,
+      "end": 272.44,
+      "text": "Patients need more than just"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 272.65,
+      "end": 274.25,
+      "text": "their physical needs met."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 274.37,
+      "end": 276.69,
+      "text": "They need emotional support and empathy"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 276.98,
+      "end": 278.91,
+      "text": "which robots can't provide."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 279.14,
+      "end": 283.09,
+      "text": "Human nurses and doctors are able to connect with patients"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 283.2,
+      "end": 284.49,
+      "text": "on a personal level"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 284.6,
+      "end": 285.98,
+      "text": "something that robots"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 286.26,
+      "end": 288.1,
+      "text": "simply can't replicate."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 288.47,
+      "end": 289.16,
+      "text": "Question."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 289.74,
+      "end": 295.61,
+      "text": "But what about the benefits of robots being able to lift heavy object and perform repetitive tasks?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 295.95,
+      "end": 296.61,
+      "text": "Answer."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 296.83,
+      "end": 302.26,
+      "text": "Those are certainly benefits, but they are not enough to justify the use of robots in healthcare."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 302.59,
+      "end": 308.29,
+      "text": "Nurses and doctors are trained to handle those task and they do so with compassion and care."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 308.56,
+      "end": 310.97,
+      "text": "Robots can't replace that."
+    },
+    {
+      "speaker": "Tom",
+      "start": 311.59,
+      "end": 312.2,
+      "text": "Question."
+    },
+    {
+      "speaker": "Tom",
+      "start": 312.54,
+      "end": 317.49,
+      "text": "Don't you think the robots could help reduce the workload of healthcare professionals and improve patient care?"
+    },
+    {
+      "speaker": "Tom",
+      "start": 318.01,
+      "end": 318.6,
+      "text": "Answer."
+    },
+    {
+      "speaker": "Tom",
+      "start": 318.77,
+      "end": 321.06,
+      "text": "Actually, I think the opposite is true."
+    },
+    {
+      "speaker": "Tom",
+      "start": 321.39,
+      "end": 328.86,
+      "text": "Robots will only add to the workload of healthcare professionals, who will then have to spend time programming, maintaining, and troubleshooting that machines."
+    },
+    {
+      "speaker": "Tom",
+      "start": 329.11,
+      "end": 330.3,
+      "text": "And as per patient care"
+    },
+    {
+      "speaker": "Tom",
+      "start": 330.45,
+      "end": 334.47,
+      "text": "Robots will never be able to provide the same level of care as a human nurse or doctor."
+    },
+    {
+      "speaker": "Tom",
+      "start": 334.92,
+      "end": 335.48,
+      "text": "Question."
+    },
+    {
+      "speaker": "Tom",
+      "start": 336.07,
+      "end": 340.6,
+      "text": "But what about the cost savings of using robots? Won't they save hospitals money in the long run?"
+    },
+    {
+      "speaker": "Tom",
+      "start": 341.02,
+      "end": 343.18,
+      "text": "Answer, maybe but that's not the point."
+    },
+    {
+      "speaker": "Tom",
+      "start": 343.44,
+      "end": 348.03,
+      "text": "The point is to provide the best possible care for patients and robots simply can't do that."
+    },
+    {
+      "speaker": "Tom",
+      "start": 348.29,
+      "end": 350.89,
+      "text": "Besides, the cost savings argument is flawed."
+    },
+    {
+      "speaker": "Tom",
+      "start": 351.09,
+      "end": 353.49,
+      "text": "Yes, robots might be cheaper in the short term"
+    },
+    {
+      "speaker": "Tom",
+      "start": 353.64,
+      "end": 358.05,
+      "text": "but in the long term they'll end up costing more due to maintenance. Repair and replacement costs."
+    },
+    {
+      "speaker": "Tom",
+      "start": 358.17,
+      "end": 361.45,
+      "text": "Not to mention the cost of training staff to use them properly."
+    }
+  ]
+}

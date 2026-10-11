@@ -1,0 +1,1094 @@
+{
+  "meeting_id": "MTG_32072",
+  "language": "en-US",
+  "duration_s": 365.44000244140625,
+  "speakers": [
+    "Beth",
+    "Linda",
+    "Rachel"
+  ],
+  "num_speakers": 3,
+  "num_utterances": 180,
+  "segments": [
+    {
+      "speaker": "Linda",
+      "start": 7.74,
+      "end": 8.61,
+      "text": "Hi everybody."
+    },
+    {
+      "speaker": "Beth",
+      "start": 8.77,
+      "end": 9.8,
+      "text": "Hi, welcome."
+    },
+    {
+      "speaker": "Linda",
+      "start": 9.17,
+      "end": 14.82,
+      "text": "Thanks for coming, thanks for coming. Uh listen I wanna discuss a uh   a new idea"
+    },
+    {
+      "speaker": "Linda",
+      "start": 15.47,
+      "end": 19.4,
+      "text": "for <FILL/>   an extension of our   of our dog grooming uh business."
+    },
+    {
+      "speaker": "Linda",
+      "start": 19.99,
+      "end": 20.91,
+      "text": "Uh"
+    },
+    {
+      "speaker": "Linda",
+      "start": 20.92,
+      "end": 27.77,
+      "text": "I've been hearing a lot about uh these hi-tech companies that allow employees to bring their dogs uh to work with them."
+    },
+    {
+      "speaker": "Beth",
+      "start": 27.75,
+      "end": 28.24,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 29.32,
+      "end": 35.59,
+      "text": "And it dawned on me all of a sudden that we could uh extend   extend our service"
+    },
+    {
+      "speaker": "Linda",
+      "start": 35.89,
+      "end": 37.45,
+      "text": "to actually"
+    },
+    {
+      "speaker": "Linda",
+      "start": 37.86,
+      "end": 40.38,
+      "text": "coming to the   the   the   the workplace."
+    },
+    {
+      "speaker": "Linda",
+      "start": 40.86,
+      "end": 42.65,
+      "text": "setting up our um"
+    },
+    {
+      "speaker": "Linda",
+      "start": 42.8,
+      "end": 43.78,
+      "text": "a van out"
+    },
+    {
+      "speaker": "Beth",
+      "start": 43.06,
+      "end": 45.71,
+      "text": "Wow, that sounds <UNKNOWN/> oh yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 44.2,
+      "end": 50.47,
+      "text": "outside and uh   and   and while somebody's working they can have their dog or their cat groomed."
+    },
+    {
+      "speaker": "Beth",
+      "start": 49.15,
+      "end": 50.0,
+      "text": "Groomed."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 50.21,
+      "end": 52.19,
+      "text": "And that would be"
+    },
+    {
+      "speaker": "Linda",
+      "start": 50.69,
+      "end": 51.28,
+      "text": "OK."
+    },
+    {
+      "speaker": "Linda",
+      "start": 51.94,
+      "end": 57.88,
+      "text": "So I just wanna know if this is a   an   uh an idea that's over the top or if it sounds good if we"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 56.78,
+      "end": 57.18,
+      "text": "No."
+    },
+    {
+      "speaker": "Beth",
+      "start": 57.2,
+      "end": 60.93,
+      "text": "Well, off the top of my head, I think it sounds amazing. I really love it."
+    },
+    {
+      "speaker": "Linda",
+      "start": 58.09,
+      "end": 58.52,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 59.31,
+      "end": 59.68,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 59.55,
+      "end": 62.81,
+      "text": "But, we have to   we have to set"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 62.94,
+      "end": 66.03,
+      "text": "Is it uh a service that will be paid by the company"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 66.16,
+      "end": 68.6,
+      "text": "or is that a service that will pay by individuals?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 68.23,
+      "end": 74.38,
+      "text": "OK. I <FILL/>   I think of it as a   as a benefit offered uh by the   by the company."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 74.21,
+      "end": 75.47,
+      "text": "So our clients"
+    },
+    {
+      "speaker": "Linda",
+      "start": 74.68,
+      "end": 77.39,
+      "text": "But I may   I may be over optimistic. I'm not sure."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 77.3,
+      "end": 79.66,
+      "text": "So our uh   our clients would be"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 79.89,
+      "end": 80.97,
+      "text": "the companies."
+    },
+    {
+      "speaker": "Linda",
+      "start": 80.63,
+      "end": 82.97,
+      "text": "Our client would be the   would be the company."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 82.71,
+      "end": 84.93,
+      "text": "The marketing will be to the companies."
+    },
+    {
+      "speaker": "Beth",
+      "start": 82.79,
+      "end": 83.11,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Beth",
+      "start": 83.39,
+      "end": 84.13,
+      "text": "Or"
+    },
+    {
+      "speaker": "Linda",
+      "start": 84.36,
+      "end": 85.72,
+      "text": "OK. Right. Right."
+    },
+    {
+      "speaker": "Beth",
+      "start": 84.44,
+      "end": 85.53,
+      "text": "both."
+    },
+    {
+      "speaker": "Linda",
+      "start": 85.97,
+      "end": 91.86,
+      "text": "or if the company doesn't uh   doesn't buy that idea, OK, then we can   we can say well OK"
+    },
+    {
+      "speaker": "Linda",
+      "start": 92.16,
+      "end": 95.89,
+      "text": "uh so you're not going to offer it as a   as an employee benefit but"
+    },
+    {
+      "speaker": "Linda",
+      "start": 96.12,
+      "end": 97.13,
+      "text": "you could   you could"
+    },
+    {
+      "speaker": "Beth",
+      "start": 96.73,
+      "end": 97.29,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 97.34,
+      "end": 101.99,
+      "text": "we could   we could offer the service to your employees for   you know for   for a fee."
+    },
+    {
+      "speaker": "Beth",
+      "start": 102.04,
+      "end": 102.78,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 102.49,
+      "end": 103.36,
+      "text": "Maybe that would work."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 102.6,
+      "end": 108.0,
+      "text": "And   And would that during uh   would that during working hours? That taking time of uh working hours?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 107.09,
+      "end": 109.37,
+      "text": "During   During working hours that uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 108.71,
+      "end": 111.57,
+      "text": "That's taking time if they have to take their dog to the car."
+    },
+    {
+      "speaker": "Linda",
+      "start": 111.48,
+      "end": 112.15,
+      "text": "Right."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 111.77,
+      "end": 114.85,
+      "text": "That is taking time off work. Ah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 113.19,
+      "end": 115.02,
+      "text": "No, so I think like uh <FILL/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 113.2,
+      "end": 113.73,
+      "text": "It <UNKNOWN/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 114.16,
+      "end": 116.89,
+      "text": "it   it does take a few minutes off of work. That's true."
+    },
+    {
+      "speaker": "Beth",
+      "start": 116.46,
+      "end": 121.4,
+      "text": "No, I'm thinking like if we have uh a relationship that we build with"
+    },
+    {
+      "speaker": "Beth",
+      "start": 121.5,
+      "end": 128.44,
+      "text": "the   the clientele then um you know our assistants can go up and uh"
+    },
+    {
+      "speaker": "Beth",
+      "start": 128.54,
+      "end": 134.38,
+      "text": "meet the pet, bring them down. No one needs to leave work at all, it's our   part of our service that we go"
+    },
+    {
+      "speaker": "Linda",
+      "start": 129.64,
+      "end": 130.17,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 130.36,
+      "end": 130.85,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 133.78,
+      "end": 134.39,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Beth",
+      "start": 134.48,
+      "end": 136.72,
+      "text": "take the pet down and bring them back."
+    },
+    {
+      "speaker": "Linda",
+      "start": 134.78,
+      "end": 137.3,
+      "text": "Uh right right the   right right yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 136.35,
+      "end": 139.74,
+      "text": "Well, uh that's a good idea I think because companies, it's like"
+    },
+    {
+      "speaker": "Linda",
+      "start": 137.51,
+      "end": 138.91,
+      "text": "Yeah, that's a good idea. Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 139.57,
+      "end": 142.87,
+      "text": "Yeah because there's a dog walking service as well"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 139.95,
+      "end": 143.03,
+      "text": "you can see up and downs with the dogs, <UNKNOWN/> ."
+    },
+    {
+      "speaker": "Linda",
+      "start": 141.71,
+      "end": 142.27,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 142.6,
+      "end": 143.15,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 143.1,
+      "end": 145.23,
+      "text": "at some companies that have pets"
+    },
+    {
+      "speaker": "Linda",
+      "start": 144.94,
+      "end": 145.57,
+      "text": "Right."
+    },
+    {
+      "speaker": "Beth",
+      "start": 145.33,
+      "end": 151.46,
+      "text": "there's a dog walking service, so they actually employ   I've seen this, they employ someone who"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 149.04,
+      "end": 149.65,
+      "text": "Yes."
+    },
+    {
+      "speaker": "Linda",
+      "start": 149.77,
+      "end": 150.44,
+      "text": "Oh."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 151.09,
+      "end": 152.25,
+      "text": "Walk the dogs."
+    },
+    {
+      "speaker": "Beth",
+      "start": 151.56,
+      "end": 156.7,
+      "text": "walks the dogs gives them   make sure they have water feeds them during the day and this is a"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 155.83,
+      "end": 157.01,
+      "text": "Walk the dogs."
+    },
+    {
+      "speaker": "Linda",
+      "start": 156.81,
+      "end": 161.87,
+      "text": "Now, could we do this as a combined service? Yeah, dog walking, dog grooming"
+    },
+    {
+      "speaker": "Beth",
+      "start": 162.01,
+      "end": 162.79,
+      "text": "Hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 162.25,
+      "end": 166.86,
+      "text": "and then um   <FILL/> Let   Let   Let's say the dog walking service was"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 163.99,
+      "end": 164.43,
+      "text": "OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 166.49,
+      "end": 167.21,
+      "text": "So"
+    },
+    {
+      "speaker": "Linda",
+      "start": 167.05,
+      "end": 171.69,
+      "text": "was you know the   the <FILL/>   the company paid for and then   and then if the worker wants"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 167.9,
+      "end": 168.83,
+      "text": "would you"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 171.34,
+      "end": 172.07,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Linda",
+      "start": 171.82,
+      "end": 174.24,
+      "text": "they can also have uh a grooming and then the worker <UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 172.68,
+      "end": 173.12,
+      "text": "No."
+    },
+    {
+      "speaker": "Beth",
+      "start": 173.31,
+      "end": 174.98,
+      "text": "or can be subsidized."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 174.16,
+      "end": 175.2,
+      "text": "<PName> Linda </PName> I have"
+    },
+    {
+      "speaker": "Linda",
+      "start": 174.66,
+      "end": 175.91,
+      "text": "or it can be subsidized, yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 175.87,
+      "end": 177.19,
+      "text": "I have one more question."
+    },
+    {
+      "speaker": "Linda",
+      "start": 176.79,
+      "end": 177.38,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 177.41,
+      "end": 179.09,
+      "text": "Would you limit the company"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 179.42,
+      "end": 185.22,
+      "text": "just to work for companies in working places or would you use the same"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 185.61,
+      "end": 190.55,
+      "text": "yours   your company or this new company also to give services at homes?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 186.73,
+      "end": 187.31,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 190.43,
+      "end": 192.74,
+      "text": "To   To <FILL/>   To private homes. <FILL/> listen"
+    },
+    {
+      "speaker": "Linda",
+      "start": 192.91,
+      "end": 195.15,
+      "text": "<FILL/> Both uh ideally."
+    },
+    {
+      "speaker": "Beth",
+      "start": 195.11,
+      "end": 195.6,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 195.26,
+      "end": 199.98,
+      "text": "OK. We could we   we could   we   it's not   No, it's not the same kind of marketing, although it's"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 195.9,
+      "end": 197.83,
+      "text": "But it's not the same kind of marketing."
+    },
+    {
+      "speaker": "Linda",
+      "start": 200.08,
+      "end": 207.3,
+      "text": "it's easily <FILL/> you know <FILL/> related. Um we could use the same uh, you know, equipment and   Yeah <UNKNOWN/>"
+    },
+    {
+      "speaker": "Beth",
+      "start": 205.06,
+      "end": 209.51,
+      "text": "The fact that you're mobile   Yeah. Just   It's just area related like"
+    },
+    {
+      "speaker": "Linda",
+      "start": 208.03,
+      "end": 212.85,
+      "text": "Yeah, the same   the same   the same groomers and dog walkers could do, you know, sometimes this   Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 210.16,
+      "end": 210.63,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 210.31,
+      "end": 215.01,
+      "text": "No, if you do one dog at a time it's one price, if you do ten dogs at a time"
+    },
+    {
+      "speaker": "Linda",
+      "start": 213.51,
+      "end": 213.99,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 214.91,
+      "end": 215.64,
+      "text": "Mmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 215.0,
+      "end": 215.54,
+      "text": "Right."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 215.15,
+      "end": 217.12,
+      "text": "it's another price for companies."
+    },
+    {
+      "speaker": "Beth",
+      "start": 215.97,
+      "end": 216.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 216.62,
+      "end": 223.37,
+      "text": "Uh no <FILL/> absolutely, absolutely. But I'm   But what   what I was interested in was offering at first as a service as a   as a perk"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 217.84,
+      "end": 218.68,
+      "text": "I don't think"
+    },
+    {
+      "speaker": "Linda",
+      "start": 223.58,
+      "end": 226.51,
+      "text": "OK to   to hi-tech uh companies"
+    },
+    {
+      "speaker": "Linda",
+      "start": 226.69,
+      "end": 232.31,
+      "text": "who we're trying to attract uh you know <FILL/> high quality workers with   with   with   with their perks frankly."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 228.15,
+      "end": 230.21,
+      "text": "May I ask <PName> Linda </PName>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 231.55,
+      "end": 233.19,
+      "text": "<PName> Linda </PName> , may I ask"
+    },
+    {
+      "speaker": "Linda",
+      "start": 232.82,
+      "end": 233.25,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 233.66,
+      "end": 239.93,
+      "text": "what uh <FILL/>   where did you come from with that idea? What   What did   What triggered this idea of the business?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 237.22,
+      "end": 237.69,
+      "text": "Sorry?"
+    },
+    {
+      "speaker": "Linda",
+      "start": 239.31,
+      "end": 246.54,
+      "text": "Um <FILL/> I was thinking about the   I was literally thinking about the perks that uh   that hi-tech companies offer."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 245.54,
+      "end": 247.64,
+      "text": "So it's more   it's more"
+    },
+    {
+      "speaker": "Linda",
+      "start": 246.92,
+      "end": 247.47,
+      "text": "OK."
+    },
+    {
+      "speaker": "Linda",
+      "start": 247.65,
+      "end": 251.67,
+      "text": "And then somebody mentioned that oh yeah they are allowed to bring their dog to work."
+    },
+    {
+      "speaker": "Linda",
+      "start": 252.17,
+      "end": 254.36,
+      "text": "And so I could sorta put two and two together."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 254.29,
+      "end": 255.4,
+      "text": "And that would be"
+    },
+    {
+      "speaker": "Linda",
+      "start": 254.72,
+      "end": 260.38,
+      "text": "And I said now they're <UNKNOWN/>   they're <UNKNOWN/>   <FILL/> Listen, being   being allowed to bring your dog to work is a perk for many people, OK?"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 260.11,
+      "end": 261.26,
+      "text": "So you would need"
+    },
+    {
+      "speaker": "Linda",
+      "start": 261.31,
+      "end": 266.11,
+      "text": "But I figured this   OK this is even more of a perk OK and makes a"
+    },
+    {
+      "speaker": "Beth",
+      "start": 265.05,
+      "end": 267.68,
+      "text": "that we don't need stinky mutts around the office."
+    },
+    {
+      "speaker": "Linda",
+      "start": 267.0,
+      "end": 269.78,
+      "text": "Makes a   <FILL/> Makes a lot of sense, OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 268.65,
+      "end": 271.49,
+      "text": "<FILL/> Yeah, but that   that would uh make uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 272.65,
+      "end": 275.65,
+      "text": "creating with the company that would mean the   the trucks"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 275.82,
+      "end": 280.26,
+      "text": "the people to uh   to drive the trucks, the people to wash the dogs"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 280.51,
+      "end": 282.86,
+      "text": "the people to walk the dogs"
+    },
+    {
+      "speaker": "Linda",
+      "start": 282.55,
+      "end": 283.06,
+      "text": "Right."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 283.18,
+      "end": 285.94,
+      "text": "and uh   uh that's uh   and that's"
+    },
+    {
+      "speaker": "Linda",
+      "start": 285.09,
+      "end": 285.5,
+      "text": "Right."
+    },
+    {
+      "speaker": "Linda",
+      "start": 286.18,
+      "end": 291.21,
+      "text": "Well, the   the truck,   the van we   we actually   we actually already have, OK? So we could   I think"
+    },
+    {
+      "speaker": "Beth",
+      "start": 290.82,
+      "end": 294.51,
+      "text": "And the driver and the   the assistant are the same people."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 293.94,
+      "end": 296.4,
+      "text": "No you might need the you know   the parking."
+    },
+    {
+      "speaker": "Linda",
+      "start": 295.07,
+      "end": 300.01,
+      "text": "But we <FILL/>   We'll   We'll probably need more. Well, parking   parking will be uh   will be uh"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 297.05,
+      "end": 297.55,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 300.11,
+      "end": 304.89,
+      "text": "uh an issue but   but <FILL/>   Exactly, exactly, right. They'll tell us where to park."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 300.36,
+      "end": 301.91,
+      "text": "Provided by the company."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 304.76,
+      "end": 306.09,
+      "text": "So I uh"
+    },
+    {
+      "speaker": "Linda",
+      "start": 305.29,
+      "end": 305.7,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 306.39,
+      "end": 310.11,
+      "text": "I would like to note   Yes, I would like to note to start"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 310.86,
+      "end": 314.71,
+      "text": "thinking of it seriously, because the idea sounds good idea."
+    },
+    {
+      "speaker": "Linda",
+      "start": 312.48,
+      "end": 312.96,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Linda",
+      "start": 314.39,
+      "end": 315.1,
+      "text": "You like it?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 315.03,
+      "end": 316.12,
+      "text": "Yeah. I love it."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 315.35,
+      "end": 316.53,
+      "text": "I like the idea."
+    },
+    {
+      "speaker": "Linda",
+      "start": 316.06,
+      "end": 316.47,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 316.71,
+      "end": 317.99,
+      "text": "But I need numbers."
+    },
+    {
+      "speaker": "Linda",
+      "start": 316.82,
+      "end": 317.23,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 317.8,
+      "end": 325.72,
+      "text": "We just need area's feasibility, maybe we do two companies in one, you know, what is the capacity of us per day to actually run this"
+    },
+    {
+      "speaker": "Linda",
+      "start": 318.23,
+      "end": 318.64,
+      "text": "Right."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 321.63,
+      "end": 322.76,
+      "text": "I need numbers."
+    },
+    {
+      "speaker": "Linda",
+      "start": 325.48,
+      "end": 326.05,
+      "text": "Right."
+    },
+    {
+      "speaker": "Beth",
+      "start": 325.85,
+      "end": 328.28,
+      "text": "to see feasibility so can you"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 327.51,
+      "end": 327.88,
+      "text": "So"
+    },
+    {
+      "speaker": "Linda",
+      "start": 328.05,
+      "end": 333.8,
+      "text": "<FILL/> I think we should do feasibility study with   with, let's say one company maybe two companies to   to start."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 330.8,
+      "end": 331.34,
+      "text": "So"
+    },
+    {
+      "speaker": "Beth",
+      "start": 332.73,
+      "end": 333.08,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 333.31,
+      "end": 338.56,
+      "text": "So <PName> Beth </PName> would you be in charge of uh doing the uh   the research and the uh"
+    },
+    {
+      "speaker": "Linda",
+      "start": 336.64,
+      "end": 337.59,
+      "text": "You're good at that."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 338.67,
+      "end": 341.02,
+      "text": "and   and the research and get us the numbers?"
+    },
+    {
+      "speaker": "Beth",
+      "start": 339.8,
+      "end": 342.25,
+      "text": "Yeah I'd love to   I would love to do that."
+    },
+    {
+      "speaker": "Linda",
+      "start": 341.94,
+      "end": 342.38,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Beth",
+      "start": 342.35,
+      "end": 344.93,
+      "text": "I just need to understand from <PName> Linda </PName> because she's more"
+    },
+    {
+      "speaker": "Beth",
+      "start": 345.27,
+      "end": 346.21,
+      "text": "uh"
+    },
+    {
+      "speaker": "Beth",
+      "start": 346.22,
+      "end": 347.7,
+      "text": "involved in the actual"
+    },
+    {
+      "speaker": "Beth",
+      "start": 347.71,
+      "end": 350.51,
+      "text": "dog care part of it. How long does it take"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 349.05,
+      "end": 349.41,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Beth",
+      "start": 350.61,
+      "end": 353.45,
+      "text": "per dog to groom."
+    },
+    {
+      "speaker": "Linda",
+      "start": 353.59,
+      "end": 354.68,
+      "text": "Well, our <UNKNOWN/>"
+    },
+    {
+      "speaker": "Rachel",
+      "start": 354.22,
+      "end": 356.97,
+      "text": "And   And the <FILL/>   the cost of the products that you use."
+    },
+    {
+      "speaker": "Linda",
+      "start": 355.74,
+      "end": 362.81,
+      "text": "Yeah yeah yeah. Our   Our groomers usually say that they need uh   they need   they need almost an   an hour. OK yeah, yeah."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 359.28,
+      "end": 359.919,
+      "text": "OK."
+    },
+    {
+      "speaker": "Beth",
+      "start": 361.13,
+      "end": 362.96,
+      "text": "Our dog, OK."
+    },
+    {
+      "speaker": "Rachel",
+      "start": 361.35,
+      "end": 362.59,
+      "text": "So let's   let's"
+    },
+    {
+      "speaker": "Linda",
+      "start": 363.26,
+      "end": 363.62,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Linda",
+      "start": 364.15,
+      "end": 365.4,
+      "text": "<UNKNOWN/> <UNKNOWN/> could you know this <FILL/>"
+    }
+  ]
+}

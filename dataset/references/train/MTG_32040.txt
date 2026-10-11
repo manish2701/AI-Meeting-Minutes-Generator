@@ -1,0 +1,227 @@
+[6.83s - 8.52s] Beth: Morning everyone.
+[8.76s - 10.22s] Ron: Morning.
+[9.47s - 15.48s] Beth: It's really exciting meeting today <FILL/> discussing the products for our
+[15.73s - 16.83s] Beth: smart kitchen.
+[17.58s - 18.69s] Beth: Is that what it is?
+[17.61s - 19.15s] Sarah: Robotic kitchen, yeah.
+[18.17s - 19.52s] Linda: Smart   Smart kitchen.
+[19.44s - 20.89s] Sarah: Robotic kitchen company.
+[19.59s - 20.57s] Rachel: <UNKNOWN/>
+[19.66s - 20.17s] Linda: Yeah.
+[20.15s - 21.60s] Beth: Robotic smart
+[21.24s - 22.03s] Linda: <UNKNOWN/> OK.
+[21.97s - 24.68s] Beth: of the future is here. <FILLlaugh/>
+[23.46s - 23.96s] Linda: Yeah.
+[24.15s - 25.20s] Linda: The future kitchen.
+[25.36s - 30.09s] Beth: So yeah, just today we just wanna do brainstorming on uh any products that uh
+[30.35s - 35.14s] Beth: I know that uh <PName> Ron </PName> was checking out some technicalities for um like
+[35.37s - 38.60s] Beth: using examples like uh Nest.
+[39.66s - 40.30s] Linda: Like what?
+[39.98s - 41.20s] Beth: <UNKNOWN/>
+[41.31s - 44.05s] Beth: <UNKNOWN/> company doesn't matter.
+[43.29s - 43.90s] Linda: OK.
+[44.65s - 48.55s] Beth: What did you   What have you found <PName> Ron </PName> from your research?
+[47.38s - 52.82s] Ron: <FILL/> Well, <FILL/> I've done a little bit of an   of a survey among uh
+[53.44s - 59.73s] Ron: thousands of um   of people that are in the   the kitchen field and in the restaurant field.
+[60.29s - 64.56s] Ron: And it seems that what they'd like to do is to
+[65.00s - 68.15s] Ron: uh the repetitive actions that are done in the kitchen
+[68.62s - 75.91s] Ron: uh for example the   that the chopping and the cutting uh and the   and uh <FILL/> the mixing.
+[73.82s - 74.99s] Sarah: Mixing.
+[76.01s - 78.94s] Ron: If those things can be uh automated
+[76.19s - 77.21s] Beth: <FILLlaugh/>
+[78.99s - 79.80s] Beth: <BA/>
+[79.21s - 80.08s] Ron: then
+[80.21s - 83.65s] Ron: It would save a lot of time for   for people and then
+[83.88s - 88.85s] Ron: you know as we succeed in that maybe we can expand you know to   into other areas.
+[85.76s - 86.41s] Beth: Yeah.
+[88.64s - 89.21s] Beth: Mmm.
+[88.68s - 91.15s] Rachel: So, this is more for restaurants, right?
+[88.88s - 89.43s] Sarah: <UNKNOWN/> <UNKNOWN/>
+[89.27s - 90.03s] Linda: OK I have
+[90.99s - 96.27s] Linda: Yeah. That   That   That was my question. Are we aiming at industrial kitchens or uh home kitchens?
+[95.92s - 98.88s] Sarah: I think   I think it can be for both yeah.
+[96.13s - 96.79s] Ron: No <UNKNOWN/>
+[96.56s - 98.72s] Beth: I think across the board, yeah.
+[98.29s - 98.91s] Linda: Both.
+[98.57s - 105.07s] Ron: Yeah, you want <FILL/>   you want both, but if you have   if you uh succeed with the restaurants
+[99.19s - 99.68s] Linda: OK.
+[99.43s - 100.91s] Beth: Different solutions for
+[104.80s - 105.58s] Beth: Mm-hmm.
+[105.30s - 110.09s] Ron: then it'll be easier to get into the individual homes. Right.
+[106.49s - 108.43s] Beth: You can dumb it down for homes.
+[108.04s - 108.76s] Rachel: But then
+[108.17s - 110.50s] Linda: That's   That's a better laboratory yeah yeah.
+[109.11s - 113.35s] Rachel: But then as far as uh   as uh success in selling them
+[109.96s - 110.61s] Beth: Yeah.
+[113.52s - 114.83s] Rachel: I think you will have more
+[114.96s - 117.33s] Rachel: uh private kitchen and   and uh
+[117.49s - 121.21s] Rachel: <FILL/> than restaurants opening individual. So I think it's
+[118.49s - 119.67s] Sarah: Individuals.
+[120.26s - 125.53s] Sarah: I think but restaurants may have a higher budget per what they're trying to buy
+[123.36s - 123.86s] Linda: Yeah.
+[124.25s - 124.67s] Linda: Yeah.
+[125.27s - 125.69s] Linda: Yeah.
+[125.27s - 126.49s] Rachel: Yeah.
+[125.87s - 131.51s] Beth: Yeah but as the product manager I would still like to   to   to keep our focus on homes
+[126.04s - 126.89s] Sarah: um
+[126.39s - 128.65s] Linda: or   or even big industrial kitchens.
+[131.61s - 135.67s] Beth: 'cause I mean that's how this all developed. <FILL/> Restaurants don't have the same uh
+[132.22s - 133.10s] Rachel: Absolutely.
+[133.35s - 134.20s] Rachel: Absolutely.
+[136.14s - 142.84s] Beth: like identity that a home has, and I think that when we start speaking to marketing it's important that we keep this home feel.
+[138.72s - 140.40s] Rachel: And needs. And needs.
+[143.15s - 146.70s] Rachel: Absolutely I do agree with you and uh so let's go with that.
+[144.97s - 150.91s] Linda: But   But we could use   we <FILL/>   you know we   we could use the industrial kitchens as a <FILL/> uh kind of our laboratory.
+[145.12s - 145.66s] Ron: Mm-hmm.
+[145.78s - 146.19s] Sarah: I
+[148.90s - 149.71s] Rachel: Uh the base
+[150.81s - 151.37s] Rachel: base.
+[150.90s - 151.36s] Ron: Right.
+[151.09s - 151.93s] Beth: Mmm.
+[151.18s - 151.82s] Linda: OK.
+[152.10s - 154.67s] Linda: and find out what works, what doesn't work, what   what's   what's
+[153.64s - 154.88s] Beth: All that homes are like
+[154.83s - 158.43s] Linda: what's adaptable to homes, what isn't adaptable to homes, yeah.
+[156.44s - 157.19s] Beth: Yeah.
+[157.62s - 158.06s] Rachel: Well
+[158.42s - 162.83s] Rachel: we are here a few women at the table why don't we uh start as a
+[158.79s - 159.11s] Linda: Yeah.
+[162.63s - 163.46s] Sarah: Women.
+[162.98s - 163.80s] Rachel: a person in
+[163.52s - 164.30s] Beth: Well I think that's a bit
+[164.33s - 168.09s] Beth: <FILL/> sexist. <FILLlaugh/>
+[164.50s - 165.73s] Linda: <FILLlaugh/>
+[165.22s - 167.58s] Ron: Yeah. it's a little sexist there.
+[165.38s - 171.51s] Rachel: No we spend   we do   we   we have children we spend time getting our children back from school and everything.
+[166.37s - 167.42s] Linda: <FILLlaugh/>
+[171.13s - 171.74s] Beth: Yeah.
+[171.55s - 173.02s] Linda: Right, but   but   but   but
+[171.62s - 174.87s] Rachel: And from our experience maybe we know
+[173.18s - 175.64s] Linda: so do a   so do a large number of men.
+[175.51s - 177.47s] Ron: I do all the cooking in the family.
+[175.80s - 176.77s] Rachel: Absolutely.
+[175.88s - 176.21s] Linda: Yes.
+[176.56s - 176.83s] Linda: Yeah.
+[177.59s - 178.21s] Linda: Mm-hmm.
+[177.86s - 181.02s] Beth: OK. When in terms of   Let's <FILL/>   Let's stick to the   the   the either
+[178.16s - 178.66s] Rachel: Fine.
+[178.43s - 178.80s] Linda: Yeah.
+[178.78s - 181.77s] Rachel: Sorry didn't say anything like that. I'm sorry.
+[178.79s - 179.37s] Sarah: I think
+[179.72s - 180.54s] Ron: That's OK.
+[179.98s - 180.98s] Sarah: I think we can
+[180.10s - 183.23s] Linda: Yeah, yeah, yeah. Let's   Let's stick to the uh machinery.
+[181.03s - 181.78s] Sarah: <FILLlaugh/>
+[181.94s - 184.77s] Beth: Our agenda is to   to talk about products
+[182.19s - 182.69s] Rachel: But
+[184.87s - 191.36s] Beth: so specially uh <PName> Sarah </PName> I know that you've been eh interested in this um having like uh
+[187.13s - 187.65s] Rachel: <BA/>
+[191.60s - 191.98s] Beth: <BA/>
+[192.01s - 194.85s] Beth: like prompts for what shopping to do and then your
+[194.92s - 200.07s] Beth: fridge tells you what's empty, I mean those are the kind of products we need to be speaking about. <FILLlaugh/>
+[197.63s - 198.56s] Rachel: Absolutely.
+[198.80s - 199.74s] Rachel: Absolutely.
+[199.07s - 199.73s] Sarah: Yeah.
+[199.56s - 200.90s] Linda: Uh there we go. This
+[199.84s - 206.00s] Sarah: I mean there is a lot of products that we can also   that we can also lean off of you know there is the uh   the   all those uh
+[201.12s - 202.31s] Linda: The smart refrigerator.
+[206.02s - 211.69s] Sarah: <FILL/> mixers that already exist all those automatic uh choppers um
+[208.53s - 208.95s] Linda: Right.
+[209.77s - 210.23s] Rachel: It's <UNKNOWN/>
+[211.45s - 212.05s] Rachel: They are there.
+[211.84s - 219.02s] Sarah: And they're already there but we can build on them to make even more automated or connect it with different electronics like a
+[212.43s - 212.89s] Rachel: <UNKNOWN/> <UNKNOWN/> <UNKNOWN/>
+[214.34s - 216.79s] Linda: Right but yeah, but this is a different level yeah.
+[219.75s - 223.85s] Sarah: Like uh   Like a voice system like turn this on right now
+[220.98s - 222.53s] Beth: NFC or
+[223.02s - 223.76s] Beth: Yeah.
+[223.95s - 231.01s] Sarah: um we will have like a mixing system of just a spoon that is connected to a pan that just continues to mix automatically.
+[229.60s - 230.51s] Rachel: How about uh
+[230.11s - 232.97s] Beth: It's like Mary Poppins or something. <FILLlaugh/>
+[231.39s - 237.67s] Rachel: How about a robot that will put all the dirty dishes in the uh   uh yeah dishwasher?
+[231.59s - 232.64s] Linda: <FILLlaugh/>
+[231.81s - 233.44s] Sarah: <FILLlaugh/>
+[237.37s - 240.11s] Beth: Yeah. Or that the robot is the dishwasher.
+[237.69s - 238.54s] Linda: That's what I want.
+[237.96s - 239.74s] Rachel: That would be the best.
+[239.80s - 240.24s] Linda: Yeah.
+[239.91s - 247.87s] Ron: Right. But uh I was also thinking about a smart oven where you can have sensors inside that would check to see if something
+[240.41s - 241.76s] Rachel: Yes. Put all the
+[240.49s - 241.82s] Beth: <FILLlaugh/>
+[240.99s - 241.33s] Linda: Yeah.
+[244.28s - 244.96s] Beth: <BA/>
+[248.10s - 255.02s] Ron: uh has risen, is   is baked through, uh insert thermometer to get a <FILL/> inside temperature
+[250.22s - 250.92s] Rachel: Yes.
+[254.78s - 255.34s] Linda: Yeah, they
+[254.92s - 256.18s] Rachel: If we can dream
+[255.18s - 256.61s] Ron: there   of the uh
+[256.19s - 256.58s] Linda: Yeah.
+[256.42s - 258.40s] Rachel: If we can dream and that's what we want
+[256.77s - 257.48s] Beth: Yeah.
+[257.52s - 257.94s] Linda: Yeah.
+[257.70s - 258.80s] Beth: We can do it.
+[258.50s - 264.69s] Rachel: we can do it. So what I would love   what I would see and love to see is when you come back from the shopping
+[259.19s - 259.65s] Linda: Yeah.
+[261.43s - 261.98s] Linda: OK.
+[263.96s - 268.90s] Beth: OK so how about a dream here? I want you to   Yeah.
+[264.27s - 265.15s] Linda: Right.
+[264.90s - 265.34s] Rachel: put
+[265.69s - 266.48s] Linda: We   Now <UNKNOWN/>
+[266.83s - 270.26s] Linda: We need an action plan not just dreams. We need an action plan.
+[269.00s - 274.03s] Beth: Yeah yeah I know that all that work you've done is like really valuable so please can you
+[269.65s - 270.21s] Ron: Hmm.
+[270.40s - 270.89s] Linda: OK.
+[271.05s - 271.74s] Ron: Hmm.
+[274.45s - 279.18s] Beth: summarize that research that you did and give it to me by next week
+[279.40s - 280.32s] Beth: Wednesday?
+[280.06s - 280.92s] Rachel: Absolutely.
+[280.55s - 285.51s] Beth: OK. And also <PName> Ron </PName> , that research that you've done is also incredible.
+[281.19s - 284.89s] Linda: We need <PName> Ron </PName> 's   <PName> Ron </PName> 's research yeah. Mm-hmm. Yeah.
+[283.86s - 284.44s] Ron: Mm-hmm.
+[285.34s - 285.79s] Linda: Yeah.
+[285.61s - 289.46s] Beth: Um I think maybe you can give a presentation on that so
+[287.12s - 288.27s] Sarah: I think <PName> Beth </PName>
+[288.80s - 289.62s] Ron: Sure.
+[288.81s - 289.70s] Sarah: <PName> Beth </PName> as a
+[289.56s - 294.90s] Beth: we can bring in oh   um <PName> Linda </PName> please can you invite uh also like some <UNKNOWN/>
+[295.09s - 300.11s] Beth: technical guys for <PName> Ron </PName> 's presentation. <PName> Ron </PName> when will the presentation be?
+[296.06s - 297.07s] Linda: I'll look for it yeah.
+[297.98s - 298.40s] Linda: Great.
+[300.34s - 302.14s] Ron: It should be ready by Monday.
+[302.53s - 304.19s] Ron: I'll work on it over the weekend.
+[303.98s - 307.02s] Beth: OK, so let's get everyone in the calendar, <PName> Sarah </PName> .
+[304.34s - 304.95s] Rachel: So
+[304.41s - 306.49s] Linda: OK, and I'll be   I'll be in touch with you as well.
+[304.45s - 305.05s] Sarah: <UNKNOWN/>
+[304.85s - 305.32s] Ron: Sure.
+[307.38s - 307.69s] Sarah: <UNKNOWN/>
+[307.99s - 315.34s] Sarah: I think <PName> Beth </PName> you seesaw all of our ideas maybe come up <FILL/> by next week, channel things that you liked more that we can build up on them.
+[315.44s - 317.59s] Sarah: I mean then we can uh build together.
+[316.49s - 321.15s] Beth: Yeah and I also need to just give like a running commentary on what things I think we can expand on.
+[320.90s - 321.97s] Sarah: Yeah, exactly.
+[321.24s - 321.63s] Linda: Yeah.
+[321.71s - 322.57s] Beth: OK.
+[321.96s - 322.31s] Linda: Yeah.
+[322.62s - 330.15s] Linda: I think we each   each of us can do a bit of market research also with our   with our friends and neighbors and get uh   you know <FILL/> get the reaction to the   the   the very idea.
+[326.12s - 326.75s] Beth: Yeah.
+[328.50s - 330.76s] Beth: So, can you check everyone's calendars <PName> Sarah </PName> ?
+[329.05s - 329.63s] Rachel: What
+[330.54s - 330.86s] Linda: Yeah.
+[330.68s - 334.40s] Sarah: Yeah, I'll see and we can uh have a follow-up meeting beginning of next week.
+[330.73s - 331.83s] Rachel: <FILL/> Absolutely.
+[333.36s - 337.53s] Beth: OK. Today, still we need to check calendars, so we can book those meetings for next week.
+[335.29s - 335.78s] Rachel: So
+[336.72s - 338.13s] Sarah: Yes, I'll do that.
+[337.18s - 340.10s] Rachel: To get back on   on   on the uh   on the dream thing.
+[337.23s - 337.66s] Linda: Yeah.
+[340.35s - 341.34s] Rachel: do we uh
+[341.49s - 345.07s] Rachel: Do we have to make it uh feasible or can we really dream?
+[344.56s - 350.22s] Beth: No, let's dream big and we can always work it down. So, I love that   I love that big dreams.
+[347.71s - 348.63s] Rachel: Absolutely.
+[350.08s - 350.60s] Rachel: OK.
+[350.58s - 351.16s] Beth: Stick to
+[350.68s - 354.58s] Ron: But I think where you wanna start is where can things be automated in the kitchen.
+[350.74s - 351.13s] Linda: Yeah.
+[350.74s - 351.30s] Rachel: That's a
+[354.38s - 355.25s] Rachel: Absolutely.
+[354.87s - 355.29s] Beth: OK.

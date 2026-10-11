@@ -1,0 +1,963 @@
+{
+  "meeting_id": "MTG_32322",
+  "language": "en-US",
+  "duration_s": 359.1700134277344,
+  "speakers": [
+    "Chris",
+    "Donald",
+    "Jenny",
+    "Sally"
+  ],
+  "num_speakers": 4,
+  "num_utterances": 158,
+  "segments": [
+    {
+      "speaker": "Jenny",
+      "start": 4.72,
+      "end": 8.48,
+      "text": "Hi everybody, thanks for coming to this very, very exciting meeting."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 8.78,
+      "end": 14.73,
+      "text": "Uh, today I wanted to talk to you about the company retreat that we are gonna be taking in Mexico."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 15.12,
+      "end": 19.79,
+      "text": "So we are gonna have a couple events. I'm going to go over with you for the quick schedule."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 19.94,
+      "end": 24.21,
+      "text": "We are going to have yoga as you guys can see on the board. Is everybody looking?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 23.55,
+      "end": 26.14,
+      "text": "Yeah, amazing. Looks great."
+    },
+    {
+      "speaker": "Chris",
+      "start": 23.79,
+      "end": 24.34,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Donald",
+      "start": 24.34,
+      "end": 25.22,
+      "text": "Mm-hmm, yeah."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 24.75,
+      "end": 27.92,
+      "text": "We are gonna have yoga. This is our yoga studio on the"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 28.09,
+      "end": 30.81,
+      "text": "ocean on the Gulf of Mexico."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 31.15,
+      "end": 33.52,
+      "text": "We are also going to have"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 33.63,
+      "end": 35.67,
+      "text": "a bunch of other activities."
+    },
+    {
+      "speaker": "Chris",
+      "start": 34.94,
+      "end": 35.59,
+      "text": "<FILLlaugh/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 35.92,
+      "end": 36.519,
+      "text": "like"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 36.78,
+      "end": 37.93,
+      "text": "golf"
+    },
+    {
+      "speaker": "Chris",
+      "start": 37.05,
+      "end": 37.64,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 38.43,
+      "end": 39.96,
+      "text": "And like"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 40.09,
+      "end": 40.56,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 40.61,
+      "end": 42.23,
+      "text": "culinary activities"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 42.5,
+      "end": 48.59,
+      "text": "where you can also relax on the beach. You can see here on the   the nice relaxation space."
+    },
+    {
+      "speaker": "Chris",
+      "start": 44.84,
+      "end": 45.93,
+      "text": "Oh, wow."
+    },
+    {
+      "speaker": "Sally",
+      "start": 45.43,
+      "end": 47.56,
+      "text": "Oh, wow the pool."
+    },
+    {
+      "speaker": "Chris",
+      "start": 47.33,
+      "end": 48.56,
+      "text": "Looks beautiful."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 48.97,
+      "end": 50.39,
+      "text": "that we have."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 50.62,
+      "end": 56.85,
+      "text": "We are also going to have an evening in at the restaurant. As you can see here on the board   on my slides   on the computer."
+    },
+    {
+      "speaker": "Sally",
+      "start": 55.72,
+      "end": 57.14,
+      "text": "Gorgeous."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 56.99,
+      "end": 62.04,
+      "text": "We have a nice restaurant at our retreating center. We are also going to go"
+    },
+    {
+      "speaker": "Donald",
+      "start": 60.13,
+      "end": 61.18,
+      "text": "That's my idea."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 62.41,
+      "end": 68.25,
+      "text": "two different places in Mexico. Like, for example, the Gulf."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 68.67,
+      "end": 76.06,
+      "text": "We are going to be taking a trip to Mexico City. As you can tell <FILL/> here it is. <FILL/> Mexico City is the capital of Mexico."
+    },
+    {
+      "speaker": "Sally",
+      "start": 74.35,
+      "end": 75.77,
+      "text": "Mmm, wow."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 76.16,
+      "end": 82.96,
+      "text": "Does anyone have any recommendation of what else they would like to do on the retreat so we can look and see if it's relevant, if we have it here in our slide?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 83.08,
+      "end": 84.09,
+      "text": "Um"
+    },
+    {
+      "speaker": "Donald",
+      "start": 83.38,
+      "end": 85.17,
+      "text": "Is the retreat gonna be in the uh"
+    },
+    {
+      "speaker": "Donald",
+      "start": 85.33,
+      "end": 86.36,
+      "text": "country or the city?"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 86.1,
+      "end": 87.21,
+      "text": "It's going to be"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 87.23,
+      "end": 87.58,
+      "text": "<BA/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 87.79,
+      "end": 94.0,
+      "text": "in the country as you saw you saw where our yoga retreat was and it's also going to be in Mexico City. As you can see here, this is the capital of Mexico."
+    },
+    {
+      "speaker": "Donald",
+      "start": 89.51,
+      "end": 90.13,
+      "text": "OK."
+    },
+    {
+      "speaker": "Sally",
+      "start": 89.84,
+      "end": 91.2,
+      "text": "and this is one of the"
+    },
+    {
+      "speaker": "Donald",
+      "start": 92.1,
+      "end": 96.76,
+      "text": "Is there going to be uh available for horseback riding? Going on trail   trail rides?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 92.84,
+      "end": 93.86,
+      "text": "Excursions."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 95.14,
+      "end": 97.02,
+      "text": "Horseback riding? Of course."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 97.21,
+      "end": 99.36,
+      "text": "We are gonna have a lot of horseback riding."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 99.62,
+      "end": 104.72,
+      "text": "As you can tell here, here are people in Mexico riding on horses, you can ride in the country"
+    },
+    {
+      "speaker": "Donald",
+      "start": 102.74,
+      "end": 103.43,
+      "text": "Perfect."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 104.98,
+      "end": 106.2,
+      "text": "on the sea"
+    },
+    {
+      "speaker": "Chris",
+      "start": 105.18,
+      "end": 106.01,
+      "text": "Beautiful."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 106.37,
+      "end": 112.7,
+      "text": "Wherever you would prefer, there's a bunch of options. Are there anybody else? <PName> Sally </PName> , do you wanna say something that you would like to be doing?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 113.01,
+      "end": 113.42,
+      "text": "Um."
+    },
+    {
+      "speaker": "Sally",
+      "start": 113.46,
+      "end": 116.32,
+      "text": "Yeah I would like to actually"
+    },
+    {
+      "speaker": "Sally",
+      "start": 116.42,
+      "end": 124.19,
+      "text": "do something a bit artistic. Yeah maybe like a day to"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 119.22,
+      "end": 120.55,
+      "text": "Artistic."
+    },
+    {
+      "speaker": "Sally",
+      "start": 124.81,
+      "end": 125.84,
+      "text": "paints"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 125.6,
+      "end": 127.73,
+      "text": "OK, painting"
+    },
+    {
+      "speaker": "Sally",
+      "start": 126.35,
+      "end": 127.8,
+      "text": "near the beach."
+    },
+    {
+      "speaker": "Sally",
+      "start": 128.28,
+      "end": 130.38,
+      "text": "Something creative."
+    },
+    {
+      "speaker": "Chris",
+      "start": 129.41,
+      "end": 130.79,
+      "text": "Mmm, that's a good idea."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 130.11,
+      "end": 137.34,
+      "text": "Mm-hmm I understand. Something like this, we also have this in our slide. You can paint different landscapes like   as you can see"
+    },
+    {
+      "speaker": "Chris",
+      "start": 132.71,
+      "end": 134.76,
+      "text": "Maybe a museum or something."
+    },
+    {
+      "speaker": "Sally",
+      "start": 136.48,
+      "end": 137.61,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 137.44,
+      "end": 143.13,
+      "text": "These are a bunch of landscapes that people painted on the Mexican coast when they were on the retreat that we are going to be on."
+    },
+    {
+      "speaker": "Donald",
+      "start": 139.6,
+      "end": 140.16,
+      "text": "That's"
+    },
+    {
+      "speaker": "Chris",
+      "start": 140.3,
+      "end": 141.66,
+      "text": "What about a museum?"
+    },
+    {
+      "speaker": "Donald",
+      "start": 140.5,
+      "end": 142.55,
+      "text": "That's really   That's really nice."
+    },
+    {
+      "speaker": "Sally",
+      "start": 142.98,
+      "end": 143.64,
+      "text": "Mmm."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 143.41,
+      "end": 145.9,
+      "text": "We have here a couple examples, A B"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 146.22,
+      "end": 146.95,
+      "text": "C"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 147.07,
+      "end": 148.88,
+      "text": "As everyone can see, <PName> Chris </PName>"
+    },
+    {
+      "speaker": "Sally",
+      "start": 148.14,
+      "end": 155.06,
+      "text": "Maybe that patio where they were doing the yoga. We could get some easels and we can get everyone just"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 150.46,
+      "end": 153.8,
+      "text": "Oh, yeah. Also there we can get, of course"
+    },
+    {
+      "speaker": "Chris",
+      "start": 151.29,
+      "end": 151.77,
+      "text": "What <UNKNOWN/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 154.89,
+      "end": 157.09,
+      "text": "<PName> Chris </PName> , is there something that you would like to be doing?"
+    },
+    {
+      "speaker": "Chris",
+      "start": 155.5,
+      "end": 159.52,
+      "text": "Yeah what about   what about a museum? Would that be a possibility?"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 157.83,
+      "end": 161.46,
+      "text": "Museums in Mexico? Yes, we can go to the museum of their"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 161.72,
+      "end": 162.78,
+      "text": "history"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 163.32,
+      "end": 169.58,
+      "text": "And we can go to the museum in their capital. We can go to the museum of the Maya people."
+    },
+    {
+      "speaker": "Chris",
+      "start": 169.38,
+      "end": 170.33,
+      "text": "Oh, wow."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 169.83,
+      "end": 176.88,
+      "text": "Here, there's the fifteen best museums in Mexico. This is the first one. As you can tell it has very nice architecture."
+    },
+    {
+      "speaker": "Chris",
+      "start": 171.11,
+      "end": 172.02,
+      "text": "That sounds cool."
+    },
+    {
+      "speaker": "Donald",
+      "start": 176.65,
+      "end": 177.42,
+      "text": "Very modern."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 177.13,
+      "end": 181.45,
+      "text": "It's an   a very modern museum which is kind of surprising for Mexico, because it's not one of the"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 181.58,
+      "end": 185.01,
+      "text": "most modern cities that we have in the Central America."
+    },
+    {
+      "speaker": "Chris",
+      "start": 183.3,
+      "end": 184.11,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 185.76,
+      "end": 190.54,
+      "text": "Other things that we are gonna be doing is that wea re gonna go on a culinary tour as you can see here on the"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 190.8,
+      "end": 196.96,
+      "text": "map. We have culinary tour in Mexico. We will be eating tacos, we will be eating burritos, we will be eating enchiladas."
+    },
+    {
+      "speaker": "Chris",
+      "start": 197.53,
+      "end": 198.1,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 197.54,
+      "end": 204.62,
+      "text": "There's vegetarian options, there's meat options. Anything that you guys would like. We will also learn how to make our own"
+    },
+    {
+      "speaker": "Sally",
+      "start": 197.6,
+      "end": 199.65,
+      "text": "Mmm, fantastic."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 204.83,
+      "end": 205.98,
+      "text": "guacamole."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 206.12,
+      "end": 209.64,
+      "text": "Mexican guacamole. Anybody else wants to say things?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 207.77,
+      "end": 209.04,
+      "text": "Oh, so"
+    },
+    {
+      "speaker": "Sally",
+      "start": 209.43,
+      "end": 214.52,
+      "text": "So maybe <FILL/> we are gonna have maybe a um chef that can come out and"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 212.92,
+      "end": 216.81,
+      "text": "Yeah it's a private uh   a private chef, yeah of course."
+    },
+    {
+      "speaker": "Chris",
+      "start": 215.17,
+      "end": 215.91,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Sally",
+      "start": 215.23,
+      "end": 222.66,
+      "text": "do something even with us   even at the actual retreat   at the actual uh accommodation. Maybe we could do that too."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 220.03,
+      "end": 220.85,
+      "text": "Yes."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 221.14,
+      "end": 226.0,
+      "text": "Yes, we can get a chef in Mexico that will teach us how to make their classic foods. <PName> Chris </PName>"
+    },
+    {
+      "speaker": "Chris",
+      "start": 223.24,
+      "end": 223.79,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 226.1,
+      "end": 229.65,
+      "text": "<FILL/> What's your favorite Mexican food? We can tell our chef to make it."
+    },
+    {
+      "speaker": "Chris",
+      "start": 228.27,
+      "end": 228.97,
+      "text": "Um."
+    },
+    {
+      "speaker": "Chris",
+      "start": 229.15,
+      "end": 229.63,
+      "text": "I <UNKNOWN/>"
+    },
+    {
+      "speaker": "Chris",
+      "start": 229.65,
+      "end": 233.19,
+      "text": "I would definitely like to try tacos if we are going there um"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 231.54,
+      "end": 233.29,
+      "text": "Tacos? OK."
+    },
+    {
+      "speaker": "Chris",
+      "start": 233.3,
+      "end": 236.78,
+      "text": "like authentic Mexican tacos, that would be really cool idea."
+    },
+    {
+      "speaker": "Chris",
+      "start": 237.2,
+      "end": 237.88,
+      "text": "Um"
+    },
+    {
+      "speaker": "Chris",
+      "start": 238.21,
+      "end": 243.45,
+      "text": "And um yeah, just to get   even try new things that I have never heard of before. That would be a cool idea."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 242.64,
+      "end": 246.94,
+      "text": "new things. OK, <PName> Donald </PName> what's your favorite Mexican food that you would like us to have on the menu?"
+    },
+    {
+      "speaker": "Donald",
+      "start": 247.24,
+      "end": 248.78,
+      "text": "Oh, I like all Mexican food."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 248.48,
+      "end": 251.07,
+      "text": "You like all Mexican food? Maybe we can eat"
+    },
+    {
+      "speaker": "Donald",
+      "start": 250.13,
+      "end": 251.96,
+      "text": "Especially <FILL/> Mexican pizza."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 252.6,
+      "end": 254.41,
+      "text": "We   Maybe we can also eat"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 254.41,
+      "end": 255.14,
+      "text": "uh"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 255.79,
+      "end": 258.34,
+      "text": "the tacos. Maybe we can eat"
+    },
+    {
+      "speaker": "Donald",
+      "start": 257.53,
+      "end": 258.84,
+      "text": "Hot   Hot and spicy."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 259.36,
+      "end": 264.74,
+      "text": "We   Maybe we can eat burritos. We will talk to the chef and we'll see what he can do on our menu."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 265.05,
+      "end": 267.44,
+      "text": "What else would you guys like to be doing?"
+    },
+    {
+      "speaker": "Chris",
+      "start": 269.63,
+      "end": 273.09,
+      "text": "Oh, that looks good actually over there."
+    },
+    {
+      "speaker": "Sally",
+      "start": 269.82,
+      "end": 270.48,
+      "text": "Oh."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 272.09,
+      "end": 275.6,
+      "text": "Ah, that looks good. You guys like what that is? OK, perfect."
+    },
+    {
+      "speaker": "Chris",
+      "start": 273.64,
+      "end": 278.29,
+      "text": "Yeah, that one over there looks really good. Uh I would definitely try those two."
+    },
+    {
+      "speaker": "Sally",
+      "start": 276.77,
+      "end": 277.82,
+      "text": "Wow."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 277.56,
+      "end": 284.24,
+      "text": "I think also we   more than yoga we can also have a meditation retreat. What do you guys say <FILL/> how does that look for you?"
+    },
+    {
+      "speaker": "Chris",
+      "start": 282.78,
+      "end": 287.86,
+      "text": "Uh, yeah. I would also just like to <FILL/> visit the beach there and explore the city."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 286.91,
+      "end": 289.7,
+      "text": "<FILL/> Go to the beach, explore the city"
+    },
+    {
+      "speaker": "Donald",
+      "start": 289.67,
+      "end": 290.49,
+      "text": "This"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 289.89,
+      "end": 297.73,
+      "text": "We are also going to have a stop in the states on our way there. We have a very long layover so we will have a stop in Florida."
+    },
+    {
+      "speaker": "Sally",
+      "start": 297.52,
+      "end": 298.53,
+      "text": "Oh, wow."
+    },
+    {
+      "speaker": "Donald",
+      "start": 297.87,
+      "end": 300.25,
+      "text": "Is this going to be with spouses?"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 300.64,
+      "end": 305.31,
+      "text": "Uh yes this is gonna be with spouses. Everyone can bring their significant other."
+    },
+    {
+      "speaker": "Chris",
+      "start": 303.85,
+      "end": 304.64,
+      "text": "If we have"
+    },
+    {
+      "speaker": "Donald",
+      "start": 305.11,
+      "end": 305.68,
+      "text": "OK."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 305.64,
+      "end": 308.35,
+      "text": "So you don't have a significant other, they can bring a parent."
+    },
+    {
+      "speaker": "Sally",
+      "start": 306.65,
+      "end": 309.42,
+      "text": "Oh I think they are gonna be really excited about that."
+    },
+    {
+      "speaker": "Donald",
+      "start": 306.78,
+      "end": 309.61,
+      "text": "How about   How about children? Are children included? No children?"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 308.59,
+      "end": 312.62,
+      "text": "No, children are absolutely not coming to this uh   to this"
+    },
+    {
+      "speaker": "Chris",
+      "start": 309.08,
+      "end": 309.66,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Sally",
+      "start": 309.68,
+      "end": 310.5,
+      "text": "No."
+    },
+    {
+      "speaker": "Donald",
+      "start": 310.34,
+      "end": 312.23,
+      "text": "That's   That's good. That's good."
+    },
+    {
+      "speaker": "Sally",
+      "start": 311.65,
+      "end": 315.7,
+      "text": "There won't be any relaxing happening if that's"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 313.42,
+      "end": 316.77,
+      "text": "And there's not gonna be any children, we will also be stopping at Florida."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 317.0,
+      "end": 322.2,
+      "text": "So I was very glad to show you guys this retreat that I have planned for us in Mexico."
+    },
+    {
+      "speaker": "Donald",
+      "start": 321.08,
+      "end": 323.04,
+      "text": "Where abouts in Florida, we are gonna be stopping?"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 322.68,
+      "end": 329.47,
+      "text": "We are just going to be stopping at the airport. Yeah, just for a night close to the airport, we have a very long layover."
+    },
+    {
+      "speaker": "Sally",
+      "start": 324.8,
+      "end": 327.25,
+      "text": "Probably for a night   for a night, right."
+    },
+    {
+      "speaker": "Donald",
+      "start": 328.65,
+      "end": 329.19,
+      "text": "OK."
+    },
+    {
+      "speaker": "Donald",
+      "start": 329.78,
+      "end": 336.0,
+      "text": "I was wondering if we had a day or two that we make a quick stop to Disney World or something like one of the amusement parks   the theme parks."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 329.87,
+      "end": 330.51,
+      "text": "Um."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 331.35,
+      "end": 332.71,
+      "text": "Mmm no."
+    },
+    {
+      "speaker": "Chris",
+      "start": 331.71,
+      "end": 332.46,
+      "text": "Hmm."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 333.02,
+      "end": 334.06,
+      "text": "No no."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 334.63,
+      "end": 340.85,
+      "text": "No sorry, but this was our retreat that were planned, I'm very excited, I think it'll be fantastic for the"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 340.95,
+      "end": 346.78,
+      "text": "for the people, how does this look for you guys? Does this look like a good <FILL/>   a good schedule?"
+    },
+    {
+      "speaker": "Sally",
+      "start": 344.38,
+      "end": 348.37,
+      "text": "I like the the one with   on the left, I like the one on the left."
+    },
+    {
+      "speaker": "Chris",
+      "start": 345.0,
+      "end": 345.769,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Jenny",
+      "start": 347.08,
+      "end": 353.24,
+      "text": "Yeah, the one on the left. I also like the one on the right. I think this is gonna be a fantastic schedule for us to have on the"
+    },
+    {
+      "speaker": "Sally",
+      "start": 351.17,
+      "end": 351.47,
+      "text": "<UNKNOWN/>"
+    },
+    {
+      "speaker": "Jenny",
+      "start": 353.56,
+      "end": 354.36,
+      "text": "meeting."
+    },
+    {
+      "speaker": "Sally",
+      "start": 354.52,
+      "end": 356.17,
+      "text": "The sunset looks amazing"
+    }
+  ]
+}
