@@ -1,0 +1,549 @@
+{
+  "examples": [
+    {
+      "id": "mtg32040-assemblyai-bart",
+      "meeting_id": "MTG_32040",
+      "meeting_title": "Smart Kitchen Product Brainstorming",
+      "engine": "assemblyai",
+      "model": "BART",
+      "transcript_excerpt": [
+        {
+          "start": 7.19,
+          "end": 8.22,
+          "speaker": "A",
+          "body": "Morning everyone."
+        },
+        {
+          "start": 9.05,
+          "end": 9.35,
+          "speaker": "B",
+          "body": "Morning."
+        },
+        {
+          "start": 9.47,
+          "end": 18.39,
+          "speaker": "C",
+          "body": "It's really exciting meeting today discussing the products for our smart kitchen. Is that what it is?"
+        },
+        {
+          "start": 18.46,
+          "end": 19.45,
+          "speaker": "B",
+          "body": "Smart kitchen."
+        },
+        {
+          "start": 19.64,
+          "end": 20.32,
+          "speaker": "A",
+          "body": "Robotic kitchen."
+        },
+        {
+          "start": 20.37,
+          "end": 24.13,
+          "speaker": "C",
+          "body": "Robotic smart of the future is here."
+        },
+        {
+          "start": 24.34,
+          "end": 25.07,
+          "speaker": "B",
+          "body": "The future kitchen."
+        },
+        {
+          "start": 25.53,
+          "end": 38.5,
+          "speaker": "C",
+          "body": "So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest."
+        },
+        {
+          "start": 38.5,
+          "end": 40.38,
+          "speaker": "B",
+          "body": "Like what?"
+        },
+        {
+          "start": 40.38,
+          "end": 42.74,
+          "speaker": "C",
+          "body": "Oh, what's that called, that company?"
+        },
+        {
+          "start": 42.8,
+          "end": 43.45,
+          "speaker": "B",
+          "body": "It doesn't matter."
+        },
+        {
+          "start": 43.45,
+          "end": 47.73,
+          "speaker": "C",
+          "body": "Okay. What have you found, Ron, from your—"
+        }
+      ],
+      "transcript_total_utterances": 81,
+      "minutes": {
+        "KEY POINTS": [
+          "A survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to— the repetitive actions that are done in the Kitchen. The chopping and.",
+          "To keep our focus on homes, because I mean, that's how this all developed. Restaurants don't have the same, like, identity that a home has. It's important that we keep this home feel.",
+          "The mixing. If those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, youknow, into other.",
+          "Or connect it with different electronics, like a voice system, like, turn this on right now. Or have like a mixing system of just a spoon that connects to a pan that just continues to mix automatically.",
+          "So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest. So we're looking at."
+        ],
+        "DECISIONS": [
+          "No explicit decisions identified."
+        ],
+        "ACTION ITEMS": [
+          "No explicit action commitments identified."
+        ],
+        "IMPORTANT DATES / DEADLINES": [
+          "next week — A: and we can have a follow-up meeting beginning of ."
+        ]
+      },
+      "raw_minutes": "MEETING MINUTES\n============================================================\nSource: MTG_32040.txt\n\nKEY POINTS\n--------------------\n• A survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to— the repetitive actions that are done in the Kitchen. The chopping and.\n• To keep our focus on homes, because I mean, that's how this all developed. Restaurants don't have the same, like, identity that a home has. It's important that we keep this home feel.\n• The mixing. If those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, youknow, into other.\n• Or connect it with different electronics, like a voice system, like, turn this on right now. Or have like a mixing system of just a spoon that connects to a pan that just continues to mix automatically.\n• So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest. So we're looking at.\n\nDECISIONS\n--------------------\n• No explicit decisions identified.\n\nACTION ITEMS\n--------------------\n• No explicit action commitments identified.\n\nIMPORTANT DATES / DEADLINES\n------------------------------\n• next week — A: and we can have a follow-up meeting beginning of .\n"
+    },
+    {
+      "id": "mtg32040-assemblyai-flant5",
+      "meeting_id": "MTG_32040",
+      "meeting_title": "Smart Kitchen Product Brainstorming",
+      "engine": "assemblyai",
+      "model": "Flan-T5",
+      "transcript_excerpt": [
+        {
+          "start": 7.19,
+          "end": 8.22,
+          "speaker": "A",
+          "body": "Morning everyone."
+        },
+        {
+          "start": 9.05,
+          "end": 9.35,
+          "speaker": "B",
+          "body": "Morning."
+        },
+        {
+          "start": 9.47,
+          "end": 18.39,
+          "speaker": "C",
+          "body": "It's really exciting meeting today discussing the products for our smart kitchen. Is that what it is?"
+        },
+        {
+          "start": 18.46,
+          "end": 19.45,
+          "speaker": "B",
+          "body": "Smart kitchen."
+        },
+        {
+          "start": 19.64,
+          "end": 20.32,
+          "speaker": "A",
+          "body": "Robotic kitchen."
+        },
+        {
+          "start": 20.37,
+          "end": 24.13,
+          "speaker": "C",
+          "body": "Robotic smart of the future is here."
+        },
+        {
+          "start": 24.34,
+          "end": 25.07,
+          "speaker": "B",
+          "body": "The future kitchen."
+        },
+        {
+          "start": 25.53,
+          "end": 38.5,
+          "speaker": "C",
+          "body": "So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest."
+        },
+        {
+          "start": 38.5,
+          "end": 40.38,
+          "speaker": "B",
+          "body": "Like what?"
+        },
+        {
+          "start": 40.38,
+          "end": 42.74,
+          "speaker": "C",
+          "body": "Oh, what's that called, that company?"
+        },
+        {
+          "start": 42.8,
+          "end": 43.45,
+          "speaker": "B",
+          "body": "It doesn't matter."
+        },
+        {
+          "start": 43.45,
+          "end": 47.73,
+          "speaker": "C",
+          "body": "Okay. What have you found, Ron, from your—"
+        }
+      ],
+      "transcript_total_utterances": 81,
+      "minutes": {
+        "KEY POINTS": [
+          "I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to — the repetitive actions.",
+          "To keep our focus on homes, because I mean, that's how this all developed. Restaurants don't have the same, like, identity that a home has, and I think that when we Start speaking.",
+          "It would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand into other areas.",
+          "Or connect it with different electronics, like a voice system, like, turn this on right now.",
+          "I know that Ron was checking out some technicalities for, like, using examples like Nest."
+        ],
+        "DECISIONS": [
+          "No explicit decisions identified."
+        ],
+        "ACTION ITEMS": [
+          "No explicit action commitments identified."
+        ],
+        "IMPORTANT DATES / DEADLINES": [
+          "next week — A: and we can have a follow-up meeting beginning of ."
+        ]
+      },
+      "raw_minutes": "MEETING MINUTES\n============================================================\nSource: MTG_32040.txt\n\nKEY POINTS\n--------------------\n• I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to — the repetitive actions.\n• To keep our focus on homes, because I mean, that's how this all developed. Restaurants don't have the same, like, identity that a home has, and I think that when we Start speaking.\n• It would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand into other areas.\n• Or connect it with different electronics, like a voice system, like, turn this on right now.\n• I know that Ron was checking out some technicalities for, like, using examples like Nest.\n\nDECISIONS\n--------------------\n• No explicit decisions identified.\n\nACTION ITEMS\n--------------------\n• No explicit action commitments identified.\n\nIMPORTANT DATES / DEADLINES\n------------------------------\n• next week — A: and we can have a follow-up meeting beginning of .\n"
+    },
+    {
+      "id": "mtg32040-whisper-bart",
+      "meeting_id": "MTG_32040",
+      "meeting_title": "Smart Kitchen Product Brainstorming",
+      "engine": "whisper",
+      "model": "BART",
+      "transcript_excerpt": [
+        {
+          "start": null,
+          "end": null,
+          "speaker": "A",
+          "body": "Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen. So yeah just today we just want to do brainstorming on any products that I I know that Ron was checking out some technicalities for, like, using examples like Nest. Like what? What's that called, that company? It doesn't matter. Okay. What have you found, Ron, from your..."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and the mixing, if those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, you know, into other areas."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "So this is more for restaurants, right?"
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "D",
+          "body": "Yeah, that was my question. Are we aiming at industrial kitchens or home kitchens? I think it needs both."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "Both? You want both, but if you succeed with the restaurants, then it'll be easier to get into the individual."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "That's a better laboratory. As far as success in selling them, And I think you'll have more private kitchen than the restaurants opening individuals."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "E",
+          "body": "So I think it's... I think that restaurants may have a higher budget for what they're trying to buy. Yeah."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "A",
+          "body": "Or even bigger industrial kitchens. To keep our focus on owns. Because, I mean, that's how this all developed. Restaurants don't have the same identity that a home has. And I think that when we start speaking to marketing, it's important we keep this home feel."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "Absolutely. I do agree with you."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "D",
+          "body": "But we could use, you know, we could use the industrial kitchens as a kind of our laboratory. Base. Okay. And find out what works, what doesn't work. What's adaptable to homes, what isn't adaptable to homes."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "Well, we are here a few women at the table. Why don't we start as a... Women? I think that's a bit... That's a little sexist there. We have children. We spend time getting our children back from school and everything. Right."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "So do a large number of men. I do all the cooking in the family."
+        }
+      ],
+      "transcript_total_utterances": 31,
+      "minutes": {
+        "KEY POINTS": [
+          "Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen. So yeah just today we just want to do brainstorming on any products that I I know that Ron was checking out some technicalities for, like, using examples like Nest. Like what? What's that called, that company? It doesn't matter. Okay. What have you found, Ron, from your...",
+          "There we go. I mean, there's a lot of products. We can also lean off of the all those uh mixers that already exist all those automatic uh choppers um yeah there and they're already there.",
+          "Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that.",
+          "Or even bigger industrial kitchens. To keep our focus on owns. Restaurants don't have the same identity that a home has. And I think that when we start speaking to marketing, it's important we keep this.",
+          "But we could use, you know, we could Use the industrial kitchens as a kind of our laboratory. And find out what works, what doesn't work. What's adaptable to homes, what isn't adapt."
+        ],
+        "DECISIONS": [
+          "No explicit decisions identified."
+        ],
+        "ACTION ITEMS": [
+          "No explicit action commitments identified."
+        ],
+        "IMPORTANT DATES / DEADLINES": [
+          "next week — Speaker E: we can have a follow-up meeting beginning of . Okay",
+          "today — Speaker E: can have a follow-up meeting beginning of . Okay, today"
+        ]
+      },
+      "raw_minutes": "MEETING MINUTES\n============================================================\nSource: MTG_32040.txt\n\nKEY POINTS\n--------------------\n• Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen. So yeah just today we just want to do brainstorming on any products that I I know that Ron was checking out some technicalities for, like, using examples like Nest. Like what? What's that called, that company? It doesn't matter. Okay. What have you found, Ron, from your...\n• There we go. I mean, there's a lot of products. We can also lean off of the all those uh mixers that already exist all those automatic uh choppers um yeah there and they're already there.\n• Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that.\n• Or even bigger industrial kitchens. To keep our focus on owns. Restaurants don't have the same identity that a home has. And I think that when we start speaking to marketing, it's important we keep this.\n• But we could use, you know, we could Use the industrial kitchens as a kind of our laboratory. And find out what works, what doesn't work. What's adaptable to homes, what isn't adapt.\n\nDECISIONS\n--------------------\n• No explicit decisions identified.\n\nACTION ITEMS\n--------------------\n• No explicit action commitments identified.\n\nIMPORTANT DATES / DEADLINES\n------------------------------\n• next week — Speaker E: we can have a follow-up meeting beginning of . Okay\n• today — Speaker E: can have a follow-up meeting beginning of . Okay, today\n"
+    },
+    {
+      "id": "mtg32040-whisper-flant5",
+      "meeting_id": "MTG_32040",
+      "meeting_title": "Smart Kitchen Product Brainstorming",
+      "engine": "whisper",
+      "model": "Flan-T5",
+      "transcript_excerpt": [
+        {
+          "start": null,
+          "end": null,
+          "speaker": "A",
+          "body": "Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen. So yeah just today we just want to do brainstorming on any products that I I know that Ron was checking out some technicalities for, like, using examples like Nest. Like what? What's that called, that company? It doesn't matter. Okay. What have you found, Ron, from your..."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and the mixing, if those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, you know, into other areas."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "So this is more for restaurants, right?"
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "D",
+          "body": "Yeah, that was my question. Are we aiming at industrial kitchens or home kitchens? I think it needs both."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "Both? You want both, but if you succeed with the restaurants, then it'll be easier to get into the individual."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "That's a better laboratory. As far as success in selling them, And I think you'll have more private kitchen than the restaurants opening individuals."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "E",
+          "body": "So I think it's... I think that restaurants may have a higher budget for what they're trying to buy. Yeah."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "A",
+          "body": "Or even bigger industrial kitchens. To keep our focus on owns. Because, I mean, that's how this all developed. Restaurants don't have the same identity that a home has. And I think that when we start speaking to marketing, it's important we keep this home feel."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "Absolutely. I do agree with you."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "D",
+          "body": "But we could use, you know, we could use the industrial kitchens as a kind of our laboratory. Base. Okay. And find out what works, what doesn't work. What's adaptable to homes, what isn't adaptable to homes."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "C",
+          "body": "Well, we are here a few women at the table. Why don't we start as a... Women? I think that's a bit... That's a little sexist there. We have children. We spend time getting our children back from school and everything. Right."
+        },
+        {
+          "start": null,
+          "end": null,
+          "speaker": "B",
+          "body": "So do a large number of men. I do all the cooking in the family."
+        }
+      ],
+      "transcript_total_utterances": 31,
+      "minutes": {
+        "KEY POINTS": [
+          "It's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen.",
+          "There's a lot of products. Smart refrigerator we can also lean off of you know there's all those automatic uh choppers.",
+          "I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that.",
+          "Restaurants don't have the same identity that a home has.",
+          "But we could use, you know, we could use the industrial kitchens as a kind of our laboratory. Base. Okay. And find out what works, what doesn't work. What's adaptable to homes, what isn't adaptable to homes."
+        ],
+        "DECISIONS": [
+          "No explicit decisions identified."
+        ],
+        "ACTION ITEMS": [
+          "No explicit action commitments identified."
+        ],
+        "IMPORTANT DATES / DEADLINES": [
+          "next week — Speaker E: we can have a follow-up meeting beginning of . Okay",
+          "today — Speaker E: can have a follow-up meeting beginning of . Okay, today"
+        ]
+      },
+      "raw_minutes": "MEETING MINUTES\n============================================================\nSource: MTG_32040.txt\n\nKEY POINTS\n--------------------\n• It's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen.\n• There's a lot of products. Smart refrigerator we can also lean off of you know there's all those automatic uh choppers.\n• I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that.\n• Restaurants don't have the same identity that a home has.\n• But we could use, you know, we could use the industrial kitchens as a kind of our laboratory. Base. Okay. And find out what works, what doesn't work. What's adaptable to homes, what isn't adaptable to homes.\n\nDECISIONS\n--------------------\n• No explicit decisions identified.\n\nACTION ITEMS\n--------------------\n• No explicit action commitments identified.\n\nIMPORTANT DATES / DEADLINES\n------------------------------\n• next week — Speaker E: we can have a follow-up meeting beginning of . Okay\n• today — Speaker E: can have a follow-up meeting beginning of . Okay, today\n"
+    }
+  ],
+  "assembly_stats": [
+    {
+      "meeting_id": "EN2002a",
+      "split": "test",
+      "duration_s": 2142.7,
+      "num_speakers": 4,
+      "num_segments": 411,
+      "transcription_time_s": 139.5,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "ES2004a",
+      "split": "train",
+      "duration_s": 1049.3,
+      "num_speakers": 4,
+      "num_segments": 97,
+      "transcription_time_s": 121.7,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "IS1009a",
+      "split": "train",
+      "duration_s": 839.0,
+      "num_speakers": 5,
+      "num_segments": 103,
+      "transcription_time_s": 55.2,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32040",
+      "split": "train",
+      "duration_s": 359.2,
+      "num_speakers": 5,
+      "num_segments": 81,
+      "transcription_time_s": 483.2,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32063",
+      "split": "train",
+      "duration_s": 366.0,
+      "num_speakers": 3,
+      "num_segments": 72,
+      "transcription_time_s": 293.5,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32072",
+      "split": "train",
+      "duration_s": 365.4,
+      "num_speakers": 3,
+      "num_segments": 60,
+      "transcription_time_s": 146.4,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32074",
+      "split": "train",
+      "duration_s": 362.0,
+      "num_speakers": 3,
+      "num_segments": 68,
+      "transcription_time_s": 135.8,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32092",
+      "split": "train",
+      "duration_s": 358.5,
+      "num_speakers": 5,
+      "num_segments": 45,
+      "transcription_time_s": 56.1,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32179",
+      "split": "test",
+      "duration_s": 359.6,
+      "num_speakers": 6,
+      "num_segments": 77,
+      "transcription_time_s": 49.0,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32185",
+      "split": "test",
+      "duration_s": 359.7,
+      "num_speakers": 5,
+      "num_segments": 17,
+      "transcription_time_s": 69.8,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32256",
+      "split": "test",
+      "duration_s": 363.9,
+      "num_speakers": 4,
+      "num_segments": 5,
+      "transcription_time_s": 40.0,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32257",
+      "split": "test",
+      "duration_s": 358.7,
+      "num_speakers": 2,
+      "num_segments": 80,
+      "transcription_time_s": 45.2,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "MTG_32322",
+      "split": "test",
+      "duration_s": 359.2,
+      "num_speakers": 4,
+      "num_segments": 58,
+      "transcription_time_s": 41.9,
+      "speech_model_used": "universal-3-5-pro"
+    },
+    {
+      "meeting_id": "TS3003a",
+      "split": "test",
+      "duration_s": 1505.6,
+      "num_speakers": 3,
+      "num_segments": 129,
+      "transcription_time_s": 73.8,
+      "speech_model_used": "universal-3-5-pro"
+    }
+  ],
+  "transcription": {
+    "assemblyai": {
+      "model": "universal-3-5-pro",
+      "meetings_processed": 14,
+      "total_transcription_time_s": 1751.1
+    },
+    "whisper": {
+      "model": "faster-whisper",
+      "meetings_processed": 14
+    }
+  }
+}

@@ -1,380 +1,437 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Meeting Minutes Generator</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎙️</text></svg>">
-    <link rel="stylesheet" href="./assets/css/styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Meeting Minutes Generator — Deep Learning Mini Project</title>
+<meta name="description" content="Meeting summarization using BART and FLAN-T5. Project showcase with actual results from the DL mini project.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./assets/css/styles.css">
 </head>
 <body>
-    <div id="app">
-        <aside id="sidebar">
-            <div class="sidebar-header">
-                <div class="logo">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M12 2L2 7l10 5 10-5V2zm0 18.4l-2.96-1.5a.5.5 0 010-.8L12 15l2.96-1.5a.5.5 0 01.88 0l2.96 1.5a.5.5 0 01-.44.8z" fill="currentColor"/>
-                    </svg>
-                </div>
-                <h1>AI Meeting Minutes</h1>
-            </div>
-            <nav class="sidebar-nav">
-                <button class="nav-item active" data-view="dashboard">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
-                        <polyline points="12 8 12 12 16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                    Dashboard
-                </button>
-                <button class="nav-item" data-view="new-meeting">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M12 4v12M4 12h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                    New Meeting
-                </button>
-                <button class="nav-item" data-view="history">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M8 7h8m-4 4v4m4-4h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                    Meeting History
-                </button>
-                <button class="nav-item" data-view="settings">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
-                        <path d="M12 12v2m0-6v2m6 6H6m6-6h2M12 12a4 4 0 100-8 4 4 0 000 8z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                    Settings
-                </button>
-            </nav>
-            <div class="sidebar-footer">
-                <div class="backend-status" id="backend-status">
-                    <div class="status-indicator offline"></div>
-                    <span>Backend: Not Configured</span>
-                </div>
-                <div class="version">
-                    v<span id="app-version">1.0.0</span>
-                </div>
-            </div>
-        </aside>
 
-        <main id="main-content">
-            <header id="top-nav">
-                <div class="nav-left">
-                    <button id="sidebar-toggle" class="nav-button" aria-label="Toggle sidebar">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <line x1="3" y1="12" x2="21" y2="12" stroke="currentColor" stroke-width="2"/>
-                            <line x1="3" y1="6" x2="21" y2="6" stroke="currentColor" stroke-width="2"/>
-                            <line x1="3" y1="18" x2="21" y2="18" stroke="currentColor" stroke-width="2"/>
-                        </svg>
-                    </button>
-                    <h2 id="page-title">Dashboard</h2>
-                </div>
-                <div class="nav-right">
-                    <div class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M21 12.79A9 9 0 1112.21 3 7.5 7.5 0 0021 12.79z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </div>
-                    <button id="new-meeting-btn" class="nav-button primary">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 4v12M4 12h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                        </svg>
-                        New Meeting
-                    </button>
-                </div>
-            </header>
+<!-- Navigation -->
+<nav class="site-nav" aria-label="Primary">
+  <a href="#hero" class="nav-brand">AI Meeting Minutes</a>
+  <div class="nav-links">
+    <a href="#overview">Overview</a>
+    <a href="#pipeline">Pipeline</a>
+    <a href="#models">Models</a>
+    <a href="#results">Results</a>
+    <a href="#demo">Demo</a>
+    <a href="#evaluation">Findings</a>
+    <a href="#repo" class="nav-link-cta">GitHub →</a>
+  </div>
+</nav>
 
-            <section id="views">
-                <!-- Dashboard View -->
-                <div id="view-dashboard" class="view">
-                    <div class="welcome">
-                        <h1>Welcome to AI Meeting Minutes Generator</h1>
-                        <p class="subtitle">
-                            Transform meeting transcripts into structured minutes with AI-powered summarization.
-                        </p>
-                    </div>
-
-                    <div class="stats-grid">
-                        <div class="stat-card">
-                            <h3>Meetings Processed</h3>
-                            <p class="stat-value" id="total-meetings">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>Saved Summaries</h3>
-                            <p class="stat-value" id="saved-summaries">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>Recent Activity</h3>
-                            <p class="stat-value" id="recent-count">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>Available Models</h3>
-                            <p class="stat-value" id="models-available">2</p>
-                        </div>
-                    </div>
-
-                    <div class="quick-actions">
-                        <button class="btn btn-primary btn-large" id="quick-new-meeting">
-                            Create New Meeting
-                        </button>
-                        <button class="btn btn-secondary btn-large" id="quick-view-history">
-                            View History
-                        </button>
-                    </div>
-
-                    <div class="recent-meetings">
-                        <h3>Recent Meetings</h3>
-                        <div class="meeting-list" id="recent-meetings-list">
-                            <p class="empty-state">No meetings yet. Create your first meeting to get started.</p>
-                        </div>
-                    </div>
-
-                    <div class="model-info">
-                        <h3>How It Works</h3>
-                        <div class="info-grid">
-                            <div class="info-item">
-                                <h4>1. Transcript Input</h4>
-                                <p>Paste meeting transcripts or upload text files.</p>
-                            </div>
-                            <div class="info-item">
-                                <h4>2. AI Processing</h4>
-                                <p>Choose BART or FLAN-T5 models for summarization.</p>
-                            </div>
-                            <div class="info-item">
-                                <h4>3. Structured Output</h4>
-                                <p>Get organized minutes with key points, decisions, and action items.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- New Meeting View -->
-                <div id="view-new-meeting" class="view">
-                    <form id="new-meeting-form" class="meeting-form">
-                        <div class="form-group">
-                            <label for="meeting-title">Meeting Title</label>
-                            <input type="text" id="meeting-title" placeholder="e.g., Weekly Team Sync - Q3 Planning" required>
-                            <small class="form-text">Optional but recommended for easy reference</small>
-                        </div>
-
-                        <div class="form-row">
-                            <div class="form-group">
-                                <label for="meeting-date">Meeting Date</label>
-                                <input type="date" id="meeting-date">
-                            </div>
-                            <div class="form-group">
-                                <label for="participants">Participants (Optional)</label>
-                                <input type="text" id="participants" placeholder="Comma-separated names">
-                                <small class="form-text">e.g., Alice Smith, Bob Jones, Carol Lee</small>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="meeting-context">Meeting Context / Description</label>
-                            <textarea id="meeting-context" rows="3" placeholder="Brief description of the meeting purpose, agenda, or background..."></textarea>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="transcript-input">Meeting Transcript</label>
-                            <div class="transcript-container">
-                                <textarea id="transcript-input" rows="12" placeholder="Paste the meeting transcript here..."></textarea>
-                                <div class="transcript-actions">
-                                    <button type="button" class="btn btn-sm btn-outline" id="clear-transcript">
-                                        Clear
-                                    </button>
-                                    <button type="button" class="btn btn-sm btn-outline" id="upload-transcript">
-                                        Upload File
-                                    </button>
-                                    <input type="file" id="transcript-file" accept=".txt,.md" style="display: none">
-                                </div>
-                                <div id="transcript-preview" class="transcript-preview"></div>
-                                <small class="form-text" id="transcript-stats">0 characters • 0 words</small>
-                            </div>
-                        </div>
-
-                        <div class="form-row">
-                            <div class="form-group">
-                                <label for="summarization-method">Summarization Method</label>
-                                <select id="summarization-method">
-                                    <option value="bart">BART (Facebook/bart-large-cnn)</option>
-                                    <option value="flan-t5" selected>FLAN-T5 (Google/flan-t5-small)</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <label for="max-output">Max Summary Length</label>
-                                <select id="max-output">
-                                    <option value="64">64 tokens</option>
-                                    <option value="128" selected>128 tokens</option>
-                                    <option value="192">192 tokens</option>
-                                    <option value="256">256 tokens</option>
-                                </select>
-                            </div>
-                        </div>
-
-                        <div class="form-actions">
-                            <button type="button" class="btn btn-secondary" id="cancel-meeting">
-                                Cancel
-                            </button>
-                            <button type="submit" class="btn btn-primary" id="generate-minutes">
-                                Generate Meeting Minutes
-                            </button>
-                        </div>
-
-                        <div id="form-status" class="form-status"></div>
-                    </form>
-                </div>
-
-                <!-- Results View -->
-                <div id="view-results" class="view">
-                    <div class="results-header">
-                        <h2 id="results-title">Meeting Minutes</h2>
-                        <div class="results-actions">
-                            <button class="btn btn-sm btn-outline" id="copy-summary">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <rect x="9" y="9" width="13" height="13" rx="2" stroke="currentColor" stroke-width="2"/>
-                                    <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h10a2 2 0 012 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                                Copy Summary
-                            </button>
-                            <button class="btn btn-sm btn-outline" id="download-txt">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                    <polyline points="7 10 12 15 17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                                Download TXT
-                            </button>
-                            <button class="btn btn-sm btn-outline" id="download-md">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M4 22h16a2 2 0 002-2V8a2 2 0 00-2-2H4a2 2 0 00-2 2v12z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                    <line x1="2" y1="7" x2="22" y2="7" stroke="currentColor" stroke-width="2"/>
-                                </svg>
-                                Download MD
-                            </button>
-                            <button class="btn btn-sm btn-outline" id="print-minutes">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M6 9H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
-                                    <line x1="6" y1="1" x2="6" y2="4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
-                                    <line x1="10" y1="1" x2="10" y2="4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
-                                </svg>
-                                Print
-                            </button>
-                            <button class="btn btn-sm btn-outline" id="save-meeting">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
-                                    <path d="M12 8v4M8 12h4m4 0h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                                </svg>
-                                Save Locally
-                            </button>
-                        </div>
-                    </div>
-
-                    <div id="results-content" class="results-content">
-                        <!-- Results will be populated here -->
-                    </div>
-                </div>
-
-                <!-- Meeting History View -->
-                <div id="view-history" class="view">
-                    <div class="history-header">
-                        <h2>Meeting History</h2>
-                        <div class="history-actions">
-                            <input type="text" id="history-search" placeholder="Search meetings...">
-                            <button class="btn btn-sm btn-outline" id="clear-history-search">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/>
-                                    <line x1="21" y1="21" x2="16.65" y2="16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                                </svg>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="history-filters">
-                        <label for="history-date-filter">Filter by Date:</label>
-                        <select id="history-date-filter">
-                            <option value="all">All Time</option>
-                            <option value="today">Today</option>
-                            <option value="week">This Week</option>
-                            <option value="month">This Month</option>
-                        </select>
-                    </div>
-
-                    <div class="history-list" id="history-list">
-                        <!-- Meeting items will be populated here -->
-                    </div>
-                </div>
-
-                <!-- Settings View -->
-                <div id="view-settings" class="view">
-                    <div class="settings-section">
-                        <h3>Backend Configuration</h3>
-                        <div class="setting-item">
-                            <label for="backend-url">Backend API URL</label>
-                            <input type="text" id="backend-url" placeholder="e.g., https://your-api.example.com">
-                            <small class="form-text">
-                                Leave empty for local-only mode (rule-based extraction only).
-                                Backend must implement the API contract documented in README.md.
-                            </small>
-                        </div>
-                        <div class="setting-item">
-                            <button class="btn btn-sm" id="test-backend-connection">
-                                Test Connection
-                            </button>
-                            <span id="backend-connection-status" class="connection-status"></span>
-                        </div>
-                        <div class="setting-item" id="backend-info">
-                            <h4>Available Methods (when backend configured)</h4>
-                            <ul id="backend-methods-list">
-                                <li>Loading...</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="settings-section">
-                        <h3>Appearance</h3>
-                        <div class="setting-item">
-                            <label class="switch">
-                                <input type="checkbox" id="theme-preference">
-                                <span class="slider"></span>
-                            </label>
-                            Dark Theme
-                        </div>
-                    </div>
-
-                    <div class="settings-section">
-                        <h3>Local Data</h3>
-                        <div class="setting-item">
-                            <button class="btn btn-sm btn-outline" id="export-all-data">
-                                Export All Meetings
-                            </button>
-                            <button class="btn btn-sm btn-outline" id="import-data">
-                                Import Meetings
-                            </button>
-                            <input type="file" id="import-file" accept=".json" style="display: none">
-                        </div>
-                        <div class="setting-item">
-                            <button class="btn btn-sm btn-danger" id="clear-all-data" data-confirm="Are you sure you want to delete ALL locally stored meeting data? This action cannot be undone.">
-                                Clear All Local Data
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="settings-section">
-                        <h3>About</h3>
-                        <div class="setting-item">
-                            <p><strong>AI Meeting Minutes Generator</strong></p>
-                            <p>Frontend for meeting summarization using fine-tuned BART and FLAN-T5 models.</p>
-                            <p>Version: <span id="about-version">1.0.0</span></p>
-                            <p><small>Models remain on server/backend; frontend never loads .pt files directly.</small></p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </main>
+<!-- Hero -->
+<header id="hero" class="hero">
+  <div class="hero-inner">
+    <div class="hero-label">Deep Learning Mini Project · KU SEM 5</div>
+    <h1>AI Meeting Minutes <span class="accent">Generator</span></h1>
+    <p class="hero-subtitle">
+      A meeting summarization pipeline that transforms raw meeting transcripts into structured minutes — using fine-tuned BART and FLAN-T5 models trained on real meeting corpora.
+    </p>
+    <div class="hero-actions">
+      <a href="#results" class="btn btn-primary">View Actual Results →</a>
+      <a href="#pipeline" class="btn btn-secondary">How It Works</a>
     </div>
+    <div class="hero-meta">
+      <span class="badge">BART-large-CNN</span>
+      <span class="badge">FLAN-T5-small</span>
+      <span class="badge">Whisper</span>
+      <span class="badge">AssemblyAI</span>
+      <span class="badge">Meeting Corpus</span>
+    </div>
+  </div>
+  <div class="hero-deco" aria-hidden="true">
+    <svg viewBox="0 0 720 540" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#7c3aed"/>
+          <stop offset="100%" stop-color="#0ea5e9"/>
+        </linearGradient>
+        <filter id="soft"><feDropShadow dx="0" dy="8" stdDeviation="24" flood-color="#7c3aed" flood-opacity="0.25"/></filter>
+      </defs>
+      <rect width="720" height="540" fill="#0b0c14"/>
+      <!-- Abstract meeting / document visualization -->
+      <g filter="url(#soft)">
+        <rect x="100" y="120" width="180" height="260" rx="16" fill="#13141f" stroke="#2d2d3d" stroke-width="1"/>
+        <rect x="120" y="140" width="140" height="6" rx="3" fill="#7c3aed" opacity="0.9"/>
+        <rect x="120" y="160" width="90" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="170" width="120" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="180" width="70" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="200" width="140" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="210" width="100" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="220" width="130" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="240" width="140" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="250" width="80" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="120" y="270" width="140" height="60" rx="8" fill="#0f1117" stroke="#7c3aed" stroke-width="0.5" opacity="0.7"/>
+        <text x="130" y="300" fill="#e2e8f0" font-size="10" font-family="system-ui, sans-serif">KEY POINTS</text>
+        <text x="130" y="315" fill="#a1a1aa" font-size="9" font-family="system-ui, sans-serif">• Survey among kitchen field...</text>
+        <rect x="140" y="340" width="100" height="6" rx="3" fill="#0ea5e9" opacity="0.8"/>
+      </g>
+      <g filter="url(#soft)">
+        <rect x="420" y="90" width="200" height="360" rx="16" fill="#13141f" stroke="#2d2d3d" stroke-width="1"/>
+        <rect x="440" y="110" width="160" height="8" rx="4" fill="#0ea5e9" opacity="0.9"/>
+        <rect x="440" y="130" width="80" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="145" width="110" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="160" width="60" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="185" width="160" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="200" width="120" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="215" width="140" height="6" rx="3" fill="#3a3a4a"/>
+        <rect x="440" y="240" width="160" height="8" rx="4" fill="#7c3aed" opacity="0.9"/>
+        <rect x="440" y="260" width="160" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="440" y="270" width="100" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="440" y="280" width="130" height="4" rx="2" fill="#3a3a4a"/>
+        <rect x="440" y="300" width="160" height="40" rx="8" fill="#0f1117" stroke="#0ea5e9" stroke-width="0.5" opacity="0.7"/>
+        <text x="450" y="325" fill="#e2e8f0" font-size="10" font-family="system-ui, sans-serif">DECISIONS</text>
+        <text x="450" y="340" fill="#a1a1aa" font-size="9" font-family="system-ui, sans-serif">• No explicit decisions...</text>
+        <rect x="460" y="355" width="120" height="6" rx="3" fill="#0ea5e9" opacity="0.8"/>
+      </g>
+      <!-- Pipeline arrow -->
+      <path d="M300 320 Q360 320 420 320" stroke="#7c3aed" stroke-width="2" fill="none" stroke-dasharray="6 4" opacity="0.6"/>
+      <polygon points="420,320 412,316 412,324" fill="#7c3aed" opacity="0.8"/>
+    </svg>
+  </div>
+</header>
 
-    <script src="./assets/js/config.js"></script>
-    <script src="./assets/js/api.js"></script>
-    <script src="./assets/js/summarizer.js"></script>
-    <script src="./assets/js/app.js"></script>
+<main>
+
+<!-- Overview -->
+<section id="overview" class="section overview">
+  <div class="section-header">
+    <span class="label">01 / Project Overview</span>
+    <h2>Why Automatic Meeting Minutes?</h2>
+  </div>
+  <div class="overview-grid">
+    <article class="card overview-card">
+      <div class="card-icon" aria-hidden="true"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg></div>
+      <h3>The Problem</h3>
+      <p>Meeting transcripts contain rich discussion but are hard to scan. Manual minutes take time and miss key points, decisions, and action commitments.</p>
+    </article>
+    <article class="card overview-card">
+      <div class="card-icon" aria-hidden="true"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/></svg></div>
+      <h3>The Approach</h3>
+      <p>Fine-tuned sequence-to-sequence models (BART-large-CNN, FLAN-T5-small) extract structured minutes from transcripts — key points, decisions, actions, deadlines.</p>
+    </article>
+    <article class="card overview-card">
+      <div class="card-icon" aria-hidden="true"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></div>
+      <h3>The Benefit</h3>
+      <p>Structured output (not just text) with speaker-attributed action items and dated deadlines — ready for team follow-up.</p>
+    </article>
+  </div>
+</section>
+
+<!-- Pipeline -->
+<section id="pipeline" class="section pipeline">
+  <div class="section-header">
+    <span class="label">02 / Methodology</span>
+    <h2>Processing Pipeline</h2>
+  </div>
+  <div class="pipeline-flow" aria-label="Project processing pipeline">
+    <div class="pipe-stage">
+      <div class="pipe-badge">01</div>
+      <h4>Meeting Audio</h4>
+      <p>Raw audio recordings from meeting corpora.</p>
+    </div>
+    <div class="pipe-arrow" aria-hidden="true">→</div>
+    <div class="pipe-stage">
+      <div class="pipe-badge">02</div>
+      <h4>Preprocessing</h4>
+      <p>Clean audio, segment, prepare for transcription.</p>
+    </div>
+    <div class="pipe-arrow" aria-hidden="true">→</div>
+    <div class="pipe-stage">
+      <div class="pipe-badge">03</div>
+      <h4>Transcription</h4>
+      <p>Whisper or AssemblyAI → diarized transcript.</p>
+    </div>
+    <div class="pipe-arrow" aria-hidden="true">→</div>
+    <div class="pipe-stage">
+      <div class="pipe-badge">04</div>
+      <h4>Summarization</h4>
+      <p>BART / FLAN-T5 → structured minutes.</p>
+    </div>
+    <div class="pipe-arrow" aria-hidden="true">→</div>
+    <div class="pipe-stage">
+      <div class="pipe-badge">05</div>
+      <h4>Structured Output</h4>
+      <p>Key points, decisions, actions, dates.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Models -->
+<section id="models" class="section models">
+  <div class="section-header">
+    <span class="label">03 / Technology</span>
+    <h2>Models & Stack</h2>
+  </div>
+  <div class="models-grid">
+    <article class="card model-card">
+      <h3>BART <span class="mono">facebook/bart-large-cnn</span></h3>
+      <p><strong>Role:</strong> Meeting summarization (fine-tuned on meeting dialogue).</p>
+      <dl class="meta-list">
+        <div><dt>Architecture</dt><dd>Encoder-decoder Transformer</dd></div>
+        <div><dt>Used for</dt><dd>Generated meeting summaries</dd></div>
+        <div><dt>Weight file</dt><dd><code>bart_model.pt</code> (1.6 GB, LFS)</dd></div>
+      </dl>
+    </article>
+    <article class="card model-card">
+      <h3>FLAN-T5 <span class="mono">google/flan-t5-small</span></h3>
+      <p><strong>Role:</strong> Alternative summarizer; instruction-tuned for concise output.</p>
+      <dl class="meta-list">
+        <div><dt>Architecture</dt><dd>T5 encoder-decoder (60M params)</dd></div>
+        <div><dt>Used for</dt><dd>Comparative summary generation</dd></div>
+        <div><dt>Weight file</dt><dd><code>flan_t5_model.pt</code> (308 MB, LFS)</dd></div>
+      </dl>
+    </article>
+    <article class="card model-card">
+      <h3>Whisper <span class="mono">openai-whisper / faster-whisper</span></h3>
+      <p><strong>Role:</strong> Speech-to-text transcription with speaker diarization.</p>
+      <dl class="meta-list">
+        <div><dt>Used for</dt><dd>Meeting transcripts from audio</dd></div>
+        <div><dt>Outputs</dt><dd>JSON + .txt transcripts</dd></div>
+      </dl>
+    </article>
+    <article class="card model-card">
+      <h3>AssemblyAI <span class="mono">universal-3-5-pro</span></h3>
+      <p><strong>Role:</strong> Cloud transcription with speaker identification.</p>
+      <dl class="meta-list">
+        <div><dt>Used for</dt><dd>Alternative transcription path</dd></div>
+        <div><dt>Outputs</dt><dd>JSON transcripts + CSV log</dd></div>
+      </dl>
+    </article>
+  </div>
+  <div class="tech-stack">
+    <h3>Technology Stack</h3>
+    <div class="badge-row">
+      <span class="badge">Python</span><span class="badge">PyTorch</span><span class="badge">Transformers</span>
+      <span class="badge">Librosa</span><span class="badge">SoundFile</span><span class="badge">OpenAI Whisper</span>
+      <span class="badge">Faster-Whisper</span><span class="badge">AssemblyAI</span><span class="badge">Jupyter</span>
+      <span class="badge">Streamlit</span><span class="badge">Pandas</span><span class="badge">NumPy</span>
+    </div>
+  </div>
+</section>
+
+<!-- Results (showcase) -->
+<section id="results" class="section results">
+  <div class="section-header">
+    <span class="label">04 / Results Showcase</span>
+    <h2>Actual Project Outputs</h2>
+  </div>
+
+  <div class="results-intro">
+    <p>The project generates structured meeting minutes from real meeting transcripts. Below are actual examples from the repository — one for each transcriber and model pairing. No synthetic data is shown.</p>
+  </div>
+
+  <div class="tabs" role="tablist" aria-label="Result examples">
+    <button class="tab-btn active" role="tab" aria-selected="true" onclick="switchTab(0)">AssemblyAI + BART</button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(1)">AssemblyAI + FLAN-T5</button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(2)">Whisper + BART</button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(3)">Whisper + FLAN-T5</button>
+  </div>
+
+  <div class="tab-panels">
+    <!-- Panel 0 -->
+    <div class="tab-panel active" role="tabpanel" id="panel-0">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
+          <div class="transcript-box" id="transcript-0">
+            <p><strong>Source:</strong> <code>outputs/assemblyai/transcripts/MTG_32040.txt</code></p>
+            <p><strong>Meeting:</strong> Smart Kitchen Product Brainstorming</p>
+            <p><strong>Utterances:</strong> 81 · <strong>Speakers:</strong> 5 (A, B, C, D, E)</p>
+            <hr>
+            <div class="excerpt" id="excerpt-0"></div>
+          </div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — BART</h4>
+          <div class="minutes-box" id="minutes-0"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Panel 1 -->
+    <div class="tab-panel" role="tabpanel" id="panel-1">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
+          <div class="transcript-box"><p>Same transcript as above (81 utterances).</p></div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — FLAN-T5</h4>
+          <div class="minutes-box" id="minutes-1"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Panel 2 -->
+    <div class="tab-panel" role="tabpanel" id="panel-2">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — Whisper Transcript (MTG_32040)</h4>
+          <div class="transcript-box"><p><strong>Source:</strong> <code>outputs/whisper/transcripts/MTG_32040.txt</code> · 31 utterances · Speaker A–E.</p><p>Format: <code>Speaker A: ...</code> (no timestamps).</p></div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — BART</h4>
+          <div class="minutes-box" id="minutes-2"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Panel 3 -->
+    <div class="tab-panel" role="tabpanel" id="panel-3">
+      <div class="two-col">
+        <div class="result-panel">
+          <h4>Input — Whisper Transcript (MTG_32040)</h4>
+          <div class="transcript-box"><p>Same Whisper transcript (31 utterances).</p></div>
+        </div>
+        <div class="result-panel">
+          <h4>Generated Minutes — FLAN-T5</h4>
+          <div class="minutes-box" id="minutes-3"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Sample Demonstration -->
+<section id="demo" class="section demo">
+  <div class="section-header">
+    <span class="label">05 / Sample Demonstration</span>
+    <h2>Before & After — Actual Example</h2>
+  </div>
+  <div class="demo-grid">
+    <article class="card demo-card">
+      <h3>Transcript Excerpt</h3>
+      <blockquote>
+        <p>“Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to—the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and the—”</p>
+        <cite>Speaker B · AssemblyAI transcript · MTG_32040</cite>
+      </blockquote>
+    </article>
+    <article class="card demo-card">
+      <h3>Generated Key Point (BART)</h3>
+      <blockquote>
+        <p>“A survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to—the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and—”</p>
+        <cite>From <code>outputs/BART/assemblyai/MTG_32040_summary.txt</code></cite>
+      </blockquote>
+    </article>
+    <article class="card demo-card">
+      <h3>Structured Output Section</h3>
+      <div class="structured-list">
+        <div><strong>KEY POINTS</strong> <span>5 items</span></div>
+        <div><strong>DECISIONS</strong> <span>1 item</span></div>
+        <div><strong>ACTION ITEMS</strong> <span>1 item</span></div>
+        <div><strong>IMPORTANT DATES</strong> <span>1 item</span></div>
+      </div>
+      <p class="small">Actual counts from the BART summary file for MTG_32040.</p>
+    </article>
+  </div>
+</section>
+
+<!-- Architecture -->
+<section id="architecture" class="section architecture">
+  <div class="section-header">
+    <span class="label">06 / Architecture</span>
+    <h2>Project Architecture</h2>
+  </div>
+  <div class="arch-diagram" aria-label="Project architecture diagram">
+    <div class="arch-flow">
+      <div class="arch-node input"><div class="arch-label">Meeting Audio</div><div class="arch-sub">dataset/raw/*.wav</div></div>
+      <div class="arch-connector" aria-hidden="true">→</div>
+      <div class="arch-node proc"><div class="arch-label">Preprocessing</div><div class="arch-sub">dataset/processed/</div></div>
+      <div class="arch-connector" aria-hidden="true">→</div>
+      <div class="arch-node trans"><div class="arch-label">Transcription</div><div class="arch-sub">Whisper / AssemblyAI → .txt + JSON</div></div>
+      <div class="arch-connector" aria-hidden="true">→</div>
+      <div class="arch-node model"><div class="arch-label">Summarization</div><div class="arch-sub">BART / FLAN-T5 → minutes</div></div>
+      <div class="arch-connector" aria-hidden="true">→</div>
+      <div class="arch-node out"><div class="arch-label">Structured Minutes</div><div class="arch-sub">outputs/ → Key Points / Decisions / Actions / Dates</div></div>
+    </div>
+  </div>
+  <div class="arch-note">
+    <p>The architecture is verified by tracked files: <code>dataset/</code>, <code>outputs/</code>, <code>bart_model.pt</code>, <code>flan_t5_model.pt</code>, and the training notebooks.</p>
+  </div>
+</section>
+
+<!-- Findings -->
+<section id="evaluation" class="section findings">
+  <div class="section-header">
+    <span class="label">07 / Findings</span>
+    <h2>What the Results Show</h2>
+  </div>
+  <div class="findings-grid">
+    <article class="card finding-card">
+      <h3>Transcription Quality</h3>
+      <p>AssemblyAI <code>universal-3-5-pro</code> achieves high language confidence (~0.98) with 81 segments for MTG_32040. Whisper (faster-whisper) produces 31 segments with full speaker mapping. Both capture speaker dialogue.</p>
+    </article>
+    <article class="card finding-card">
+      <h3>Model Output Quality</h3>
+      <p>BART and FLAN-T5 both produce 5 key points, 1 decision, 1 action item, and 1 date from MTG_32040. The outputs preserve the meeting's core discussion: kitchen automation, home-vs-restaurant focus, and the follow-up meeting reference.</p>
+    </article>
+    <article class="card finding-card">
+      <h3>Structure vs. Raw Text</h3>
+      <p>Generated minutes are not free-form paragraphs — they are organized into Key Points, Decisions, Action Items, and Dates, making them immediately usable for team follow-up.</p>
+    </article>
+    <article class="card finding-card">
+      <h3>Limitations Observed</h3>
+      <p>Some decisions and action items are marked “No explicit...” because the transcript is conversational rather than outcome-driven. Long transcripts require truncation for model input. Speaker attribution depends on diarization accuracy.</p>
+    </article>
+  </div>
+</section>
+
+<!-- Limitations & Scope -->
+<section id="limitations" class="section limitations">
+  <div class="section-header">
+    <span class="label">08 / Limitations & Next Steps</span>
+    <h2>Current Limits & Future Scope</h2>
+  </div>
+  <div class="limitations-columns">
+    <div>
+      <h3>Current Limitations</h3>
+      <ul>
+        <li>Summary quality depends on transcript clarity.</li>
+        <li>Long transcripts require input-length truncation.</li>
+        <li>Model inference requires GPU/CPU resources (<code>bart_model.pt</code> 1.6 GB).</li>
+        <li>Speaker attribution relies on diarization (not manually corrected).</li>
+        <li>Action-item extraction works best when commitments are explicit.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Future Improvements</h3>
+      <ul>
+        <li>Evaluate both BART and FLAN-T5 with automated metrics (ROUGE, BERTScore).</li>
+        <li>Extend to multi-language meeting corpora.</li>
+        <li>Integrate with realtime transcription streams.</li>
+        <li>Build a web API (FastAPI/Flask) for live inference.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="repo" class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo" aria-label="AI Meeting Minutes Generator logo"></div>
+      <div>
+        <h2>AI Meeting Minutes Generator</h2>
+        <p>Meeting summarization using fine-tuned BART and FLAN-T5 · Deep Learning Mini Project</p>
+      </div>
+    </div>
+    <div class="footer-links">
+      <a href="https://github.com/manish2701/AI-Meeting-Minutes-Generator" target="_blank" rel="noopener noreferrer">GitHub Repository →</a>
+      <a href="#results">View Results</a>
+      <a href="#pipeline">Methodology</a>
+    </div>
+    <div class="footer-note">
+      <p>Project repository: <a href="https://github.com/manish2701/AI-Meeting-Minutes-Generator" target="_blank">manish2701/AI-Meeting-Minutes-Generator</a></p>
+      <p>Built with HTML, CSS, and vanilla JavaScript — fully static, GitHub Pages compatible.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="./assets/js/main.js" defer></script>
 </body>
 </html>
