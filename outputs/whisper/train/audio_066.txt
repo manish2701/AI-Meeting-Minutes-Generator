@@ -1,8 +1,0 @@
-Audio File: audio_066.wav
-Detected Language: en
-Language Probability: 0.9741
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.42s] Like, is it just the first and the last line?

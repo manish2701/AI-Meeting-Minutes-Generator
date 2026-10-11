@@ -1,8 +1,0 @@
-Audio File: audio_074.wav
-Detected Language: en
-Language Probability: 0.9697
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.90s] Yes, but what are the other things that's some kind of number?

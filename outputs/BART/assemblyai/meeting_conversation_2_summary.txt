@@ -1,0 +1,40 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_2.txt
+
+KEY POINTS
+--------------------
+• The current service budget is 200 milliseconds at the 95th percentile. The additional 40 milliseconds is manageable, but the database query also contributes around 70 milliseconds. The service budget for this article has been updated to reflect the new.
+• The second experiment uses gradient boosted trees. It reached an F1 score of 0.83 but inference time increased by about 40 milliseconds per request. The third experiment uses a different type of tree that has a different.
+• Slightly. The positive recommendation class increased from 14.7 percent to 15.1 percent because several duplicate negative events were removed. The negative recommendation class was reduced from 13.9 percent to 12.8 percent.
+• The new customer event dataset has been loaded into the warehouse. We now have approximately 2.4 million events covering the last six months. The data will be available to all customers for the first time in the coming.
+• The feature pipeline is also ready. I added rolling seven-day activity, thirty-day purchase frequency, average order value, and category diversity. I also added rolling six-month activity, 30-month purchase frequency.
+
+DECISIONS
+--------------------
+• use four-hour metadata refreshes for the pilot
+• schedule the first pilot review for next Wednesday at 2 PM
+• use the gradient boosted model as the candidate for the pilot
+• remove raw customer identifiers from logs
+• start the pilot with 5,000 customers across three high-volume regions
+
+ACTION ITEMS
+--------------------
+• ML Engineer — run that comparison by Wednesday afternoon
+• Backend Developer — benchmark the query and implement the cache by Thursday
+• Backend Developer — include both cases
+• Mobile Developer — implement the cache and manual refresh behavior by Thursday evening
+• Data Engineer — update the schedule today
+• ML Engineer — also add a validation check that compares recommendation category IDs against the current metadata before returning explanations
+• ML Engineer — add it by Friday morning
+• Backend Developer — deploy the fix to staging by Wednesday
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Wednesday afternoon — ML Engineer: run that comparison by .
+• Thursday evening — Mobile Developer: implement the cache and manual refresh behavior by .
+• today — Data Engineer: update the schedule .
+• next Wednesday at 2 PM — Scrum Master: schedule the first pilot review for .
+• Friday at 3 PM — Product Manager: the final pilot review will be the following .
+• today — QA Lead: prepare the regression cases .
+• tomorrow — Scrum Master: should update the task board before the daily stand-up .

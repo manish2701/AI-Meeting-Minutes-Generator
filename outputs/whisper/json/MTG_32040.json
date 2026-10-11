@@ -1,0 +1,272 @@
+{
+  "audio_file": "MTG_32040.wav",
+  "dataset_split": "train",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 5,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02",
+    "SPEAKER_03",
+    "SPEAKER_04"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_03": "Speaker A",
+    "SPEAKER_00": "Speaker B",
+    "SPEAKER_02": "Speaker C",
+    "SPEAKER_04": "Speaker D",
+    "SPEAKER_01": "Speaker E"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 7.02,
+      "end": 47.88,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Good morning everyone, it's a really exciting meeting today discussing the products for our Smart Kitchen, is that what it is? Smart Kitchen? Robotic Smart of the future is here. The future kitchen. So yeah just today we just want to do brainstorming on any products that I I know that Ron was checking out some technicalities for, like, using examples like Nest. Like what? What's that called, that company? It doesn't matter. Okay. What have you found, Ron, from your..."
+    },
+    {
+      "start": 47.88,
+      "end": 88.68,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to, the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and the mixing, if those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, you know, into other areas."
+    },
+    {
+      "start": 88.68,
+      "end": 91.02,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "So this is more for restaurants, right?"
+    },
+    {
+      "start": 91.14,
+      "end": 97.92,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "Yeah, that was my question. Are we aiming at industrial kitchens or home kitchens? I think it needs both."
+    },
+    {
+      "start": 98.36,
+      "end": 108.88,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Both? You want both, but if you succeed with the restaurants, then it'll be easier to get into the individual."
+    },
+    {
+      "start": 108.88,
+      "end": 120.06,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "That's a better laboratory. As far as success in selling them, And I think you'll have more private kitchen than the restaurants opening individuals."
+    },
+    {
+      "start": 120.4,
+      "end": 126.14,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "So I think it's... I think that restaurants may have a higher budget for what they're trying to buy. Yeah."
+    },
+    {
+      "start": 126.38,
+      "end": 142.68,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Or even bigger industrial kitchens. To keep our focus on owns. Because, I mean, that's how this all developed. Restaurants don't have the same identity that a home has. And I think that when we start speaking to marketing, it's important we keep this home feel."
+    },
+    {
+      "start": 143.24,
+      "end": 144.96,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Absolutely. I do agree with you."
+    },
+    {
+      "start": 145.08,
+      "end": 157.76,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "But we could use, you know, we could use the industrial kitchens as a kind of our laboratory. Base. Okay. And find out what works, what doesn't work. What's adaptable to homes, what isn't adaptable to homes."
+    },
+    {
+      "start": 157.76,
+      "end": 171.8,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Well, we are here a few women at the table. Why don't we start as a... Women? I think that's a bit... That's a little sexist there. We have children. We spend time getting our children back from school and everything. Right."
+    },
+    {
+      "start": 171.8,
+      "end": 177.1,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So do a large number of men. I do all the cooking in the family."
+    },
+    {
+      "start": 178.02,
+      "end": 178.94,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Okay, well, in terms of..."
+    },
+    {
+      "start": 178.94,
+      "end": 199.02,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Let's stick to the machinery. To talk about products, so especially, Sarah, I know that you've been interested in this, having prompts for what shopping to do, and then your fridge tells you what's empty. I mean, those are the kind of products we need to be speaking about."
+    },
+    {
+      "start": 199.68,
+      "end": 229.58,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "There we go. I mean, there's a lot of products. smart refrigerator we can also lean off of you know there's the all those uh mixers that already exist all those automatic uh choppers um yeah there and they're already there but we can build on them to make it yeah this is a different level yeah with different electronics like a like a like a void system like turn this on right now um we'll have like a mixing system of just a spoon that connects to a pan that just continues to mix."
+    },
+    {
+      "start": 229.7,
+      "end": 239.48,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "How about the rubber that will put all the dirty dishes in the dishwasher? Yeah, that's what I'm going to do. The rubber is the best."
+    },
+    {
+      "start": 240.52,
+      "end": 254.68,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I was also thinking about a smart oven where you could have sensors inside that would check to see if something has risen, is baked through, insert thermometer to get it inside temperature."
+    },
+    {
+      "start": 254.68,
+      "end": 264.26,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "If we can dream, if we can dream, we can do it. So what I would see is when you come back from the shop."
+    },
+    {
+      "start": 264.26,
+      "end": 299.9,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay, so how about a dream here? We need an action plan, not just dreams. We need an action plan. I know that all that work you've done is really valuable, so please can you summarize that research that you did and give it to me by next week, Wednesday? Absolutely. Okay. We need Ron's research. I think maybe you can give a presentation on that. So if we can bring in. Benda, please can you invite also some technical guides for Ron's presentation. Ron, where will the presentation be?"
+    },
+    {
+      "start": 300.36,
+      "end": 303.92,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "It should be ready by Monday. I'll work on it over the weekend."
+    },
+    {
+      "start": 303.92,
+      "end": 305.68,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay, so let's get everyone in the calendar."
+    },
+    {
+      "start": 306.28,
+      "end": 316.28,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "Sarah? I think, Beth, you saw all of our ideas maybe come up by next week, find the things that you liked more that we can build up on them and then we can"
+    },
+    {
+      "start": 316.28,
+      "end": 322.06,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Yeah, and I also need to just give like a running commentary on what things I think we can expand on. Yeah, okay."
+    },
+    {
+      "start": 322.68,
+      "end": 330.44,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "I think each of us can do a bit of market research also with our friends and neighbors and get, you know, get the reaction to the primary idea. So can you check everyone's calendar, Sarah?"
+    },
+    {
+      "start": 330.8,
+      "end": 334.18,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "Yeah, I'll see if we can have a follow-up meeting beginning of next week. Okay, today"
+    },
+    {
+      "start": 334.18,
+      "end": 338.34,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "still we need to check calendars so we can book those meetings. Yes, to get back on"
+    },
+    {
+      "start": 338.34,
+      "end": 344.84,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "the dream thing, Do we have to make it feasible or can we really dream?"
+    },
+    {
+      "start": 344.96,
+      "end": 347.62,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "No, let's dream big and we can always work it down."
+    },
+    {
+      "start": 347.82,
+      "end": 348.84,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "So I love that."
+    },
+    {
+      "start": 348.94,
+      "end": 350.06,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I love the big dreams."
+    },
+    {
+      "start": 350.38,
+      "end": 354.92,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "But I think where you want to start is where can things be automated in the kitchen? Absolutely."
+    }
+  ]
+}

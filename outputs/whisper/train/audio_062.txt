@@ -1,8 +1,0 @@
-Audio File: audio_062.wav
-Detected Language: en
-Language Probability: 0.9250
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.32s] I can try to do it and send it to you.

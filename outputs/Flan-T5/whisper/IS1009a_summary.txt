@@ -1,0 +1,23 @@
+MEETING MINUTES
+============================================================
+Source: IS1009a.txt
+
+KEY POINTS
+--------------------
+• I think one of the big things that happens is people lose them, they can't find it.
+• I think you will get instructions to work with.
+• They put a newspaper or they put it behind a plant or whatever and suddenly the phone rings and they want to turn the TV off.
+• My role is to design a television remote control.
+• I'm just saying throw a signal meaning whether it's a beep or a light.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• No explicit action commitments identified.
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• No explicit dates or deadlines identified.

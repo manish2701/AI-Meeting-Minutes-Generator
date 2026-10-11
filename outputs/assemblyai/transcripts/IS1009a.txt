@@ -1,0 +1,103 @@
+[0.31s - 21.10s] A: How does that work?
+[21.10s - 24.72s] B: The microphone is supposed to be to your right.
+[26.33s - 27.00s] A: Right? Yeah.
+[27.00s - 29.16s] C: And then where's the other one?
+[29.68s - 29.91s] A: Oh, here.
+[55.03s - 56.55s] C: Okay, everybody ready?
+[56.67s - 57.72s] B: I think so.
+[57.78s - 66.79s] C: I think the first thing we do is introduce ourselves. Yeah, that's a good point. And whose name and what your function is. So maybe you start.
+[66.83s - 80.87s] D: Okay, yeah, my name is Fransana and I'm a user interface— my role is the main responsibility is user interface and And my role is to design a television remote control.
+[81.77s - 82.01s] C: Okay.
+[82.01s - 86.99s] B: And I'm a marketing person. I want to figure out how to sell them.
+[86.99s - 88.61s] C: And your name is?
+[88.61s - 89.58s] B: My name is Eileen.
+[89.58s - 90.54s] A: Okay.
+[90.54s - 107.30s] E: I'm Janavi. My role is industrial designer, and my responsibilities are to deal with technical functional designs and specifications of user interface and dealing with user interface design.
+[107.30s - 108.38s] B: Very good.
+[108.72s - 118.04s] C: And as you already know, I'm Betsy. I'm the project manager for today. So why don't we look at the presentation to see what we really are supposed to do?
+[118.04s - 121.64s] A: Okay.
+[121.64s - 145.13s] C: Opening, acquaintance, tool training. Well, the tools, I think we already I guess the tool is really our computer, as far as I can see. We get— each of us will get instructions and we'll take it from there. Project plan, that falls under the same heading pretty much. I don't think we have any great discussion at this point.
+[145.13s - 148.99s] A: No.
+[148.99s - 166.98s] C: Here is what this thing should be, this thing we are going to design. The new remote control should be original, trendy, and of course user-friendly. So maybe I'll make some notes of that.
+[194.02s - 194.15s] A: Okay.
+[194.15s - 195.25s] C: Okay?
+[195.25s - 195.87s] D: Mm-hmm.
+[195.87s - 196.91s] B: All right.
+[197.57s - 221.97s] C: Here is what the functional design is supposed to achieve. That is, it's going to be individual work, and then at the meeting we'll discuss what we have come up with. The same goes for the conceptual design. There will be individual work and then discussion afterwards. Detailed design, same thing basically.
+[221.97s - 250.14s] B: 3 different types of design that we're going to be concerned with. Maybe we should redesign it.
+[250.14s - 252.56s] A: Yes.
+[252.56s - 254.76s] B: After we finish the remote control, we'll get to that.
+[254.76s - 257.81s] A: Okay. All right.
+[260.09s - 275.64s] C: Then tool training, try out the whiteboard, person control their favorite animal. Does anybody want to go and see how the whiteboard works so that in case we have to in the next meeting present something on the whiteboard? You want to go, Eileen?
+[275.64s - 277.37s] B: Okay, I'll see what I can do.
+[277.37s - 280.03s] C: Whether you— without hanging yourself.
+[280.03s - 283.63s] B: See if I remember how to draw a kitty cat or a rabbit or something.
+[288.15s - 310.11s] C: And remember, you have to press so it works. That's a fat cat.
+[311.25s - 312.51s] B: I have a very fat cat.
+[315.83s - 318.26s] C: And it likes to sit like that.
+[318.26s - 319.92s] A: Okay.
+[320.67s - 327.42s] C: And you're Francine, right? Yes, I'm Francine. Would you like just to see how it feels so that you have a little idea?
+[327.42s - 330.18s] B: Am I supposed to wipe off the—
+[330.18s - 335.54s] C: No, no, no, that's okay. I don't know, get to that later.
+[339.89s - 349.27s] A: It's not like we're in the grass snake.
+[349.27s - 362.49s] B: I hope the kitty cat is hungry because I don't like snakes.
+[367.34s - 385.98s] C: It's a project finance, which of course we all have to think about when we design this thing. Selling price is supposed to be €25. Profit aim for the company is €50 million. The market range unlimited, meaning international.
+[385.98s - 386.83s] B: Okay.
+[386.83s - 392.45s] C: And production cost should not exceed Hopefully it should be less than €1,250.
+[392.45s - 398.56s] B: Okay, that should keep everybody on their toes and challenged.
+[398.56s - 401.78s] A: Mm-hmm.
+[403.89s - 460.61s] C: So these are all things, of course, to remember with the budget and when you design, materials, cost, etc. Now, the discussion, I guess, is, does any one of you have experience with remote control? Yeah, of course. We use them, right, every day. And now, having used the remote control for years, does anybody already have like an idea Like things you didn't like with it, things you would like to change, things you would like to improve with this thing. Any first ideas? Would you like it to be smaller, bigger, have more buttons on it, or maybe clearly better marked buttons, you know, things like that?
+[460.61s - 465.08s] D: Yes, I feel that all the remotes should be very compact.
+[465.08s - 466.01s] C: Small, right?
+[466.01s - 486.66s] D: Those which we get here nowadays, It's very long and it should have multi-purpose. Like the remote control which we use for TV, it should be used for some other purpose also, like controlling the temperature inside the house or for air conditioners or for heating system.
+[486.66s - 495.17s] C: So it should be a multifunctional gadget that would control all your household machines, basically.
+[495.17s - 495.68s] D: Yes, exactly.
+[497.12s - 502.50s] B: At €12.50 per—
+[502.50s - 503.86s] C: Well?
+[503.86s - 513.14s] B: Well, who knows? If we get a really good designer, maybe we can do that. We certainly can try to— I agree with her that to market something successfully, it should do some more things.
+[513.14s - 521.12s] C: It should be something new. It should do something different than just what we have. Now, of course, the other thing to think there is maybe the design.
+[521.12s - 524.50s] D: Yeah, design should be— yeah, it should be different. All the— almost all the—
+[524.50s - 538.75s] C: Like trendy, you know, like earlier we saw maybe it should be something trendy, you know. Yes, maybe different colors or materials. Or some shapes also. Or, you know, so yeah, shapes, right? You know, like kidney-shaped feels better in your hand or something, you know.
+[538.75s - 539.86s] B: Okay, friendly shape.
+[539.86s - 540.21s] C: Yeah.
+[540.21s - 551.18s] B: That would help. I think another thing that would help is if it beeps when you clap, because I think one of the big things that happens is people lose them. They can't find it.
+[551.18s - 573.66s] C: That is true. they put the newspaper or they put it behind a plant or, you know, whatever, and suddenly the phone rings and they want to turn the TV off and say, where the hell is my remote control? Yeah. Well, or if it's really in a dark spot that it gives out a sound or a signal or something.
+[573.66s - 576.69s] B: So it should either beep or a light should blink.
+[576.69s - 581.28s] C: If lost, signal. Throw signal, you know.
+[581.28s - 585.32s] E: Yeah, maybe it should have a light so that we can, we can just recognize where it is.
+[585.32s - 592.26s] C: Exactly, I mean, just, that's why I'm saying, I'm just saying throw signal, meaning just whether it's a beep or whether a light or anything like that.
+[592.26s - 605.60s] B: And you think a good clue for that is that it would respond to a clap or respond to your voice or it would respond, what should you have to do to make it beep or blink?
+[605.84s - 625.32s] C: Okay, my idea is maybe that the minute it's really hidden, in other words, if it's like in a dark spot, meaning, you know, like a newspaper is on top, a sweater is on top, or it's behind a plant, at that moment it's like, what do you call it, the light sensors, you know.
+[625.32s - 625.83s] B: Okay.
+[625.83s - 627.50s] C: In that moment it has a sensor.
+[627.50s - 628.13s] A: Yes.
+[628.13s - 637.09s] C: It gets a certain darkness, it has a sensor, and it gives out a signal. Whether that be a light signal or a beep, I mean, that we can discuss that later, you know.
+[637.09s - 638.90s] D: Yeah, and—
+[638.90s - 641.20s] B: So the light sensor would activate the signal.
+[641.20s - 657.24s] C: That's right. You know, it would be, right, you have to have some kind of sensor. And I think voice or clapping, that's not specific enough. I know there are the lamps and stuff, you know, you can clap on and off, but I think they only work to a certain degree.
+[658.09s - 661.76s] B: But it could be someplace really obvious and you still wouldn't be able to find it.
+[661.76s - 665.76s] C: What, wait, in your practice?
+[665.76s - 667.75s] B: Well, because you're silly, because people are silly.
+[667.75s - 670.43s] C: Oh yeah, well, but then those can be— we can't help everybody.
+[670.43s - 679.58s] B: Well, if it were like on top of your bookcase and you usually kept it on the coffee table, you know, maybe we have to move along.
+[679.58s - 702.78s] C: Yeah, we have to move along, but I think we have some good points to start with. Okay, the next meeting will be in 30 minutes. I think you all— did you get notices on your computer for this? Okay, so you got the notice. The working design, I guess that's the function ID. Who is this? The industrial designer?
+[702.78s - 703.39s] A: Yeah.
+[703.39s - 705.59s] E: That's you? Yeah, it's functional.
+[705.78s - 709.65s] C: Yeah, exactly. Okay, so we're looking for working design.
+[710.25s - 715.58s] E: Working design, yeah. It's mainly technical functional design.
+[715.58s - 744.35s] C: And then the technical function— you're the technical function, so you're the working design. So you have a working design and then a functional design, and the marketing manager is coming up with some user requirement specification like friendliness and what we just discussed in general. That would be your idea. And of course price, that the price is a good price. I mean, the price is given, but that was—
+[744.35s - 749.70s] B: We have to justify that price by having sufficient features to make it sell at that price.
+[749.70s - 757.34s] C: That's right. And you know, you will get specific instructions for that. I think that's the end of the show.
+[758.03s - 758.19s] A: Yeah.
+[764.79s - 782.13s] C: So we have, well, we have time, 2, 3 minutes. Any questions at this point or suggestions? I think basically you will get instructions to work with.
+[782.13s - 782.29s] B: Yes.
+[782.29s - 786.22s] C: And if you have any questions, I guess you can ask them.
+[787.15s - 792.40s] B: Okay, I think I have enough to think about till our next meeting. How about you people?
+[792.40s - 793.08s] C: Yes, I have.
+[793.08s - 794.70s] A: Yeah.
+[794.70s - 803.54s] C: Okay. All right, well, then we see you in about 30 minutes and see what we can come up with.
+[803.54s - 804.51s] B: Okay, very good.
+[804.51s - 805.84s] A: Okay. Yes.
+[814.60s - 815.62s] C: So now we have to walk out.
+[815.62s - 820.51s] D: Can we take this?
+[820.51s - 822.24s] E: No, I think we have to keep it here.

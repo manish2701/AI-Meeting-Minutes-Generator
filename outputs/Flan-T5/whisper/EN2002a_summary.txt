@@ -1,0 +1,24 @@
+MEETING MINUTES
+============================================================
+Source: EN2002a.txt
+
+KEY POINTS
+--------------------
+• Actually, yeah, like another common thing, like we have it sort of set up that if you double-click and it goes to a default thing on the menu. I mean, that's kind of a typical kind of action. Double-click? If you double-click on a particular topic or something, then it goes to sort of like a default view. So it'll be like all the cases of that topic, either whatever we decide the default to be, whether it's in all meetings or just in one meeting and just show up the particular instances of that topic in the meeting. Like, and just think to have the default there. So if somebody knows exactly what they want to do and we know that that's the most common thing that's going to happen. So the double click won't do that in such a way from the trouble of right clicking and choosing the item on the menu.
+• Next week, sometimes. I actually haven't done anything this week, because this week's been mad. Yes, exactly. I mean, this week's only two days old. Well, whatever it was last week. The week as is, rather than the proper week, you know what I mean? Well you're an SPNLP and an SP2, right? Yeah, that's right. And then we had to do an IRP whatever it was last week as well. Which is only a page one, but it's quite difficult to draw a page. Yeah. That was complete for the weekend. It was, but it was. I had to sit there and think about it for a bit.
+• Oh yeah actually in the moment it's got a load of rubbish because the browser that I used from you know that they gave us had a lot of extra stuff in and I haven't dared to.
+• Just like seeing the code and just sort of how, just see the basics of what you've done. Like just get a quick look over and just. Can take us for a tutorial. Yeah. Or like, you know, the class paths, all that sort of thing. Like, just say, okay, well, here's, you know, everything's basic. Yeah, you can do that. And then just, you know, just jump right in.
+• I don't know what happens when you double click actually. But that would be a bit annoying if you have left click for one thing and double click.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• Speaker A — give me a closer it's not the end of the world
+• Speaker C — check what it does on the double click at the moment because I think it might do something but I don't I really don't see anything obvious that we can think of something yeah another thing single audio files do we want
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• No explicit dates or deadlines identified.

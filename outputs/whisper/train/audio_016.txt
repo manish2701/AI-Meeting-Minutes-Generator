@@ -1,8 +1,0 @@
-Audio File: audio_016.wav
-Detected Language: en
-Language Probability: 0.9995
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 4.76s] That means sort of we have multiple levels of representation which we probably...

@@ -1,0 +1,40 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_10.txt
+
+KEY POINTS
+--------------------
+• I found three medium-priority issues. The first affects search filters, the second affects notification deep links, and the third affects the order-history pagination on smaller screens. The most important issue is the issue of.
+• The first is overly verbose error messages in one API response. The second is that an old analytics key is still present in a legacy configuration file. The third is that the API is not working properly because of.
+• Customer support has prepared a launch FAQ. The main topics are login problems, password reset, notification settings, payments, and order tracking. The FAQ is available on the company's website and on the Apple App Store.
+• The Android build is complete. Login, registration, profile management, product search, notifications, and order history are all working.
+• Correct. Please update the launch task board today and report any remaining blockers at tomorrow's stand-up.
+
+DECISIONS
+--------------------
+• submit both mobile builds after QA sign-off
+• keep the previous stable builds available for rollback
+• monitor authentication, payment, API, and notification errors during launch
+• conduct the final release-readiness review Monday at 2 PM
+
+ACTION ITEMS
+--------------------
+• Android Developer — verify the notification deep link on Android by tomorrow afternoon
+• QA Lead — retest the search and notification fixes after the new build is uploaded
+• Android Developer — include the layout change in the next build
+• UI Designer — test both small phones and tablets today
+• Backend Developer — benchmark the query and deploy the optimized version to staging by Thursday
+• Backend Developer — remove the verbose error details and replace the legacy configuration
+• Security Engineer — verify both fixes by Friday morning
+• Backend Developer — verify that it is not committed to the repository
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• tomorrow afternoon — Android Developer: verify the notification deep link on Android by .
+• today — UI Designer: test both small phones and tablets .
+• Friday morning — Security Engineer: verify both fixes by .
+• Friday afternoon — Analytics Lead: finish the dashboard by .
+• Thursday evening — UI Designer: prepare them by .
+• next Tuesday — Product Manager: The current target is .
+• Friday afternoon — Product Manager: submit them by if QA signs off.
+• Friday morning — QA Lead: complete the final regression cycle by .

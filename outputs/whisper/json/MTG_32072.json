@@ -1,0 +1,260 @@
+{
+  "audio_file": "MTG_32072.wav",
+  "dataset_split": "train",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 3,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_00": "Speaker A",
+    "SPEAKER_02": "Speaker B",
+    "SPEAKER_01": "Speaker C"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 7.41,
+      "end": 57.31,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Hi everybody. Thanks for coming. Thanks for coming. Listen, I want to discuss a new idea for an extension of our dog grooming business. I've been hearing a lot about these high-tech companies that allow employees to bring their dogs to work with them. And it dawned on me all of a sudden that we could extend our service to actually coming to the workplace, setting up our van outside, and while somebody's working they can have their dog or their cat groomed. And that would be... So I just want to know if this is an idea that's over the top, or if it sounds good."
+    },
+    {
+      "start": 57.63,
+      "end": 68.29,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "No, off the top of my head, I think it sounds amazing. But we have to set, is it a service that will be paid by the company, or is that a service that will be paid by individuals?"
+    },
+    {
+      "start": 68.29,
+      "end": 77.27,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay, I think of it as a benefit offered by the company. But I may be over-optimistic, I'm not sure."
+    },
+    {
+      "start": 77.27,
+      "end": 80.61,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So our clients would be the company."
+    },
+    {
+      "start": 80.95,
+      "end": 103.23,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Our client would be the company. The marketing would be to the company. Okay, right, right. Or if the company doesn't buy that idea, okay, then we can say, well, okay, so you're not going to offer it as an employee benefit, but we could offer the service to your employees for a fee. Maybe that would work."
+    },
+    {
+      "start": 103.23,
+      "end": 112.17,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "And would that be during working hours or taking time? during working hours that's a key time they have to take their dog to the car right just"
+    },
+    {
+      "start": 112.17,
+      "end": 117.53,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "they keep that off work yeah it does take a few minutes off of work that's true i think like if"
+    },
+    {
+      "start": 117.53,
+      "end": 133.37,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "we have a relationship that we build with the clientele then um you know our assistants can go up and meet the pet bring them down no one needs to leave work at all it's all part of our service"
+    },
+    {
+      "start": 133.37,
+      "end": 136.47,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "and we're going to take the pigs down and bring them back."
+    },
+    {
+      "start": 136.71,
+      "end": 138.21,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "That's a good idea. Yeah, that's a good idea."
+    },
+    {
+      "start": 138.21,
+      "end": 155.71,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Because companies, it's like... Yeah, because there's a dog walking service as well. And some companies that have pets, there's a dog walking service. So they actually employ, I've seen this, they employ someone who walks the dogs, makes sure they have water, feeds them during the day."
+    },
+    {
+      "start": 155.71,
+      "end": 176.99,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Now, could we do this as a combined service? Yeah, dog walking, dog grooming, and then let's say the dog walking service was, you know, the company paid for it. And then if the worker wants, they can also have a grooming. Or can be subsidized. In that way, I have one more question."
+    },
+    {
+      "start": 177.55,
+      "end": 190.39,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Would you limit the company just to work for companies in working places? or would you use the same, your company, this new company also to give services at homes?"
+    },
+    {
+      "start": 190.59,
+      "end": 212.51,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "To private homes. Listen, both, ideally. It's not the same kind of marketing. It's not the same kind of marketing, although it's easily related. We could use the same... The fact that you mean... It's just area... The same groomers and dog workers could do. You do wonderful at a time."
+    },
+    {
+      "start": 212.69,
+      "end": 216.75,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "one price. If you do ten dollars at a time, it's another price for companies."
+    },
+    {
+      "start": 216.75,
+      "end": 231.95,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Well, no, absolutely, absolutely. But what I was interested in was offering it first as a service, as a perk, okay, to high-tech companies who are trying to attract, you know, high-quality workers with their perks, frankly."
+    },
+    {
+      "start": 231.95,
+      "end": 239.65,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "May I ask, where did you come from with that idea? What triggered this idea after this?"
+    },
+    {
+      "start": 239.65,
+      "end": 246.37,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I was thinking about the, I was literally thinking about the perks that high-tech companies offer."
+    },
+    {
+      "start": 246.37,
+      "end": 247.09,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So it's more, it's more."
+    },
+    {
+      "start": 247.09,
+      "end": 269.27,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay. And then somebody mentioned that, oh yeah, they're allowed to bring their dog to work. And so I sort of put two and two together. And that's what you need. And I said, listen, being allowed to bring your dog to work is a perk for many people. Okay. So you would need. But, I figured this, okay, this is even more of a perk. Okay. I mean, it's thinking nuts around the office. It makes a lot of sense. Yeah."
+    },
+    {
+      "start": 269.27,
+      "end": 285.81,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "But that would make, creating the company, that would mean the trucks, the people to drive the trucks, the people to wash the dogs, the people to walk the dogs, and that's, and that."
+    },
+    {
+      "start": 286.27,
+      "end": 290.23,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Well, the truck, the van, we actually already have, okay?"
+    },
+    {
+      "start": 290.23,
+      "end": 294.23,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "So the driver and the assistants are the same people."
+    },
+    {
+      "start": 294.23,
+      "end": 304.91,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Yeah, you might need the parking. We'll probably need more. Parking will be provided by the company. Exactly. Exactly. Right. They'll tell us where to park."
+    },
+    {
+      "start": 304.91,
+      "end": 317.95,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So I would like to know, yes, I would like to know to start thinking of it seriously, because the idea is a good idea. You like it? Yeah. I like the idea. But I need numbers."
+    },
+    {
+      "start": 317.95,
+      "end": 328.13,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "We just need areas, feasibility. Maybe we do two companies in one. and what is the capacity of us per day to actually run this, to see the feasibility, so can you..."
+    },
+    {
+      "start": 328.13,
+      "end": 333.63,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I think we should do a feasibility study with, let's say, one company, maybe two companies, to start."
+    },
+    {
+      "start": 333.63,
+      "end": 340.13,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So Beth, would you be in charge of doing the research and the research and the numbers?"
+    },
+    {
+      "start": 340.13,
+      "end": 356.89,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Yeah, I would love to do that. I just need to understand from Linda because she's more involved in the actual dog care part of it. How long does it take per dog to groom, and the cost of the products that you use?"
+    },
+    {
+      "start": 356.89,
+      "end": 363.29,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Our groomers usually say that they need almost an hour. Hour, that's okay."
+    }
+  ]
+}

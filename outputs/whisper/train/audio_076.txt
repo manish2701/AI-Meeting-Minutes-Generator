@@ -1,8 +1,0 @@
-Audio File: audio_076.wav
-Detected Language: en
-Language Probability: 0.9984
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.12s] For every single word.

@@ -1,8 +1,0 @@
-Audio File: audio_036.wav
-Detected Language: en
-Language Probability: 0.9646
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.44s] That's what I'm guessing, that's, you know...

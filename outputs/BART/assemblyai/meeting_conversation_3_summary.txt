@@ -1,0 +1,38 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_3.txt
+
+KEY POINTS
+--------------------
+• We are reviewing the migration from the on-premise Postgres cluster to the managed cloud database. The migration plan has six areas: schema conversion, data transfer, application compatibility, security, performance, and rollback.
+• I ran a small migration test with 50 gigabytes of data. The transfer completed in 47 minutes, but the final verification took another 18 minutes. The final verification of the data was completed in just over 20 minutes.
+• I completed the schema assessment. We have 146 tables, 23 stored procedures, 11 scheduled jobs, and approximately 680 gigabytes of data. I completed the Schema Assessment. I have completed theschema assessment. I.
+• The managed database will be placed in a private subnet. Application servers will connect through the internal network, and public access will remain disabled. The project is expected to be completed by the end of the year or early.
+• I found one compatibility issue. The application expects the database timezone to be UTC, but the managed instance defaults to the configured region timezone. I found one issue with the application. It expects theDatabase time.
+
+DECISIONS
+--------------------
+• configure UTC at both levels
+• use a snapshot-based approach for the largest table
+• keep the old database read-only during the migration window
+• perform a full rollback rehearsal before production
+
+ACTION ITEMS
+--------------------
+• Security Engineer — review the inbound and outbound rules by Tuesday
+• Database Administrator — prepare the test report by Wednesday
+• Cloud Engineer — apply the setting in the staging environment today
+• Backend Developer — provide a list of the affected reports
+• QA Engineer — test those reports after the staging configuration is changed
+• Database Administrator — complete the large-table rehearsal by Thursday evening
+• Security Engineer — verify the key policy and rotation settings by Wednesday
+• Security Engineer — add them to the migration security checklist
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• tomorrow — Database Administrator: can run a 200-gigabyte test using four parallel workers .
+• Thursday evening — Database Administrator: complete the large-table rehearsal by .
+• Friday afternoon — Cloud Engineer: prepare and test the rollback procedure by .
+• Friday evening — QA Engineer: complete it by .
+• Friday at 8 PM — Project Lead: The migration rehearsal will be .
+• today — Project Lead: board and report any migration blockers in tomorrow morning's stand-up.

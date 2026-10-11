@@ -1,0 +1,41 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_4.txt
+
+KEY POINTS
+--------------------
+• The room renovation is approximately 70 percent complete. Electrical work is finished, network cabling has been installed, and the new workstations have been delivered. The room is expected to be fully operational by the end of.
+• The first workshop will cover introductory machine learning. I have prepared a draft agenda with data preprocessing, regression, classification, and model evaluation. The workshop will be held at the University of California, San Diego.
+• I configured the network switches yesterday. Each workstation has access to the internal development VLAN, but internet access is still restricted. I've set up an internal VLAN for each workstation, but it's.
+• There is one more issue. The lab's internal Git service currently has a 100 MB file limit.
+• Thirty-two workstations arrived. Two have damaged monitors and are being replaced by the supplier.
+
+DECISIONS
+--------------------
+• standardize the lab images so every workstation has the same environment
+• schedule the first workshop for next Saturday at 10 AM
+• use standard student accounts
+• require booking for GPU access
+• limit students to one active reservation
+• use daily incremental and weekly full backups
+• require safety training before access
+
+ACTION ITEMS
+--------------------
+• IT Administrator — finish the firewall rules and test the VLAN isolation by Wednesday
+• IT Administrator — complete the GPU software setup by Thursday
+• IT Administrator — create a base image and test it on three machines first
+• Faculty Member — prepare the required Python packages and environment file by Tuesday
+• IT Administrator — configure the account policy before the lab opens
+• Student Coordinator — prepare the registration form and student instructions by Thursday
+• Faculty Member — finalize the workshop slides by Friday evening
+• IT Administrator — configure the access rule and test it with sample accounts by Friday
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Today — Department Head: AI lab project. We need to review the equipment list
+• next Saturday at 10 AM — Department Head: schedule the first workshop for .
+• Friday evening — Faculty Member: finalize the workshop slides by .
+• today — Lab Coordinator: submit the storage request .
+• next Monday — IT Administrator: configure the backup schedule and test a restore by .
+• Friday afternoon — Department Head: Send all updated checklists to me by .

@@ -1,0 +1,23 @@
+MEETING MINUTES
+============================================================
+Source: IS1009a.txt
+
+KEY POINTS
+--------------------
+• You have a working design and then a functional design, and the marketing manager is coming up with some user requirement specification like friendliness and what we just discussed in general. That would be your idea.
+• This is what the functional design is supposed to achieve.
+• I don't think we have any great discussion at this point.
+• That is true. they put the newspaper or they put it behind a plant or, you know, whatever, and suddenly the phone rings and they want to turn the TV off and say, where the hell is my remote control? Yeah. Well, or if it's really in a dark spot that it gives out a sound or a signal or something.
+• I think another thing that would help is if it beeps when you clap.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• No explicit action commitments identified.
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• No explicit dates or deadlines identified.

@@ -1,8 +1,0 @@
-Audio File: audio_005.wav
-Detected Language: en
-Language Probability: 0.9997
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 8.00s] But I'm still confused because I thought that's just what Jonathan said that we can't load a massive document of that size.

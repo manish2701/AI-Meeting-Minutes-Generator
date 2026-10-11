@@ -1,0 +1,38 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_9.txt
+
+KEY POINTS
+--------------------
+• Personnel is 2.1 million, cloud infrastructure is 620,000, software licenses are 310,000 and testing services are 280,000. Contingency is 490,000 with a total of 2.4.
+• The current storage estimate assumes 8 TB. At current growth, we could reach 11 TB by the end of the quarter. The current growth rate is expected to continue for the rest of the year and beyond.
+• The estimate assumes 24-hour operation of the staging environment and a 30 percent increase in production traffic.
+• Keep the scanner in the initial budget and show the cloud platform as an optional second-quarter item.
+• The analytics team needs two. Product and engineering currently use open-source tools for most analysis.
+
+DECISIONS
+--------------------
+• schedule monthly budget reviews on the first Monday of each month
+• reduce enterprise analytics licenses to two
+• include one contract tester
+• keep the vulnerability scanner in the initial budget
+• show the cloud security platform as a second-quarter option
+
+ACTION ITEMS
+--------------------
+• Cloud Architect — prepare an optimized cloud estimate by Wednesday
+• Finance Analyst — update the budget model today
+• Finance Analyst — create both scenarios
+• QA Manager — prepare the staffing plan by Thursday
+• Cloud Architect — prepare it by Thursday afternoon
+• Data Analyst — prepare the comparison by Friday
+• Cloud Architect — update it by tomorrow morning
+• Engineering Manager — prepare a short productivity comparison by Friday
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• today — Finance Analyst: update the budget model .
+• Thursday afternoon — Cloud Architect: prepare it by .
+• tomorrow morning — Cloud Architect: update it by .
+• next month — Engineering Manager: The first review should be .
+• Friday afternoon — Finance Analyst: circulate the revised budget by .

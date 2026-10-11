@@ -1,8 +1,0 @@
-Audio File: audio_019.wav
-Detected Language: en
-Language Probability: 0.9957
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.40s] and just have different fine-grainedness levels, sort of.

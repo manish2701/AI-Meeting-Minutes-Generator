@@ -1,8 +1,0 @@
-Audio File: audio_007.wav
-Detected Language: en
-Language Probability: 0.9975
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.92s] Yeah, I need frequency as well.

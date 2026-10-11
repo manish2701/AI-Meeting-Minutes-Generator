@@ -1,9 +1,0 @@
-Audio File: audio_003.wav
-Detected Language: en
-Language Probability: 0.9936
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.52s] Yeah, it'll play them in some order in which they were sad,
-[3.74s - 5.50s] because otherwise it's going to be more entertaining.

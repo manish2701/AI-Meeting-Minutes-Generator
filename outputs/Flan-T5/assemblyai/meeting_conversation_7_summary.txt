@@ -1,0 +1,37 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_7.txt
+
+KEY POINTS
+--------------------
+• The attention model reached 29.1 dB PSNR and 0.88 SSIM, but training time increased from six hours to nearly eleven hours per run. The training time was increased from 6 hours to 11 hours per.
+• I completed the dataset preparation. We now have 18,500 image patches after removing corrupted files and cloud masks that did not meet the quality threshold. We have also removed corrupted files from the cloud masks and cloud images.
+• The baseline U-Net achieved an average reconstruction PSNR of 27.8 dB and SSIM of 0.84.
+• The current A100 setup costs approximately 420 rupees per hour, and each run takes about ten hours.
+• The current experiment stored intermediate checkpoints for every five hundred steps. That is consuming almost 90 GB.
+
+DECISIONS
+--------------------
+• schedule the experiment review for next Monday at 11 AM
+• use geographic splits
+• add the edge-based metric
+• retain only the best and latest checkpoints
+• compare the three model architectures using the same evaluation protocol
+
+ACTION ITEMS
+--------------------
+• ML Engineer — also test mixed precision to reduce training time
+• ML Engineer — implement the metric and run it on the existing test set by Friday
+• Remote Sensing Specialist — prepare the subset by Wednesday
+• Remote Sensing Specialist — prepare a sensor-wise distribution report by Tuesday
+• ML Engineer — change checkpoint retention and clean the old experiment storage after confirming the required artifacts
+• Cloud Engineer — verify the storage reduction after cleanup
+• ML Engineer — prepare the artifact analysis by Thursday
+• ML Engineer — prepare the experiment configuration file
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Today — Research Lead: the satellite-image reconstruction experiment. We need to review the dataset
+• Friday morning — Remote Sensing Specialist: prepare twelve representative examples by .
+• next Monday at 11 AM — Research Lead: schedule the experiment review for .
+• tomorrow — Research Lead: before Monday's review and report any blockers in 's stand-up.

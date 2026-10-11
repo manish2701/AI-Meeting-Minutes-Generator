@@ -1,8 +1,0 @@
-Audio File: audio_001.wav
-Detected Language: es
-Language Probability: 0.2203
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.00s] Gracias.

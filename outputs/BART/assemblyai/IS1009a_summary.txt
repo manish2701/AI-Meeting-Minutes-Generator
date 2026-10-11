@@ -1,0 +1,23 @@
+MEETING MINUTES
+============================================================
+Source: IS1009a.txt
+
+KEY POINTS
+--------------------
+• And then the technical function— you're the technicalfunction, so you'reThe working design. So you have a working design and then a functional design, and the marketing manager is coming up with some user requirement specification.
+• Here is what the functional design is supposed to achieve. That is, it's going to be individual work, and then at the meeting we'll discuss what we have come up with. The same goes for the conceptual.
+• Each of us will get instructions and we'll take it from there. I don't think we have any great discussion at this point. I guess the tool is really our computer, as far as I can see.
+• That is true. They put the newspaper or they put it behind a plant or, you know, whatever, and suddenly the phone rings and they want to turn the TV off and say, where the hell is my.
+• That would help. I think another thing that would help is if it beeps when you clap, because I think one of the big things that happens is people lose them. They can't find it.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• No explicit action commitments identified.
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• No explicit dates or deadlines identified.

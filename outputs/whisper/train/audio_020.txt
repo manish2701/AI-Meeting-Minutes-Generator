@@ -1,8 +1,0 @@
-Audio File: audio_020.wav
-Detected Language: en
-Language Probability: 0.9996
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.00s] Are we still going to dump it into a database?

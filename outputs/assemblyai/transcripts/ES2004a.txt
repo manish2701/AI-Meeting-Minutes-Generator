@@ -1,0 +1,97 @@
+[6.90s - 23.73s] A: Are we? No, we're not allowed to dim lights. I think this goes around the back side. No, unfortunately, because of the cameras, they have to. Am I supposed to be standing up there?
+[23.83s - 25.09s] B: Um, you don't have to.
+[25.53s - 26.42s] A: Both of these cooked on.
+[27.89s - 29.66s] C: Can you just change the slide?
+[30.00s - 31.50s] A: Yeah, good.
+[31.96s - 34.13s] C: Sorry, can I just—
+[34.30s - 35.63s] B: yes, do you want to do it away?
+[40.03s - 44.37s] C: Yeah, let's do it on the slide.
+[77.17s - 80.63s] A: Okay, bring them here.
+[80.63s - 80.87s] D: Okay.
+[82.00s - 274.25s] A: Hello everybody. I'm Sarah, the project manager, and this is our first meeting, surprisingly enough. Okay, this is our agenda. We will do some stuff, get to know each other a bit better, feel more comfortable with each other. And then we'll go do tool training, talk about the project plan, discuss our own ideas and everything. And we've got 25 minutes to do that, as far as I can understand. Now, we're developing a remote control, which you probably already know. We want it to be original, something that people haven't thought of, that's not out in the shops. Trendy, appealing to a wide market, but, you know, not a hunk of metal. And user-friendly— grannies to kids, maybe even pooches should be able to use it. Okay, first is the functional design. This is where we all go off and do our individual work. What needs need to be fulfilled by the product? What effect the product has to have and how it's actually going to do that. Conceptual design, what we're thinking, how it's going to go, and then the detailed design, how we're actually going to put it into practice and make it work. Okay, right, we're going to practice with the pens and draw our favourite animal on the whiteboard. I'll go first. And sum up the characteristics of that animal. So, okay, space for everyone else. Okay, and I'm going to ask you to guess. I'm going to tell you that's supposed to be a tiger, and I see. I see them as majestic and independent and proud. Now, who'd like to go next?
+[276.00s - 279.63s] B: Okay. Cat.
+[289.56s - 291.16s] C: Thank you.
+[293.51s - 296.04s] D: Maybe you can guess what I'm trying to make.
+[306.50s - 306.85s] B: A kind of dog.
+[313.42s - 349.29s] D: Yeah, it's actually sitting, so it's sitting, it's not standing. Okay, I see it as one thing, it's very supportive. It's your best friend in your— you can talk to a dog, it can be your best friend. It doesn't discriminate between you based on what you are. Second, it's Loyal, and third thing, it's got intuition. Means dogs can sometimes make out between a thief and a person. So basically, these are the three unique features I think belong to a dog.
+[350.14s - 351.01s] A: Okay, thank you.
+[356.45s - 361.59s] B: Please leave me a space for two members. Just standing on a chair.
+[361.59s - 366.84s] C: Well, since you guys have chosen me, I might as well stay.
+[366.84s - 367.34s] A: Okay.
+[367.34s - 373.73s] C: And also my drawing skill isn't that great.
+[373.73s - 376.83s] A: Well, as you can see, the quality of the work today is, um—
+[376.83s - 378.12s] B: I think it's outstandingly good.
+[378.12s - 383.74s] C: Okay, now I'm gonna have to change what it was originally gonna be because that looks like a beak.
+[394.02s - 394.29s] B: Crocodile?
+[394.29s - 399.01s] C: Yeah, it can be a crocodile. It can be a crocodile. Well, it was—
+[399.11s - 399.82s] D: it was—
+[399.85s - 405.78s] C: firstly, it was an attempt at a T-Rex, and then it sort of changed into a pelican, but it can be a crocodile.
+[419.68s - 420.57s] A: That's lovely.
+[420.57s - 440.25s] C: Yeah, and I'll have to think on the spot of things that it is. Scary, strong. Yeah, that's fine.
+[440.61s - 441.77s] A: I think it's okay.
+[443.21s - 446.19s] B: I'm very impressed with your artistic skills, Michael. Dreadful.
+[446.80s - 448.87s] A: It's all coming apart.
+[449.19s - 458.88s] B: I'll just put it on. I'll hold it on. Oh dear.
+[461.16s - 463.86s] A: Technical help.
+[464.69s - 498.73s] B: Can't see that today. Two-handed version. Again, this is off the top of my head. I was going to do a bit of that too. It doesn't look quite like what I want it to be. It's not a vampire bat, honestly. Somewhere there's a body behind. That's my dreadful—
+[498.73s - 503.58s] A: that's the worst yet. It's meant to be an eagle, right? Not a seagull.
+[505.38s - 514.06s] B: Could have been a seagull. I had a thought of a seagull. An eagle. Um, again, I'm thinking on my feet. Goodness, since they're all so indeterminate. Independent. Put that one down again.
+[519.81s - 520.54s] C: Um, they're good at golf.
+[520.58s - 524.22s] B: Independent. Did you say they're good at golf?
+[524.22s - 524.64s] C: Yeah.
+[524.89s - 525.38s] B: Are they?
+[525.67s - 526.02s] D: Eagle.
+[526.39s - 526.83s] C: Eagle.
+[527.06s - 554.89s] B: Oh right, I'm not good at golf. I'll say they're quite free-spirited, flying around everywhere, doing their own thing. And birds of prey, aren't they? How do you— intrepid. Intrepid. There we go. That's not enough.
+[562.96s - 575.21s] A: Okay, that was fine. Right. Finance-wise, we've got selling price at €25, which I don't actually know what that is in pounds at all. Any ideas?
+[575.28s - 580.76s] D: Something like €1.40 would make a lot of bond or something.
+[581.10s - 582.80s] C: Yeah, yeah, something like that.
+[583.74s - 585.64s] A: So yeah, about £15, £17.
+[585.71s - 587.97s] C: Okay, that's expensive.
+[588.45s - 590.96s] B: Should we be making notes of this? We can just refer to this. I think so.
+[591.09s - 595.16s] A: I think so. I'd be able to pull it up, or I could put it in the shared folder.
+[595.16s - 606.31s] C: Having said that though, if you want to get one of those, the ones on the market at the moment, they're about £20 anyway. So yeah, we had to buy one.
+[606.31s - 613.48s] B: So I suppose later it depends if we want to undercut the price, or is it going to make our product look like a cheapy, cheapy option?
+[613.48s - 635.34s] A: Yeah, production costs at £12.50. So half of the selling price is taken up by building it. And profit aim is €50 million, which is a— In our first year? Yes. Yeah, I presume so.
+[635.34s - 650.79s] B: You've got market range international, and you did say earlier it's got to be accessible and usable by sort of all age groups. Just, we're not focusing on business market, any particular thing. It's everyone, user-friendly to everyone.
+[652.51s - 653.04s] C: Okay.
+[653.44s - 654.26s] B: Big target group.
+[654.49s - 690.73s] A: Yes, yes. I don't think we have to, I don't think it's a case of worrying about different languages and things like that, making that a key point. Just that it's going to be in the international market like Australia, America, things like Okay. What are your experiences with remote controls? I mean, I've got— we got— we had 3 videos, a TV, and a sort of amp thing all set up, so we got one of the universal remote controls.
+[690.73s - 691.67s] C: Yeah.
+[691.67s - 708.87s] A: And that you program each of your things into. but that kept losing the signals, so we'd have to reprogram it every now and again. I think it was quite cheapy as well. Yeah, so that might have had something to do with it, but that was quite good, the fact that you could use all the ones— didn't have 6 remote controls sitting in front of you.
+[708.87s - 711.00s] D: You want to integrate everything into one, like—
+[711.35s - 712.67s] C: yeah.
+[712.67s - 734.84s] B: My experience has only been being given the remote control with the object I buy, not doing any tampering with it and programming, using it to program TV TV videos and things. But basically on/off, volume up and down, channel 1, 2, that basic function. I don't think I could go any further with it than that. So it's got to be something usable by someone like me as well.
+[734.84s - 751.41s] A: Yeah, the main— that's the main stuff anyway. I mean, and you don't want to— I hate, I hate looking at a control and seeing a million tiny little buttons with tiny little Saying what they all do and just sitting there searching for the teletext button or something like that.
+[751.41s - 755.26s] B: Symbols that you don't necessarily understand, symbols you're meant to understand that you don't.
+[755.26s - 779.32s] A: When they're— when you've got the main things on the front of it and a section opens up or something to the other functions, when you can do sound or options, kind of recording, things like that inside it. Because it doesn't make— when you pick it up, it doesn't make it really complicated to look at. It's obvious what you're doing.
+[779.32s - 794.31s] B: Actually, that just raises a point. I wonder what our design people think. But you know, on a mobile phone, you can press a key and it gives you a menu. It's got a menu display. I wonder if incorporating that into the design of a remote control might be useful. So you've got a little LCD display.
+[794.31s - 803.31s] D: I was thinking on the same lines. Instead of having too many buttons and make it complicated for the user. Maybe have an LCD display or something like that, like a mobile.
+[803.31s - 804.61s] B: With menus.
+[804.61s - 810.91s] D: With menus. And if it's somewhat similar to what you have on mobile phone, people might find it easier to browse and navigate also.
+[810.91s - 823.15s] A: What about the older generation? What about granny and granddads? My granddad can answer his mobile phone, but he couldn't even dream of texting or something like that.
+[823.53s - 827.09s] B: Can he program his remote control, or is he basic with that too?
+[827.09s - 829.73s] A: I don't think they take things.
+[829.73s - 834.61s] C: My granddad's actually better than me at using teletext, so.
+[834.61s - 841.82s] B: So that's the problem regardless of any design modifications you come up with. That's going to be a problem anyway with the older generation perhaps.
+[842.63s - 844.73s] A: And that's another issue you tackle that.
+[844.73s - 861.88s] C: Well, it just needs to be— as long as it's sort of self-intuitive and you can work out What everything's doing. Because I mean, menus on sort of new phones now, they've sort of got all these pictures and stuff, which makes it fairly obvious what you're trying to do.
+[861.88s - 864.51s] B: I don't know.
+[864.59s - 885.04s] A: I don't know how— I don't like the, you know, the new phones that kind of got a Windows-based running system. I find it really confusing. I kept getting lost. I've not got a new one, but my friend got a new one, and I was trying to do things with it, and I just kept getting lost, but that's just me.
+[885.04s - 898.62s] C: Yeah, I don't know how, for €25 or €12.50, how much of an excellent screen you could get. You'd have to sort of keep it down to a black and white LCD thing anyway.
+[898.62s - 911.59s] B: Is it possible that for the older generation you could have like an extra button that you press for large print like you do in large print books. Okay, that's not an option. It displays less on the screen, but as long as they can read it, that's the main thing.
+[911.59s - 935.05s] A: Yeah. Or what about kind of a dual function in that you've got the basic buttons just for your play, volume, program things, and also, and then a menu to go into With obvious pictures, obvious symbols, and that's where you control recording and things like that.
+[935.05s - 946.84s] B: The other thing is, just tucking into mobile phone design features again, you could have a flip-top remote control so that when you flip over the top, your screen is— you can have a bigger screen in the flip-over.
+[946.84s - 949.68s] A: I think that's a cost thing.
+[950.02s - 956.56s] D: I don't know how much we're going to know about bit of space, instead of looking bulky, it might look small.
+[956.56s - 957.44s] A: Yes, that's important.
+[957.44s - 959.23s] D: But it might have its cost implications.
+[959.23s - 970.88s] B: And there's no reason we need to make it look as fashionable and stylish as a mobile phone. It can still be lightweight plastic, you know, something that's easily moulded and produced. Sorry, I'm treading on your territory, guys.
+[970.88s - 989.53s] A: No, no, no. Right, okay, we've got half an hour before the next meeting, so we're all going to go off and do our individual things. I think that's probably about it, and then we'll come back in a year again, and I get to do another fantastic PowerPoint presentation.
+[989.53s - 1014.57s] C: Just a quick thing about the— what you were saying about the— doesn't need to be fashionable. So I had a quick look at the company website, and it's like the— we put the fashion into electronics. So I think the whole design thing might be quite— I mean, you don't— you can still have plastic and it look quite good, but—
+[1014.57s - 1022.03s] B: Yeah, I mean, it doesn't have to be— that was my main point. We don't have to use metal. I don't know if using plastic does make it cheaper. I presume it would.
+[1022.03s - 1042.77s] A: Yeah, it would. I mean, the Sky remote controls and everything, they're kind of moulded and look a bit different, and the TallyWest remote controls Controls are silver plastic, which looks a bit smarter. So yeah, I guess that's stuff we can think about. Okay, so let's break it up there. Okay?
+[1042.77s - 1043.08s] C: Okay.
+[1043.08s - 1044.22s] A: So see you in half an hour.
+[1046.43s - 1047.54s] B: Do we go back to our room?
+[1047.54s - 1048.44s] A: I think so.

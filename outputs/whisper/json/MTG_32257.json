@@ -1,0 +1,398 @@
+{
+  "audio_file": "MTG_32257.wav",
+  "dataset_split": "test",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 4,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02",
+    "SPEAKER_03"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_00": "Speaker A",
+    "SPEAKER_01": "Speaker B",
+    "SPEAKER_02": "Speaker C",
+    "SPEAKER_03": "Speaker D"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 4.98,
+      "end": 25.98,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Good morning. Good morning. Good morning. I asked you to come over this morning because I'm receiving a lot of prayer on the maintenance problems we have. So each department I would like you to fill me in. I have a lot of stuff going on."
+    },
+    {
+      "start": 25.98,
+      "end": 38.44,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "really tired of his why can't Brad's microphone whenever he's you know it's just not I don't think it's producing any voice and I think we need to fix his microphone. I'll get to mine. I have had"
+    },
+    {
+      "start": 38.44,
+      "end": 53.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "so many complaints. Which ones? Same as mine? No. Are you sure? I feel like we're pretending to raise the same problems every week. No no no no. I need to know what is the emergency. The trade is our The emergency."
+    },
+    {
+      "start": 53.26,
+      "end": 58.26,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "What's the emergency? Exactly my point. The trailers. The trailers. The trailers."
+    },
+    {
+      "start": 58.26,
+      "end": 61.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "There hasn't been electricity for the past three days."
+    },
+    {
+      "start": 61.26,
+      "end": 67.26,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "That's a big problem. Yeah, and Gladys' trailer has been smelling really bad. Yes. Like really, really bad."
+    },
+    {
+      "start": 67.26,
+      "end": 69.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "They don't flush? The toilets don't flush?"
+    },
+    {
+      "start": 69.26,
+      "end": 73.26,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "No, no, no. I don't think it's a bathroom smell. I think it's like something exploded or something."
+    },
+    {
+      "start": 73.26,
+      "end": 81.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "It's just a problem that they're just looking a bit tacky. Isn't it just the way that they are? Like they just come play? It's tacky. It's tacky."
+    },
+    {
+      "start": 81.26,
+      "end": 84.6,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Not only that, I think somebody stole one of our trailers."
+    },
+    {
+      "start": 84.84,
+      "end": 91.04,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I did go and check that we're continuing to complain without offering any of these. So I understand the emergency in the trailers."
+    },
+    {
+      "start": 92.04,
+      "end": 96.54,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "We're also having, we also got a wrong shift."
+    },
+    {
+      "start": 96.54,
+      "end": 103.7,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "There's problems on the set as well. We're trying to change the sets, we're trying to make dynamic shifts, and it's really problematic."
+    },
+    {
+      "start": 104.12,
+      "end": 115.64,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "And also, the actors weren't updated on what set they had to be at, so they just arrived at the wrong place. But maintenance has been moving around the states and they didn't update them."
+    },
+    {
+      "start": 115.64,
+      "end": 128.48,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Look, one of the things that I realized was also we didn't get the correct shipment of props. A lot of the stage machines aren't working properly. Instead of getting the cop stuff, we got medieval stuff. So we have to switch that now."
+    },
+    {
+      "start": 129.02,
+      "end": 136.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "That's your thing. What I would like to know about the maintenance. How about the food? Are they complaining about the food? No, the food is actually being great."
+    },
+    {
+      "start": 136.48,
+      "end": 147.24,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "The issue is that our chef quits. our chef quit why did this happen it happened yesterday we got a really great gig in Upper East Side"
+    },
+    {
+      "start": 147.24,
+      "end": 154.58,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I understand but we can find a nice catering to replace it it's just so good we have to address"
+    },
+    {
+      "start": 154.58,
+      "end": 164.04,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "these issues I love the sandwiches I'm going to go ahead and converge all the actors whoever has a trailer I'm going to talk to them"
+    },
+    {
+      "start": 164.04,
+      "end": 170.8,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I've also been speaking to Oliver with regards to the AC and the fact that there is none."
+    },
+    {
+      "start": 170.82,
+      "end": 172.14,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We got five trailers out of that."
+    },
+    {
+      "start": 172.14,
+      "end": 175.66,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So this week we're working on the AC."
+    },
+    {
+      "start": 176.04,
+      "end": 189.26,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Then it's the food and the chef. And the signage. We need to know where to be. So that's a main problem as well. The actors didn't know what's said to be. Oh, yeah, yeah, yeah. Those are not maintenance. This is organization of the show."
+    },
+    {
+      "start": 189.26,
+      "end": 194.0,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "So ironically, I also hired a detective who hopefully will get back to me in the next two weeks."
+    },
+    {
+      "start": 194.02,
+      "end": 195.12,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We're a detective in our show."
+    },
+    {
+      "start": 195.2,
+      "end": 214.36,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "No, no. somebody stole one of our trailers yeah so yeah so i hired a detective ironically to find you know this missing trailer it was carrie simon's trailer and it's just oh i'm not in charge of it i fired the guy who was in charge of the trailers you know security so yeah we had security issue we"
+    },
+    {
+      "start": 214.36,
+      "end": 226.36,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "have trailers problems yeah and then we had a breaking loss well walking loss okay wait a Is that putting our, you know, giving us too much trouble? No, no, no, no, no. Shut the show because..."
+    },
+    {
+      "start": 226.36,
+      "end": 229.36,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "No, no, no, no, no, no, no, no, no, no."
+    },
+    {
+      "start": 229.36,
+      "end": 235.36,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We all just need to sleep, and we all just have been highly struck at the moment. It's been a long week."
+    },
+    {
+      "start": 235.36,
+      "end": 236.36,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Also, our coffee machine broke."
+    },
+    {
+      "start": 236.36,
+      "end": 237.36,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "But I'm saying..."
+    },
+    {
+      "start": 237.36,
+      "end": 238.36,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "That's been a big issue."
+    },
+    {
+      "start": 238.36,
+      "end": 245.36,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We've been getting riots. But this is called your department, you have to manage your department. We are managing the business we did."
+    },
+    {
+      "start": 245.36,
+      "end": 249.36,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "It feels like someone's put a cursor on you."
+    },
+    {
+      "start": 249.36,
+      "end": 257.38,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I mean, to be honest, I think it was, I mean, to be honest, I think it was Jake, our guard. Okay, yeah. I think somebody needs to get his key card."
+    },
+    {
+      "start": 257.76,
+      "end": 276.16,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "But in terms of maintenance, I think it's something like speaking, I'm going to go back and take care of the emergency problems. Do you want some positive feedback? Yes. So all the extras are saying that the port-a-parties are working really well. Yes. So those are like top-up port-a-parties. That's great."
+    },
+    {
+      "start": 276.16,
+      "end": 282.34,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "one thing that they are upset about is that the vending machine is not free"
+    },
+    {
+      "start": 282.34,
+      "end": 283.08,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I am going"
+    },
+    {
+      "start": 283.08,
+      "end": 287.18,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "they could be upset so I'm going to set"
+    },
+    {
+      "start": 287.18,
+      "end": 300.38,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "a meeting for the I'd say just a week from now we need the quicker than a week honestly I'm just going to jump in I feel like I know a guy"
+    },
+    {
+      "start": 300.38,
+      "end": 302.02,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "he can fix with trainers by"
+    },
+    {
+      "start": 302.02,
+      "end": 312.8,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "he has good reviews Can you please send me his conflict information and other references before? Sure, but again, I used him before. He's a good guy."
+    },
+    {
+      "start": 312.8,
+      "end": 316.8,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay, fine. Thank you. You'll need to get the security process. No, no, no."
+    },
+    {
+      "start": 316.8,
+      "end": 319.8,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "None next week. We need it in three days. No, no."
+    },
+    {
+      "start": 319.8,
+      "end": 332.8,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "You guys are filming. You can take care of it. I want by next week, this time, to see all our issues fixed. Yeah, yeah, yeah. Just send each one in their own department. Okay, fine. We have to get the production out. I'm leaving you all the... Okay."
+    },
+    {
+      "start": 332.8,
+      "end": 345.8,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Also, I noticed that certain people's payrolls, they'd be getting an extra zero or two. Okay, Tom, that's a different meaning, respect that. Okay, I'm just saying whoever's in charge of finance needs to deal with this."
+    },
+    {
+      "start": 345.8,
+      "end": 354.8,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We're not there. I do, but we are not there. Okay, we will report you. So one is to fix the trade. Yes. Two is to fix the trade. That's on three."
+    }
+  ]
+}

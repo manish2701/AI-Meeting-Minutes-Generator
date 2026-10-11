@@ -1,8 +1,0 @@
-Audio File: audio_050.wav
-Detected Language: en
-Language Probability: 0.9969
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 11.04s] I just wondered, so who's then doing the frequencies on the words?

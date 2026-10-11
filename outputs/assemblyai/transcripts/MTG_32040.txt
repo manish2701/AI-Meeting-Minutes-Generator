@@ -1,0 +1,81 @@
+[7.19s - 8.22s] A: Morning everyone.
+[9.05s - 9.35s] B: Morning.
+[9.47s - 18.39s] C: It's really exciting meeting today discussing the products for our smart kitchen. Is that what it is?
+[18.46s - 19.45s] B: Smart kitchen.
+[19.64s - 20.32s] A: Robotic kitchen.
+[20.37s - 24.13s] C: Robotic smart of the future is here.
+[24.34s - 25.07s] B: The future kitchen.
+[25.53s - 38.50s] C: So yeah, just today we just want to do brainstorming on any products that— I know that Ron was checking out some technicalities for, like, using examples like Nest.
+[38.50s - 40.38s] B: Like what?
+[40.38s - 42.74s] C: Oh, what's that called, that company?
+[42.80s - 43.45s] B: It doesn't matter.
+[43.45s - 47.73s] C: Okay. What have you found, Ron, from your—
+[47.73s - 73.02s] D: Well, I've done a little bit of a survey among thousands of people that are in the kitchen field and the restaurant field. And it seems that what they'd like to do is to— the repetitive actions that are done in the kitchen, for example, the chopping and the cutting and the—
+[73.02s - 74.67s] A: Mixing.
+[74.67s - 88.67s] D: The mixing. If those things can be automated, then it would save a lot of time for people. And then, you know, as we succeed in that, maybe we can expand, you know, into other areas.
+[88.67s - 91.04s] E: So this is more for restaurants, right?
+[91.04s - 96.12s] B: Yeah, that was my question. Are we aiming at industrial kitchens or home kitchens?
+[96.12s - 98.12s] C: I think it's both.
+[98.12s - 109.47s] D: Both? You want both, but if you have— if you succeed with the restaurants, then it'll be easier to get into the individual kitchens.
+[109.47s - 111.01s] C: That's a better leverage point, yeah.
+[111.72s - 120.17s] E: success in selling them, I think you'll have more private kitchens than restaurants opening individually.
+[120.22s - 120.98s] B: So I think it's—
+[120.98s - 125.26s] A: But restaurants may have a higher budget per what they're trying to buy.
+[125.26s - 128.52s] B: Yeah, yeah, or even big industrial kitchens.
+[128.52s - 143.03s] C: To keep our focus on homes, because I mean, that's how this all developed. Restaurants don't have the same, like, identity that a home has, and I think that when we Start speaking to marketing. It's important that we keep this home feel.
+[143.03s - 145.33s] E: Absolutely. I do agree with you.
+[145.33s - 150.96s] B: But we could use, you know, we could use the industrial kitchens as kind of our laboratory.
+[150.96s - 151.79s] E: Base.
+[151.79s - 153.93s] B: Okay. And find out what works, what doesn't work.
+[153.93s - 154.93s] C: Well, that homes are like—
+[154.93s - 157.85s] B: What's adaptable to homes, what isn't adaptable to homes.
+[157.85s - 162.89s] E: Well, yeah, we are here a few women at the table. Why don't we start as a—
+[162.89s - 163.43s] A: Women?
+[163.43s - 165.21s] C: I think that's a bit—
+[165.21s - 166.99s] D: That's a little sexist there.
+[166.99s - 169.85s] E: We have children. We spend time getting our children back from school and everything.
+[171.65s - 171.84s] C: Right.
+[171.92s - 175.43s] B: From our experience, so do a large number of men.
+[175.43s - 177.11s] D: I do all the cooking in the family.
+[177.11s - 178.25s] B: Okay.
+[178.31s - 180.23s] C: Well, in terms of— let's stick to Zenith.
+[180.23s - 182.49s] B: Yeah. Let's stick to the machinery.
+[182.49s - 198.96s] C: I don't think we need to talk about products. So especially Sarah, I know that you've been interested in this, having like prompts for what shopping to do and then your fridge tells you what's empty. I mean, those are the kind of products we need to be speaking about.
+[198.96s - 199.36s] B: Absolutely. Yeah.
+[199.36s - 199.69s] E: There we go.
+[199.69s - 201.39s] B: I mean, there's a lot of products. The smart refrigerator.
+[202.46s - 211.60s] A: That we can also lean off of. You know, there's all those mixers that already exist, all those automatic choppers.
+[211.60s - 212.22s] E: Yeah, they're there.
+[212.22s - 215.28s] A: And they're already there, but we can build on them to make them more automated.
+[215.28s - 216.38s] B: This is a different level.
+[216.38s - 230.53s] A: Or connect it with different electronics, like a voice system, like, turn this on right now. Or have like a mixing system of just a spoon that connects to a pan that just continues to mix automatically.
+[230.53s - 237.49s] E: How about Harry Potter's spoon? How about a robot that will put all the dirty dishes in the, uh, yeah, dishwasher.
+[237.66s - 240.23s] C: That's what I would love. The robot is the dishwasher.
+[240.23s - 254.83s] D: Now I was also thinking about a smart oven where you could have sensors inside that would check to see if something, uh, has risen, is baked through, uh, insert thermometer to get it inside temperature.
+[254.83s - 264.64s] E: If we can dream, if we can dream, we can do it. We can do it. So what I would love, what I would And what you see is when you come back from the shopping.
+[264.64s - 266.92s] C: Okay, how about a dream here? I want you—
+[266.92s - 270.20s] B: We need an action plan, not just dreams. We need an action plan.
+[270.20s - 280.00s] C: I know that all that work you've done is like really valuable, so please can you summarize that research that you did and give it to me by next week Wednesday?
+[280.00s - 281.36s] E: Absolutely.
+[281.36s - 281.36s] C: Okay.
+[281.36s - 283.22s] B: We need Ron's research.
+[283.22s - 288.96s] C: Also Ron, that research that you've done is also incredible. I think maybe you can give a presentation on that.
+[288.96s - 289.64s] A: Better, better.
+[289.64s - 299.96s] C: We can bring in— Linda, please, can you invite also like some technical guides for Ron's presentation? Ron, when will the presentation be?
+[299.96s - 304.01s] D: It should be ready by Monday. I'll work on it over the weekend.
+[304.01s - 307.01s] C: Okay, so let's get everybody to calendar this. Sarah?
+[307.01s - 321.30s] A: I think that you saw all of our ideas maybe come up by next week, kind of things that you liked more that we can build up on them, and then we can Yeah, and I'll also need to just give like a running commentary on what things I think we can expand on.
+[321.30s - 322.66s] B: Yeah, exactly.
+[322.66s - 322.66s] C: Okay.
+[322.66s - 328.74s] B: I think each of us can do a bit of market research also with our friends and neighbors and get, you know, get their reaction to the different ideas.
+[328.74s - 330.80s] C: Can you check everyone's calendars, Sarah?
+[330.80s - 333.50s] A: Yeah, I'll see and we can have a follow-up meeting beginning of next week.
+[333.50s - 337.28s] C: Okay, today still we need to check calendars so we can book those meetings for next week.
+[337.28s - 344.94s] E: To get back on the dream thing, do we have to make it feasible or can we really dream?
+[344.94s - 346.62s] A: No, let's dream big and we can always work it down.
+[346.62s - 346.64s] B: Awesome.
+[348.42s - 350.03s] C: I love that. I love the big dreams.
+[350.29s - 350.54s] E: Okay.
+[350.54s - 354.32s] D: But I think where you want to start is where can things be automated in the kitchen?
+[354.32s - 355.18s] E: Absolutely.
+[355.18s - 356.56s] C: Okay.

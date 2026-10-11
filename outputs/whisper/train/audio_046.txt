@@ -1,8 +1,0 @@
-Audio File: audio_046.wav
-Detected Language: en
-Language Probability: 0.9995
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.54s] Yeah, it would be useful for me as well.

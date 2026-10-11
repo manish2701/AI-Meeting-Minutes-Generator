@@ -1,8 +1,0 @@
-Audio File: audio_049.wav
-Detected Language: en
-Language Probability: 0.9979
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.84s] Am I the only one who needs it with frequencies?

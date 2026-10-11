@@ -1,9 +1,0 @@
-Audio File: audio_048.wav
-Detected Language: en
-Language Probability: 0.9989
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 5.86s] I was just thinking if the overhead for having the same amount of data coming from two files
-[5.86s - 7.38s] instead of from one file is massive.

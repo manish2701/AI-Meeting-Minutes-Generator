@@ -1,8 +1,0 @@
-Audio File: audio_073.wav
-Detected Language: en
-Language Probability: 0.6521
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 0.26s] Mm-hmm.

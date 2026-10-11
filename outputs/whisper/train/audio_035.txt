@@ -1,8 +1,0 @@
-Audio File: audio_035.wav
-Detected Language: en
-Language Probability: 0.9928
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 0.80s] Well, that's easy.

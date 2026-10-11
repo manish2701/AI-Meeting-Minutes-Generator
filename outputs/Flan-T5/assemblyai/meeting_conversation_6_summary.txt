@@ -1,0 +1,38 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_6.txt
+
+KEY POINTS
+--------------------
+• We are reviewing yesterday's security incident involving unusual authentication traffic. The purpose is to understand the timeline, identify the root cause, confirm whether customer data was exposed, and define the remediation work. We apologise for any.
+• The first alert was generated at 02:14 AM. The authentication service received approximately 18,000 login attempts within twelve minutes from a small group of IP addresses. The service received about 18,500 login attempts in the.
+• I checked the audit logs for the affected accounts. There were 34 password-reset requests associated with valid customer accounts, but only five completed the email verification step. Only five of the 34 password reset requests were successful.
+• About 96 percent failed. Roughly 720 attempts reached valid accounts, but we have not found evidence that the attackers accessed protected customer records. About 96 percent fail. Roughley 720 attempts reach valid accounts. We have not.
+• Before the management review, we need confirmation that the rate limit, credential rotation, log masking, and alerts are all verified. We also need confirmation of the credential rotation and log masker being used correctly.
+
+DECISIONS
+--------------------
+• apply stricter rate limiting to password reset
+• retain the temporary firewall block until verification
+• rotate authentication credentials after evidence collection
+• test automated blocking before production use
+
+ACTION ITEMS
+--------------------
+• Backend Engineer — implement the rate limit and deploy it to staging today
+• Security Analyst — verify the new limit using a controlled test
+• Database Engineer — prepare the account activity timeline by noon
+• Privacy Officer — complete the initial privacy assessment by tomorrow afternoon
+• Backend Engineer — run the endpoint inventory and verify production by today evening
+• Security Analyst — create the evidence snapshot before 5 PM today
+• Backend Engineer — test all three cases by Wednesday
+• DevOps Engineer — configure them by Thursday morning
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• today — Backend Engineer: implement the rate limit and deploy it to staging .
+• tomorrow afternoon — Privacy Officer: complete the initial privacy assessment by .
+• today evening — Backend Engineer: run the endpoint inventory and verify production by .
+• Thursday morning — DevOps Engineer: configure them by .
+• Thursday afternoon — Security Analyst: draft the incident report by .
+• Friday at 2 PM — Incident Manager: Management review will be .

@@ -1,8 +1,0 @@
-Audio File: audio_026.wav
-Detected Language: en
-Language Probability: 0.4033
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.00s] hmm

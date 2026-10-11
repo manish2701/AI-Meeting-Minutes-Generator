@@ -1,9 +1,0 @@
-Audio File: audio_024.wav
-Detected Language: en
-Language Probability: 0.9977
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.96s] I thought that was the whole beauty that you can just make a new XML file and sort of tie
-[3.96s - 5.36s] that to the other end and it...

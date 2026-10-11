@@ -1,0 +1,38 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_1.txt
+
+KEY POINTS
+--------------------
+• The date and region filters are working correctly. The product filter still has an issue when more than one product is selected. The API sends the selected values correctly, but the dashboard query only uses the first value.
+• I checked those yesterday. Most were caused by missing customer IDs and invalid date formats in the source files. I added validation rules for both cases, but there are still a few records that need manual review. I checked.
+• Then the dashboard is correct if it filters by active subscription. Aarav, please update the staging validation query to use the same definition and share the comparison results. Then the dashboard will be correct if the.
+• Once it is available, I will run the performance test and record page-load times for 15,000, 100, and 500,000 transactions. I will also run the test for page- load times for.
+• The slowest query is the monthly revenue aggregation. It scans the transaction table every time because there is no suitable index on the transaction date column. The slowest search is for a transaction date on a monthly revenue.
+
+DECISIONS
+--------------------
+• use the filtered export approach
+• schedule the design review for Friday at 11 AM and the release-readiness review for Monday at 3 PM
+
+ACTION ITEMS
+--------------------
+• Aarav — upload it after this meeting
+• Rohan — test that as part of the same change
+• Aarav — do that by Thursday morning
+• Rohan — update the API contract and implement the filtered export endpoint by Friday
+• Rohan — send it this afternoon
+• Rohan — replace it with the production email service after we receive the credentials
+• Rohan — verify that before the release build
+• Aarav — add the dependency and failure alert by Friday morning
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• yesterday — Aarav: mostly complete. I finished the CSV and API ingestion jobs
+• tomorrow afternoon — Rohan: and test it with single and multiple selections by .
+• Wednesday evening — Meera: finish it by .
+• today — Tester: prepare the regression checklist and share it with the team.
+• Thursday afternoon — Rohan: prepare it by .
+• today — Project Manager: to confirm whether the upgrade can be completed before release.
+• next Monday — Project Manager: . We need the release candidate ready by Monday morning.
+• Friday at 11 AM — Project Manager: for and the release-readiness review for Monday at 3 PM.

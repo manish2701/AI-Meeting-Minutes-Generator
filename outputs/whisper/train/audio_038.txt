@@ -1,8 +1,0 @@
-Audio File: audio_038.wav
-Detected Language: en
-Language Probability: 0.9953
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 5.00s] and then just make sure everyone understands the interface.

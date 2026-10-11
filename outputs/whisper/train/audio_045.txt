@@ -1,8 +1,0 @@
-Audio File: audio_045.wav
-Detected Language: en
-Language Probability: 0.9988
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.66s] When do we have to meet again then with this?

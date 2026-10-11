@@ -1,0 +1,170 @@
+{
+  "audio_file": "MTG_32185.wav",
+  "dataset_split": "test",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 6,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02",
+    "SPEAKER_03",
+    "SPEAKER_04",
+    "SPEAKER_05"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_00": "Speaker A",
+    "SPEAKER_03": "Speaker B",
+    "SPEAKER_04": "Speaker C",
+    "SPEAKER_02": "Speaker D",
+    "SPEAKER_05": "Speaker E",
+    "SPEAKER_01": "Speaker F"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 5.58,
+      "end": 27.94,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Okay, thank you guys for coming in such a short notice. I just wanted us to all get on this third floor slash aquarium project. Just kind of get some status updates from everyone in their departments. As for HR, I know that we did hire enough people for the new floor and aquarium."
+    },
+    {
+      "start": 27.94,
+      "end": 45.36,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "On my end, I would think that the report I prepared is now very clear. We will have, we will move forward and we will have enough budget. And I think we are doing very fine. It's going to be a success."
+    },
+    {
+      "start": 45.9,
+      "end": 68.48,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "I found that the numbers that I presented last week are still good. Although I found that we went down by about 40%. and you know that's a good thing even though we've been spending more than we were expecting to going down 40 percent is profitable and i hope that the marketing department has purchased"
+    },
+    {
+      "start": 68.48,
+      "end": 84.92,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "about a thousand little fluffy animals little fluffy sea animals to be able to give out the people that walk into the mall and to direct them to come up to the third floor uh there when you press them they speak they go up to the third floor i just want to"
+    },
+    {
+      "start": 84.92,
+      "end": 98.74,
+      "speaker_id": "SPEAKER_05",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "interject something here about I've been in touch with the city authorities about this event and all of the all of the whistles and bows and whistles that we've been planning and I'm having"
+    },
+    {
+      "start": 98.74,
+      "end": 118.7,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker F",
+      "assignment_method": "overlap",
+      "text": "a terrible time getting them to answer. For me from the legal department we've now understood that we need to that we need to there's a big obstacle now with the aquarium is that we need a lot of legal documents to bring in all the water and all the fish. I've been on top of it, but it's really something we need to focus on right now."
+    },
+    {
+      "start": 119.32,
+      "end": 153.94,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "So going back to HR, it is something that, although we did hire enough people, we do need to decide on the salaries, we do need to decide on the benefits for them, and just overall kind of the values and the culture that we want them to stand by because they are going to be joining the mall's staff. And in regards to the project itself, we do want to finalize some things that we are more or less all of us on the same page, and it could be a very successful project."
+    },
+    {
+      "start": 154.5,
+      "end": 166.28,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I would like to hear more from the cost of this aquarium, and especially the insurances. This is something that worries me a little bit."
+    },
+    {
+      "start": 166.28,
+      "end": 193.42,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "but I'm not sure that it would be practical for us to go that far. So I've put it into a different frame, and I've got the graphs for that. I'll share that with you next week so that everyone can see how it's impacting the overall business and the projected budgets for next year and for the year after. And I think that in this visualization, you'll be able to see it more clearly, and everyone will be able to probably understand it clearer."
+    },
+    {
+      "start": 193.42,
+      "end": 220.64,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "I think it's very important that we look at the way that people interact with this aquarium that we're putting up. I know the budget is going to be a problem and the legal is going to be a problem. But if we focus on the interaction of the client base, the walk-in people that are coming up to the third floor."
+    },
+    {
+      "start": 220.64,
+      "end": 244.44,
+      "speaker_id": "SPEAKER_05",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "We're still a little skeptical about how advantageous this is going to be for the shopping mall as a whole. We're opening the aquarium. We're trying to bring in a new kind of public. But I'm not sure if the things that we're planning right now, in terms of the opening ceremonies, the opening event, whatever you want to call it,"
+    },
+    {
+      "start": 244.44,
+      "end": 262.5,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker F",
+      "assignment_method": "overlap",
+      "text": "and all of the bells and whistles are going to be really effective. The parking lot is finished. and now we can have much more customers each day each week we're going to have more traffic in our mall which is very good news the only thing we still need to deal with is our legal problem so"
+    },
+    {
+      "start": 262.5,
+      "end": 290.74,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "we're still on top of that we're going to figure it out so hr did say that we didn't hire everyone so we didn't hire people for sales we did hire people for the activities but we do still need um the overall uh for manager um so it is the next person that we're trying to hire so please look out for anyone in your connections or anyone else that might be interested in such a position that has past experience. We do want someone experienced for this role."
+    },
+    {
+      "start": 290.74,
+      "end": 303.16,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "For our next meeting, I would like us to, and what is it, what about, to wait two days from now. So we're going to have to have a much better understanding so that we can close with you."
+    },
+    {
+      "start": 303.16,
+      "end": 312.42,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "I know that two weeks' block is a problem for us, and that there'll be a lot of staff on leave at that time, but it was the only time that I saw was available for this kind of initiative."
+    },
+    {
+      "start": 312.42,
+      "end": 328.06,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "If we think about the food that we'll be serving in the food court and how it relates to the aquarium, I think this will also bring in more people from a marketing standpoint. So we serve, let's say, fish and chips."
+    },
+    {
+      "start": 328.06,
+      "end": 343.78,
+      "speaker_id": "SPEAKER_05",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "I think this is a very important point. I hadn't thought before about the food that would be served before, during, and after this particular event, but that's a very important element in terms of drawing in the public. A new plan that I have what we're going to do is that we're going to take food"
+    },
+    {
+      "start": 343.78,
+      "end": 355.26,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker F",
+      "assignment_method": "overlap",
+      "text": "and people who are waiting in lines is we're going to take the food, we're going to give small samples to people so they can try the new food in their stores, like in the food court, and slowly, bit by bit."
+    }
+  ]
+}

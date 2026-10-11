@@ -1,9 +1,0 @@
-Audio File: audio_008.wav
-Detected Language: en
-Language Probability: 0.9994
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 2.08s] we can probably just start with a Java HashMap
-[2.08s - 5.00s] and just HashMap over it and see how far we get.

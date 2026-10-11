@@ -1,9 +1,0 @@
-Audio File: audio_067.wav
-Detected Language: en
-Language Probability: 0.9995
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 5.00s] So the interface is mainly while it's running just working on data that's just loaded from
-[5.00s - 6.00s] a file I guess.

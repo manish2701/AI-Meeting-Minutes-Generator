@@ -1,8 +1,0 @@
-Audio File: audio_070.wav
-Detected Language: en
-Language Probability: 0.9991
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 8.40s] Because I think for the information density, we should calculate it on the lowest level, not on the highest.

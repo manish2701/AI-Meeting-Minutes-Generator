@@ -1,0 +1,24 @@
+MEETING MINUTES
+============================================================
+Source: EN2002a.txt
+
+KEY POINTS
+--------------------
+• If you double-click on a particular topic or something, then it goes to sort of like a default. So it'll be like all the cases of that topic, either whatever we decide the default to be.
+• I don't know what happens when you double-click, actually. We could, for example, have a little menu that pops up. I think, so yeah, when you left-click it, you can.
+• Yeah, so I don't know if you've looked at the search query language, but it's like a $a text Yeah, yeah, because that's the guy who declares a variable. Yeah, and then.
+• "I'm not aiming for anything. I'm just, you know, I go into the lab and I say, right, am I going to change today? And it kind of just, it just develops,".
+• Yeah, do you want to, you know, just get together and think about the different types of search we could possibly do, and then we could discuss it next meeting? Which options we really want to include.
+
+DECISIONS
+--------------------
+• No explicit decisions identified.
+
+ACTION ITEMS
+--------------------
+• A — be happy when this week is over
+• C — be happy when this course is over
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• No explicit dates or deadlines identified.

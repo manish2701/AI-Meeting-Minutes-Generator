@@ -1,0 +1,300 @@
+{
+  "audio_file": "MTG_32063.wav",
+  "dataset_split": "train",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 3,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_00": "Speaker A",
+    "SPEAKER_01": "Speaker B",
+    "SPEAKER_02": "Speaker C"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 7.25,
+      "end": 27.25,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Good morning Linda and Beth. Hi. Good morning. How's everybody? We met last week about our marketing for our little business. I'd like to know what you found out and if we are progressing and making some headways. Sure."
+    },
+    {
+      "start": 27.25,
+      "end": 36.65,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Linda, who was that? Okay, I tried shopping around for experiences and opinions on this."
+    },
+    {
+      "start": 36.65,
+      "end": 37.65,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "From the schools?"
+    },
+    {
+      "start": 37.65,
+      "end": 59.09,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Yeah, yeah, yeah. And some schools weren't that happy to talk to me. I'm not surprised. Yeah, neither was I, frankly, but I tried, I tried. You tried to keep the business in there. Exactly, exactly. And I tried to make it clear that I didn't want anything specific, just general. understand the structure per se."
+    },
+    {
+      "start": 59.09,
+      "end": 78.13,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "What we get hopeful from the school is that specific teachers that have trouble with their students would come directly to us and ask us, not as a school, but as a teacher who wants to help, really."
+    },
+    {
+      "start": 78.13,
+      "end": 85.13,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I think that approach might work better because the schools were not that cooperative as a school."
+    },
+    {
+      "start": 85.13,
+      "end": 99.13,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "You know, maybe there's another school I know of, they have English as a Second Language as a program in their school, and I know that they have this interest in it, so maybe"
+    },
+    {
+      "start": 99.13,
+      "end": 108.13,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "just that. Their teachers might be the perfect candidates. Yes. Okay. Okay, so I'll send you those details. Okay."
+    },
+    {
+      "start": 108.13,
+      "end": 134.63,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Thank you. That sounds good. My aunt, I contacted a few parents, and I sent them, you know, that's already with us for a year or even two years, and that I know that they're ready to sign up again for another year. Oh, whether they had agreed to the video, right? Whether they agreed to do a testimonial video with their child or not. I think to put a child on a video on a website is not that healthy. We could do, you know, these techniques."
+    },
+    {
+      "start": 134.63,
+      "end": 135.63,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "You can do it from behind."
+    },
+    {
+      "start": 135.63,
+      "end": 152.79,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Exactly. Exactly. But I have three or four moms and dads that are ready to do that. Did we incentivize this, or are they just happy to... They're just happy to help us because they are really happy with the results."
+    },
+    {
+      "start": 152.79,
+      "end": 163.11,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I can look for a standard release form also that they can sign, so that they'll be comfortable. We're taking it seriously."
+    },
+    {
+      "start": 163.37,
+      "end": 177.23,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I think that we are moving forward, and it's nice. So I think that by maybe two weeks from now, a month, after Beth and I put you in contact with those parents to make the videos."
+    },
+    {
+      "start": 177.47,
+      "end": 184.25,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "I also need to speak to some video producers. We need to be very professional."
+    },
+    {
+      "start": 184.25,
+      "end": 188.93,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I've got a very good video guy. Oh, wonderful. Please send that to me."
+    },
+    {
+      "start": 188.99,
+      "end": 208.59,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "But we have to cut the cost so it's not to click. We're doing one or two. I don't think we'll need more than that. I believe by experience that we can also do it on our own. If we find somebody in the company that is comfortable with a camera to do it, that will save us some money."
+    },
+    {
+      "start": 208.91,
+      "end": 216.59,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "We can think about that. We need somebody who can edit as well. I've got a guy who's a recent art school graduate and they'll do it for a very reasonable time."
+    },
+    {
+      "start": 216.79,
+      "end": 222.83,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "What I've got on my plate, I don't see that I'll have any availability to start messing around with everything."
+    },
+    {
+      "start": 222.83,
+      "end": 229.83,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "somebody that's ready to take the video and edit it. Oh, great, okay. Great, so that's one thing we have to do."
+    },
+    {
+      "start": 229.83,
+      "end": 243.47,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "And then I spoke to Sarah. She helped me, really, I spoke to the speech therapist. Remember, we were saying that. And actually, she's very interested"
+    },
+    {
+      "start": 243.47,
+      "end": 257.49,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "in working directly with us. Okay, now, how about this person that we want to hire to answer the phones? Do we have any ideas on, you know, did you, have you been contacting somebody?"
+    },
+    {
+      "start": 257.49,
+      "end": 260.59,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I think that kind of thing, we just need to go to a service."
+    },
+    {
+      "start": 260.87,
+      "end": 276.63,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "No, the problem with a service is that it's just so neutral. There's no one with our knowledge. We have to train somebody that will have only answers that potential questions. The people that we call, you know, would have."
+    },
+    {
+      "start": 276.63,
+      "end": 285.25,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "That's definitely going to cost us more. Why don't we consider when I see it as a student? Maybe a student could do it, a college student."
+    },
+    {
+      "start": 285.35,
+      "end": 308.33,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Yeah, maybe someone doing like English language or someone. Or because it's only four or five hours a day, because we're going to limit the answers to this phone, we could hire, we could ask somebody within our company if they are ready to make a little extra money and do that. And we would have a separate phone number. It's not going to be their private."
+    },
+    {
+      "start": 308.33,
+      "end": 313.33,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Or maybe we give a script so it doesn't have to be someone that's really knowledgeable."
+    },
+    {
+      "start": 313.33,
+      "end": 321.33,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "No, they'll have to have a script, absolutely. But on the other hand, the people calling in will always come up with some surprise questions."
+    },
+    {
+      "start": 321.33,
+      "end": 327.33,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I mean, there are standard questions that we can just screen and we don't have to be so knowledgeable."
+    },
+    {
+      "start": 327.33,
+      "end": 331.33,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Maybe if there's somebody who's working from home and they need a few more hours."
+    },
+    {
+      "start": 331.33,
+      "end": 334.33,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Absolutely. So who is ready to take this task?"
+    },
+    {
+      "start": 334.33,
+      "end": 337.33,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I think you have better connections in that direction."
+    },
+    {
+      "start": 337.33,
+      "end": 345.33,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "We need a company, people, with a good voice, with a work voice, could be a man or a woman. Okay, so I'll start looking for a sample."
+    },
+    {
+      "start": 345.33,
+      "end": 347.33,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Yeah, just somebody who can sound sympathetic."
+    },
+    {
+      "start": 347.33,
+      "end": 353.33,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "So it sounds good. Looks like within two weeks we might be almost ready to start. Great."
+    },
+    {
+      "start": 353.33,
+      "end": 355.33,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Okay, terrific."
+    }
+  ]
+}

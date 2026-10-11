@@ -1,0 +1,37 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_11.txt
+
+KEY POINTS
+--------------------
+• Performance testing will include 15000, 100000, and 500000 transactions.
+• The user guide still needs the export workflow and filter examples.
+• The tester needs the final build before running the complete checklist.
+• The user guide will be reviewed before the release candidate is approved.
+• 18 invalid records are still appearing in the validation report.
+
+DECISIONS
+--------------------
+• use the active-subscription definition for active customers
+
+ACTION ITEMS
+--------------------
+• Rohan — implement the filtered export endpoint by Friday
+• Meera — update the user guide with the export workflow by Friday morning
+• Vikram — prepare the 500000-transaction dataset by Thursday afternoon
+• Priya — verify it against the staging data
+• Aarav — add the ingestion failure alert by Friday morning
+• Project Manager — conduct the release-readiness review by Monday at 3 PM
+• Aarav — update the staging validation query by Thursday morning
+• Meera — verify it against the staging data
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Monday morning — Neha: the release candidate needs to be ready .
+• Monday at 3 PM — Vikram: should confirm that the release-readiness review is scheduled for .
+• next Monday — Aarav: the current release target is .
+• Friday at 11 AM — Priya: the design review is scheduled for .
+• Monday morning — Project Manager: the release candidate needs to be ready .
+• Monday at 3 PM — Neha: the release-readiness review is scheduled for .
+• Friday morning — Meera: update the user guide with the export workflow by .
+• next Monday — Rohan: the current release target is .

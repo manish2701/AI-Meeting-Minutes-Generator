@@ -1,8 +1,0 @@
-Audio File: audio_006.wav
-Detected Language: en
-Language Probability: 0.9920
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 1.10s] all these fancy pens.

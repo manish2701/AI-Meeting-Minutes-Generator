@@ -1,8 +1,0 @@
-Audio File: audio_012.wav
-Detected Language: en
-Language Probability: 0.9995
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.44s] and that will obviously make it much easier to display.

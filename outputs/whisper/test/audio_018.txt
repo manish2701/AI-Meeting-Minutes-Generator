@@ -1,8 +1,0 @@
-Audio File: audio_018.wav
-Detected Language: en
-Language Probability: 0.2355
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 0.80s] Mm-hmm.

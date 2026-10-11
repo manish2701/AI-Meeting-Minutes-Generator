@@ -1,0 +1,411 @@
+[0.53s - 3.55s] A: I wonder how much of the meetings is talking about the stuff at the meetings.
+[3.66s - 12.01s] B: Yeah, exactly. Yeah, yeah. Look at all this stuff. Okay, welcome to start. Okay.
+[12.10s - 15.32s] C: Right. So should we need to talk about it?
+[15.50s - 18.96s] B: Should we just go around and everyone says what they what they've been doing?
+[19.14s - 22.06s] D: Has anybody done anything? No one.
+[22.11s - 24.97s] B: Well, I'm sorry.
+[25.83s - 25.96s] C: Yeah.
+[26.29s - 27.95s] A: Okay. Sounds like you've done something.
+[29.93s - 30.33s] C: Okay.
+[30.51s - 36.07s] B: Well, I've got a browser now, which whoops already dropped.
+[38.15s - 39.10s] C: Oh, I dropped mine as well.
+[42.05s - 43.31s] D: Give it this.
+[43.89s - 48.67s] C: It wasn't a good start. Okay.
+[48.77s - 49.01s] B: Okay.
+[49.89s - 49.98s] C: Yeah.
+[50.53s - 68.48s] B: So yeah. We've got a browser which comes up automatically with the transcription box and the topics. And then when you go on the menu, you can select the summarization box, which pops up, and an audio player.
+[68.48s - 69.10s] C: Right.
+[69.10s - 139.24s] B: And I think the search works as well, so you can pop up a search. And it loads up just the background window, so empty. So when you start, you have to either open open a particular observation or do a search and open it through that. That makes sense. The transcription box has got a summarize button, which doesn't do anything yet. Now I wonder how we want to do. You know, we want a pop-up window with this. Speaker characterization. Either we could do that, you know, when does the popup come? Either we can, when you click on the ID, any sort of ID in the transcription box, or we can put an extra button, extra few buttons next to the summarize button so that you, actually in the transcription box, but so that you click on a button and then it opens whatever that speaker characterization is. The problem is the left-click is already used because it highlights that part of speech or whatever that— what he's been saying.
+[139.24s - 140.32s] D: The left-click or the right-click?
+[140.32s - 142.04s] B: The left-click highlights it.
+[142.04s - 142.45s] D: Right.
+[142.45s - 143.49s] C: So that you can—
+[143.49s - 168.69s] B: I don't know what happens when you double-click, actually. But that would be a bit annoying if you have left-click for one thing and double-click for something else. I think, so yeah, when you left-click it, you can, for example, set the marker there so that the audio goes from there, I think. So we can't put it on left-click. We could put it on right-click. We could, for example, have a little menu that pops up.
+[169.49s - 170.59s] D: Yeah, that might be quite good, actually.
+[170.63s - 176.64s] B: So right-click on it, menu, you know, and you can click on speaker characterisation and it pops the window.
+[176.97s - 178.00s] D: What else could we have in there?
+[179.94s - 181.80s] B: That's a good point.
+[181.80s - 183.02s] C: I don't know.
+[183.02s - 185.18s] D: Otherwise you just go right-click, will do.
+[185.18s - 192.42s] B: Yeah, yeah, but, um, I don't know about you, but usually in Windows, right-click doesn't do anything, does it? It opens a menu.
+[192.42s - 197.92s] D: A menu, yeah. Yeah, so it might be a bit weird for it to just start bringing up stuff.
+[197.92s - 201.40s] A: Yeah, to just have the same sort of idiom throughout.
+[201.40s - 206.49s] B: Yeah, yeah. Um, or just, you know, You know, or just a button.
+[206.49s - 217.87s] C: I guess a button makes a bit more sense because otherwise you don't really know that, oh, what if I right-click now? What happens then?
+[217.87s - 225.21s] B: Well, no, you still have the menu pop up. Well, oh yeah, it's more obvious, isn't it?
+[225.21s - 227.18s] D: It's more idiot-proof, isn't it? It's got a button.
+[227.18s - 230.54s] B: Yeah, that's true. Yeah, it's more intuitive.
+[230.54s - 238.36s] A: But then it's not as accessible. I think if you want to add more things in the future, then we have to— well, new buttons. I don't know, where's the menu? I think it's more flexible that way.
+[238.36s - 245.35s] D: Well, I guess in Meeting Browser 1.1, you can have a menu instead of a button.
+[245.35s - 263.11s] B: But actually, what we could do is in that menu as well, we could have an option that pops up a window with all the All the meetings that that user has been in? Like a search for that user?
+[263.11s - 263.74s] D: Yeah.
+[263.74s - 266.25s] B: Is that going to be useful or too much?
+[266.25s - 272.71s] D: I guess so. So what do you— part of the menu that comes down, it says, give me all your meetings?
+[272.71s - 279.07s] B: Yeah. So when you right-click on it, one option will be give me all your meetings, characterize the speaker.
+[279.07s - 280.50s] D: Yep.
+[283.77s - 285.05s] B: Or is that too much?
+[285.74s - 298.08s] C: I mean, I don't know. I guess so. I mean, it's more like part of the browsing sort of thing more than the speaker characterization, as Steve mentioned.
+[298.08s - 298.60s] B: Yeah, that's true.
+[298.60s - 301.16s] C: You know how to involve the speaker characteristics.
+[301.16s - 303.43s] B: Yeah, that's true. It would be nice to have it interconnected.
+[303.44s - 316.62s] A: Yeah, like maybe tie that in with dialogue acts or something as well. I mean, speaker characterization tied into, I don't know, Just some way to sort of leverage that information. Like, we have it, we're doing it, but what— how does it help the browsing? Or what can it give us?
+[316.62s - 332.43s] B: What do you mean, the speaker characterization? Oh, well, yeah, I mean, I don't know about that. I mean, the speaker characterization is a bit like you said. I mean, it's like a nice thing. We don't— we're not actually sure what the user wants with it, but it's interesting, so why not give it to him?
+[332.43s - 333.87s] D: Yeah, yeah.
+[333.87s - 335.21s] B: I think we should do it.
+[336.35s - 354.32s] C: Yeah, I mean, I guess maybe we could have that as another thing of like, well, if you get speaker characterization that someone talks a lot in a certain topic, and then if you, I don't know, click on that topic, you get everything that's in that topic or whatever.
+[354.79s - 358.75s] B: Yeah, I mean, that's, that's still another level further. I mean, we're not even there yet, you know.
+[358.89s - 361.23s] C: No, no, no, it doesn't even pop up the speaker characterization yet.
+[361.41s - 364.45s] B: We have to first define what happens when you click on a user.
+[364.45s - 368.06s] D: We have to have speaker characterization first before we cross over the ocean.
+[368.06s - 372.27s] B: So should we try to do a right-click menu then?
+[372.27s - 376.31s] D: Yeah. All right.
+[376.31s - 377.40s] A: Well, is that just from the main?
+[377.40s - 378.79s] D: Even if it's one particular—
+[378.79s - 387.31s] A: Is that from any particular window? Like if we want to sort of get— like if we're on the users versus like a topic or something, have a right-click for these various things?
+[387.56s - 397.58s] B: Wait, yeah, there's a second thing about the topics. The topic window, we want to somehow click— be able to click on a topic and it pops up with all the meetings that contain that.
+[397.68s - 397.92s] A: Right.
+[398.65s - 402.00s] B: Yeah. So we could do that in a similar way, do it right-click as well.
+[402.39s - 402.57s] A: Okay.
+[402.94s - 405.65s] D: And so this looks more consistent throughout.
+[406.23s - 406.75s] B: Yeah.
+[407.13s - 407.78s] D: On the speaker.
+[411.01s - 424.72s] B: So yeah, so we have basically 2 options of browsing the meetings is by either searching and opening individual observations, and then we have the interlinking by right-click, basically.
+[426.18s - 435.38s] A: Actually, yeah, like another common thing, like we have it sort of set up that if you double-click and it goes to a default thing on the menu, I mean, that's kind of a typical kind of action.
+[435.48s - 436.03s] B: Double-click?
+[436.14s - 462.84s] A: If you double-click on a particular topic or something, then it goes to sort of like a default So it'll be like all the cases of that topic, either whatever we decide the default to be, whether it's in all meetings or just in one meeting and just show up the particular instances of that topic in the meeting. Like, I'm just thinking to have the default there so if somebody knows exactly what they want to do and we know that that's the most common thing that's going to happen, so the double-click will do that and just save them the trouble of right-clicking and choosing the item on the menu.
+[462.84s - 466.49s] B: I don't see there's anything obvious that would be a Double-click?
+[466.49s - 469.67s] A: It might come to us. Start playing with it.
+[469.67s - 471.29s] D: What was that? I didn't quite understand.
+[471.29s - 481.03s] A: You mean like we have the right-click menu? Yeah, menu, right-click. But instead of like have a default double-click, so there'll still be a choice because that's the most common.
+[481.27s - 483.19s] D: Yeah, exactly.
+[483.19s - 486.13s] C: Yeah, like show the speaker characterization.
+[486.13s - 495.10s] B: Yeah, yeah. But then, then there's a problem with a lot of windows popping up again and they pop up without you even being quite sure what it is, you know what I mean?
+[495.10s - 495.54s] A: Yeah.
+[495.54s - 501.86s] C: But if you do double-click on something, don't you expect something to happen?
+[503.37s - 507.83s] D: Then yeah, maybe you sort of— Sometimes you get like, go away! Don't come here!
+[507.83s - 511.30s] A: Well, then they close it. Yeah, it's not, it's not the end of the world.
+[511.30s - 521.26s] B: Especially if you have a touchpad. Well, I'll check what it does on double-click at the moment.
+[521.67s - 527.59s] C: Yeah, because I think it might do something, but I don't—
+[528.14s - 533.47s] B: I really don't see anything obvious that— I mean, if you can think of something.
+[546.32s - 548.43s] C: Yeah, what you're clicking on.
+[548.43s - 556.64s] B: Yeah, another thing, single audio files, do we want to use them or not?
+[556.64s - 561.53s] D: We don't know yet, do we? Do you mean single channel?
+[561.53s - 564.54s] B: Yeah, single channel. The single channel files, do we want them?
+[564.86s - 570.49s] D: I mean, probably not, but we might need them for disfluencies. If we can go to it in order.
+[570.49s - 577.93s] B: Yeah, yeah, yeah. I mean, we might use them to work with them, but do we want to integrate them so that when you browse, you can—
+[577.93s - 581.38s] D: You might want to be able to say, oh, just give me what that person's saying.
+[581.38s - 585.29s] B: Do you, though? I mean, it's not going to make much sense if you listen to it on its own, do you?
+[585.29s - 601.18s] D: Unless you can't hear it properly or something. Somebody's talking over somebody else or something. We'll just say no for now and put it in later. Yeah, because otherwise it will increase the amount of data we need by a lot, won't it?
+[601.18s - 601.86s] B: Yeah.
+[601.86s - 603.12s] D: The footprint will be bigger.
+[603.12s - 614.70s] B: Yeah, what do people think in general about the Windows cluttering that you mentioned? Do you think—
+[614.70s - 619.15s] A: I think we probably need that though, to have the full flexibility. We need to have that.
+[619.15s - 624.32s] B: That's what I feel as well. I mean, I'm very much— I want to have everything customizable.
+[624.32s - 631.00s] A: Well, the thing is typically though, is someone going to have 5 windows open at the same time? Probably not.
+[631.00s - 632.08s] B: Probably not, no.
+[632.08s - 635.42s] A: Probably just 2 or 3 of whatever they're looking at, like DialogX or whatever.
+[635.42s - 647.48s] B: Yeah, but yeah, it depends. I mean, I really want to put the summary in somewhere, you know. And the summary, for example, is typical. You open the window, you read through it, you might click on, you know, close it again straight away. Yeah, but it'd be good to have.
+[647.56s - 648.30s] D: I think it's fine.
+[648.36s - 663.38s] C: But well, couldn't we? I mean, you probably. I don't know if you want to have like the the full transcription and the summary at the same time. So maybe you can just like choose the same window for transcription and summary.
+[663.67s - 665.37s] A: It's like have a tab there. I was just yeah.
+[667.96s - 668.61s] C: Tabs are nice.
+[669.17s - 670.79s] D: Yeah, tab. Mozilla style.
+[671.18s - 673.92s] B: Yeah, yeah, yeah. That's right. I'm not sure.
+[674.28s - 680.54s] D: Does anybody know how to do that? I don't think Java knows how to do that, really. Maybe it probably can.
+[680.54s - 681.10s] C: I'm sure.
+[681.26s - 684.28s] B: I'm sure you could do anything if you really knew what you're doing.
+[684.30s - 690.82s] D: But I don't know. It's a bit of a cripple, Java's windowing toolkit. Sometimes it's a bit of a cripple.
+[691.46s - 693.18s] B: I can have a look.
+[694.08s - 694.90s] D: Yeah.
+[694.90s - 696.62s] C: Yeah. Or just, I don't know.
+[697.12s - 698.76s] B: But yeah, that might be nice.
+[700.20s - 703.29s] C: Contents of the same window, like from transcription to summary.
+[707.77s - 718.87s] A: Yeah, yeah, or even just have buttons on it, toggle buttons or something on the toolbar for that window. Hmm, just something. Yeah, different ways we can do it. It doesn't, doesn't have to be a tab or whatever.
+[719.10s - 725.07s] C: No, no, it could be like transcription summary. Yeah, like 2 buttons and you just, yeah, press on which one.
+[725.16s - 726.58s] A: Or checkmarks even have 2 of them.
+[726.58s - 738.57s] D: That will reduce the number of windows you need, wouldn't it? Which is quite good. Because otherwise, Photoshop has a lot of windows. If you ever use Photoshop, it's got loads, and you're always forever going, oh, get out of the way. There's always stuff in the way, isn't there?
+[738.57s - 747.54s] B: But I mean, people get used to it. I mean, when you use Windows or Linux, for that matter, you have a lot of windows open.
+[747.70s - 748.38s] D: You do.
+[748.38s - 748.52s] B: And you manage them.
+[749.20s - 749.70s] D: Yeah.
+[753.03s - 753.53s] B: True.
+[753.53s - 754.27s] C: Yeah. Unless, can you—
+[754.27s - 756.39s] D: I suppose you can minimize them and stuff like that.
+[756.39s - 757.35s] B: Yeah, you can minimize them.
+[757.35s - 757.93s] D: Can you do that?
+[757.97s - 758.47s] B: Yeah, yeah.
+[758.69s - 761.91s] D: Okay, well, that's all right. Yeah, yeah, of course you can actually.
+[762.13s - 769.77s] A: Yes, like a lot of these can be like, once we get the disfluencies out, then we can, you know, transcript without the disfluency, transcript with the different disfluencies.
+[769.77s - 770.66s] B: Yeah, that's true.
+[770.97s - 772.99s] A: They're definitely sort of using the same window.
+[772.99s - 789.10s] B: And so yeah, they're definitely going to be in the same window and probably mutually Yeah, that was the plan for the discrepancies anyway. So yeah, do you want to do that with summaries and put the summaries in, in the same way now?
+[790.28s - 803.82s] C: Mutually exclusive? Yeah, well, I don't know, with transcripts it sounds reasonable to have like transcripts, like maybe 3 alternatives then, like full meeting, meeting without our discrepancies and summarize.
+[804.16s - 805.25s] B: Yeah, yeah, you want to do that?
+[805.25s - 805.85s] A: That kind of makes sense.
+[805.85s - 807.68s] D: Yeah, yeah, yeah, sounds good.
+[816.62s - 846.53s] B: And finally, the prototype you spoke about. What kind of prototype could we produce by the end of February? Because I'm, I'm just, you know, I go into the lab and I say, right, am I going to change today, you know? And it kind of just, it just develops. I'm not aiming for anything. Do we want to aim for something? Um, I'm pretty much getting there anyway, to be honest. It's not going to be a lot more work.
+[846.53s - 854.35s] C: I guess it is. I mean, just to try and— I mean, for us to be able to do something that we can include with your thing.
+[854.35s - 858.29s] D: Yeah, something just slightly more than just that.
+[858.29s - 862.88s] C: Yeah, just so see the integration works.
+[862.88s - 866.35s] D: Yeah, definitely.
+[866.35s - 869.80s] C: So I guess that's what—
+[869.80s - 879.09s] D: I think that's kind of what he meant as well, isn't it? Yeah, seeing it sort of start to do stuff rather than just be— I'm trying to talk with the GUI.
+[879.09s - 886.20s] C: Yeah, well, I guess, I mean, that was probably our intention, but we might not have written it down.
+[886.20s - 903.14s] A: Actually, is the code accessible, like the GUI stuff that you've done? Like, can we just like copy like the latest stuff out of your directory somewhere? Like if we're gonna just try and like take a look or something?
+[903.14s - 904.66s] C: I don't know, can we access it?
+[904.89s - 907.57s] D: If you make it world-readable, then anybody can.
+[907.57s - 914.65s] A: Well, if you just tell us the directory and just make the file readable, then we know the directory to get in. Yeah, sure.
+[914.65s - 916.97s] B: I don't know if it's readable at the moment, but you can show how to—
+[916.97s - 918.31s] A: I think by default they are.
+[918.31s - 925.76s] D: No, they're not world-readable. They're only default. Then only you can read them. You can see them, but you can't read them.
+[925.76s - 933.93s] B: Right, well, I'll make that readable then. Directory is my number, or you can just email to us.
+[934.06s - 934.71s] A: Okay, yeah, yeah.
+[934.79s - 935.71s] B: Well, it's not difficult.
+[935.92s - 937.06s] D: What's your number?
+[937.46s - 948.95s] B: Okay, in all the emails. Yeah, your number. No, 04. Okay, 0455560.
+[949.90s - 950.63s] C: Say that again.
+[951.82s - 952.75s] B: 0455560.
+[953.07s - 953.46s] D: And then it's—
+[955.09s - 961.72s] B: and then there's a folder. And it's called the M Browser.
+[961.72s - 964.22s] D: The M Browser?
+[964.22s - 965.43s] B: Yes, M for meeting.
+[965.43s - 969.92s] D: I hope you never have to look in my directory, it's just pure chaos.
+[969.92s - 975.69s] B: No, I'm extremely organized. I've got folders and everything, I love folders.
+[975.69s - 980.90s] D: Mine is serious chaos. Files everywhere.
+[986.57s - 989.33s] B: Yeah, so that's me done. Someone else want to talk about their stuff?
+[989.33s - 996.26s] C: I can tell you what I've done in SB2.
+[996.26s - 1000.62s] B: Oh, um, I don't know.
+[1001.63s - 1012.96s] C: I basically started like browsing a bit, just like trying to see if there's anything Out there to use sort of what were you doing again?
+[1013.76s - 1019.36s] A: Yeah, all the searching stuff. Yeah, so inverted file stuff and the next search query and all that.
+[1019.36s - 1023.56s] C: Okay, found a tutorial but inverted search indexing.
+[1023.56s - 1031.16s] A: So you could probably just use that code like that was behind the question she asked him earlier. Yes. You know, reusing code and stuff and just like okay.
+[1031.32s - 1032.63s] D: That's pretty much it.
+[1032.85s - 1040.42s] C: Yeah, well I don't know if two. I haven't looked at it, but I found some code for like a tutorial about indexing.
+[1040.42s - 1044.51s] D: Oh, cool. So even if it doesn't work, you can jiggery-puggery it around and make your own.
+[1044.51s - 1049.95s] A: Yeah, we'll probably still have to do some other file management, file creation, messing around, some sort of nonsense.
+[1050.02s - 1052.33s] D: But yeah, the basics is there. Okay, that's good.
+[1053.26s - 1057.74s] B: Yeah, that's handy. So you think it shouldn't be too difficult?
+[1060.27s - 1077.52s] C: I don't know, I was a bit worried about when— well, when you talked about this with the file, I mean, how much do we actually need to do, like extracting things from the XML files and stuff to be able to do the indexing?
+[1077.52s - 1082.60s] B: Oh, I see. Yeah, you have to convert it to some sort of format, I suppose.
+[1082.60s - 1100.66s] D: I've been trying to write something to read the XML And get rid of it. And I can get rid of it, but I'm having trouble putting it anywhere else. So it'll come up on the screen, but at the moment I haven't managed to put it into a vector or whatever in Java to play with it.
+[1100.66s - 1106.67s] C: Are you writing in Java? Yeah.
+[1106.67s - 1114.10s] B: I mean, you should have a look at the browser code then, because, you know, they already extract For example, transcripts.
+[1114.44s - 1116.14s] D: Yeah, yeah, I'm sure they do.
+[1118.40s - 1118.89s] A: Yeah, that's good.
+[1119.44s - 1119.71s] C: Yeah.
+[1120.28s - 1126.48s] D: Oh yeah, I'm sure it's not difficult. I'm sure I'm making a meal of it.
+[1128.68s - 1144.83s] C: Um, yeah, I guess, I mean, it was a good point you had. That, like, collaborating with file things. I mean, if you already started on—
+[1144.83s - 1147.34s] D: Yeah, yeah, absolutely.
+[1147.34s - 1148.14s] C: We can—
+[1148.14s - 1150.18s] D: Should share as much as possible.
+[1150.18s - 1150.39s] C: Yeah.
+[1150.39s - 1151.86s] A: Libraries.
+[1151.86s - 1153.10s] D: Yeah.
+[1153.10s - 1167.27s] C: Yeah. Should we, I don't know, meet up and see what we could do? I mean, I don't know, see what you've done and see what we need. When we know more of what we need, maybe?
+[1167.27s - 1168.77s] D: Next week, something.
+[1168.77s - 1170.48s] B: Yeah, exactly.
+[1170.48s - 1170.94s] A: So you're still—
+[1170.94s - 1173.68s] D: I actually haven't done anything this week because this week's been manic.
+[1173.68s - 1175.04s] A: Yes, exactly.
+[1175.04s - 1177.48s] B: I mean, this week's only 2 days old.
+[1177.48s - 1186.32s] D: Well, whatever it was last week. The week as is rather than the proper week, you know what I mean? It's been all a bit manic the last—
+[1186.32s - 1188.22s] A: Well, you're an SP and LP and SP2, right?
+[1188.22s - 1196.96s] D: That's right, yeah. And then we had to do an IR P, whatever it was last week as well, which is only a page long, but it's quite difficult to write a page.
+[1196.99s - 1197.01s] B: Yeah.
+[1197.01s - 1197.53s] A: Yeah.
+[1197.53s - 1197.87s] C: Oh yeah.
+[1197.87s - 1199.23s] B: That was complete rubbish.
+[1199.27s - 1205.65s] D: It was. It wasn't, but it was. I had to sit there and think about it for a bit, which is a bit irritating. Yeah, but S pen, I think.
+[1205.65s - 1208.26s] A: Yeah, that's fun.
+[1209.25s - 1211.93s] B: Oh yeah. Okay.
+[1211.93s - 1214.21s] A: So yeah, I was thinking the weekend probably.
+[1214.21s - 1214.89s] C: Yeah.
+[1214.89s - 1222.66s] A: Start attacking this seriously. I'm just, you know, hopefully have something by next week that we can sort of try integrating into the GUI.
+[1222.66s - 1244.26s] B: Well, the browsers I use it now, or as it was there when I took it, uses the NXT search to get the data out of the files, which I think is odd, but I'm not quite sure how it works. I don't quite understand it.
+[1244.26s - 1245.28s] D: So when it—
+[1246.13s - 1256.44s] B: when it— To get the data, for example, to get summarization data, you have to search for, I think, the IDs or something. Yeah.
+[1256.44s - 1257.51s] A: That's pretty bizarre, isn't it?
+[1257.51s - 1257.67s] B: Yeah.
+[1257.67s - 1262.40s] D: I guess it's like where it's got— that is pretty bizarre.
+[1262.40s - 1268.68s] B: So they don't, you know, they don't say look in that and that folder, but they say search everything.
+[1273.87s - 1275.26s] A: Well, they did say it wasn't the most efficient.
+[1275.26s - 1280.64s] B: It does load up quite quickly, so it's not too bad.
+[1280.95s - 1288.68s] C: But, you know, but what is it, like a window where you have to write a search query, or is it just what's behind it? So, or—
+[1288.68s - 1307.29s] B: No, this is not the actual search. This is just when you open, you know, to load the transcript for example, to find the transcript for that meeting, it does an NXT search for the string, I don't know, transcript or text or whatever.
+[1307.29s - 1313.23s] D: And it likely just has an open variable transcript, yes, whatever, find everything that's got that.
+[1313.23s - 1341.53s] B: Yeah, so I don't know if you've looked at the search query language, but it's like a $a text Yeah, yeah, because that's the guy who declares a variable. Yeah, and then, yeah, because every, every year all of these, these files have got an ID and all the transcript files have got the string, I don't know what it is, words or text or something in it. So it just searches for those files.
+[1346.88s - 1356.55s] C: Is there an open thingy, or like, what did you do to like— how did you figure out that this uses MixedInSearch?
+[1356.55s - 1376.39s] B: Um, well, it's in the code, just that it, you know, you define a search object and then you search that string. I had to figure out how to, how to do the same thing for the summary. That's how I I had to understand how to do the transcript, how they did the transcript, to do the summary myself.
+[1376.39s - 1379.23s] D: So did you have to write it in the way that they wrote it? Is that what you did?
+[1379.23s - 1391.20s] B: Yeah, just search for a specific string. So you could just, you know, you could use that when you— if you want to take the data out.
+[1391.20s - 1392.81s] D: Fish the data out. I was just thinking that.
+[1397.87s - 1407.54s] B: a question about what the code means or where to find the code that you want to— you know, whatever you want to do, then just send me an email. I can explain it.
+[1407.54s - 1410.96s] D: Have you annotated your code nicely?
+[1410.96s - 1411.71s] A: Oh yeah.
+[1412.03s - 1425.34s] B: Actually, in the moment it's got a load of rubbish because the browser that I used from this— from, you know, that they gave us had a lot of extra stuff in and I haven't dared throw it out. throw out all the functions that I don't need.
+[1425.34s - 1425.88s] D: Just in case.
+[1425.99s - 1427.36s] B: Just in case it's mission critical.
+[1427.36s - 1428.81s] C: Yes.
+[1428.98s - 1437.31s] B: So they're all in there yet. Still a lot of rubbish, but it will be chucked out right at the end, I think.
+[1437.31s - 1439.26s] D: Commenting it out one bit at a time and running it.
+[1439.26s - 1439.84s] C: Yes, exactly.
+[1439.84s - 1441.64s] D: Get rid of that next.
+[1441.64s - 1441.98s] C: Exciting.
+[1452.05s - 1453.98s] D: So basically we go and kind of do some work, really.
+[1454.22s - 1455.64s] A: Yeah, that's interesting.
+[1456.22s - 1458.53s] D: The answer to that is a bit long and short. The weekend?
+[1458.72s - 1461.05s] B: The weekend's still 4 days off.
+[1461.30s - 1464.69s] D: Yeah, still at the bottom of the mountain.
+[1466.16s - 1467.03s] A: How many hours is this?
+[1467.22s - 1469.20s] B: I don't actually have that much to do at the minute.
+[1470.03s - 1479.38s] D: Well, should you finally want to explore any other— How's your how's your um uh quantifier raising?
+[1479.98s - 1481.13s] A: Yeah.
+[1481.74s - 1495.41s] B: I can't remember what I'm supposed to do, by the way. Am I supposed to do the summarisation thing you bought? No.
+[1495.60s - 1496.11s] A: Who was doing it?
+[1499.37s - 1499.63s] B: You do.
+[1499.76s - 1502.16s] D: Oh really?
+[1502.16s - 1502.92s] B: Well, I'll do that then.
+[1502.92s - 1503.72s] A: These can be changed.
+[1504.26s - 1505.60s] B: Shall I do that then?
+[1505.60s - 1512.40s] A: I don't know, it doesn't matter. If you want to, I mean, it's just, you know, play around with some extra stuff. You have some time, why not?
+[1512.40s - 1513.44s] B: It shouldn't be too difficult.
+[1516.65s - 1519.20s] D: So what courses should I have picked? Are we not doing any work?
+[1519.20s - 1529.85s] B: Yeah, well, I'm doing communications, which we had one exercise And I've done that like 2 weeks ago. That's in 2 weeks.
+[1529.85s - 1532.46s] A: Is that informatics course?
+[1532.46s - 1538.51s] B: Yeah, it's a— Oh, like digital? 9 courses or 10 or something.
+[1538.51s - 1538.80s] D: Okay.
+[1538.80s - 1558.78s] B: And then I'm doing parallel programming languages and systems, which we had one exercise as well, and that's in like Friday. Well, I'm not doing any backhand meetings later. Being later.
+[1559.24s - 1559.77s] D: Yeah.
+[1562.24s - 1563.70s] A: I'll be happy when this week is over.
+[1565.25s - 1566.78s] C: I'll be happy when this course is over.
+[1567.16s - 1568.56s] D: Yeah. I don't know.
+[1568.61s - 1592.43s] A: Is that about it then? Anything else we need to discuss? Did we want to meet before we talk to Steve next week? Well, I don't know. We'll probably get some work done over the weekend, so I don't know if after D&LG or something, maybe just have a little quick little update and just—
+[1592.43s - 1595.19s] B: Yeah, if you like. Yeah, well, we can decide then.
+[1595.19s - 1596.13s] A: Yeah, exactly.
+[1596.13s - 1596.69s] D: Yeah.
+[1596.69s - 1597.47s] B: Yeah.
+[1597.47s - 1597.65s] C: Yeah.
+[1597.65s - 1600.14s] B: So what, what are you planning to do over the weekend then?
+[1600.14s - 1601.59s] A: Search.
+[1601.59s - 1603.19s] B: You're gonna do the search?
+[1603.29s - 1605.15s] C: We're going to implement this.
+[1605.15s - 1622.46s] A: Sure, why not? Couldn't be that hard. Well, it'll be still a limited version of the next query change. Won't be the whole thing. Like, we can just decide sort of things that we do want to do. Well, actually, most are just dialog acts.
+[1638.94s - 1649.01s] B: It's just that I think we need to set ourselves some milestones because otherwise, you know, yeah, we'll get behind schedule.
+[1649.01s - 1658.22s] A: Yeah, pretty quick, like you're saying. Yeah, well, actually, do we want to set a date for Interim prototype? Specifically, a date?
+[1658.22s - 1664.11s] B: Well, you decide. I'm not very much for prototypes.
+[1667.84s - 1675.01s] C: The progress report is June 23rd of February.
+[1675.01s - 1677.06s] D: So what's that, 2 weeks?
+[1677.06s - 1681.77s] B: Well, how about we get it done By then, I mean.
+[1682.91s - 1683.45s] D: Ish, yeah.
+[1684.53s - 1700.72s] B: Then we can write about it in the interim report. Yeah. You know, now we've got something to show. Absolutely. Just looking at my own deadlines.
+[1702.97s - 1703.95s] C: See, yeah.
+[1705.56s - 1723.84s] B: Oh, and the search interface. Maybe you should decide pretty, pretty early what kind of things you want to be able to search for. And then if you want, you can give that to me now. I'll build you nice, you know, a few tick boxes and dropdown menus.
+[1725.06s - 1729.80s] C: Wasn't like what you have now? Wasn't that pretty much? No. Or was it?
+[1730.43s - 1740.38s] B: Oh, that's, that's, that doesn't exist. That's completely cut and paste. That does not exist. Nicely done though, isn't it?
+[1740.38s - 1742.59s] D: It's quite impressive actually.
+[1742.59s - 1755.42s] B: It's actually all these, all these things are nicked from, you know, these dropdown menus and tick boxes are nicked from Google. A screenshot of Google.
+[1755.42s - 1761.29s] C: Ooh, nice one. Maybe you should make it exist.
+[1763.64s - 1776.54s] B: It's gonna be a little difficult. Yeah, I mean, I was going to, but you know, the whole dropdown menus and stuff, what we want to search for is not quite agreed on. We never agreed on what we want to be able to search for.
+[1776.54s - 1777.36s] D: No, it's not easy.
+[1777.47s - 1779.59s] A: Yeah, so decide on that over the weekend.
+[1779.59s - 1796.06s] B: Yeah, do you want to, you know, just get together and think about the different types of search we could possibly do, and then we could discuss it next meeting? Which options we really want to include. That would probably involve researching the query language a bit as well to see what that can do.
+[1796.06s - 1809.92s] C: It would be nice to meet up and you can sort of show us a bit what you know already so we don't sort of have to do all the work again of just like figuring out stuff.
+[1809.92s - 1811.55s] A: Oh, just like the basics?
+[1811.55s - 1812.66s] C: No, already.
+[1813.65s - 1813.76s] A: What?
+[1813.97s - 1816.16s] C: Just like accessing the corpus and stuff?
+[1816.16s - 1816.50s] B: Oh yeah.
+[1816.50s - 1823.23s] A: Just like all that, and seeing the code and just sort of how, just see the basics of what you've done. Like just get a quick look over and just—
+[1823.23s - 1824.49s] D: Take us through a tutorial.
+[1824.49s - 1832.76s] A: Yeah, or like the class paths, all that sort of thing. Just say, okay, well here's, everything's basically set up and then just jump right in.
+[1832.76s - 1834.34s] B: Show you the bits, the code.
+[1834.34s - 1836.43s] D: Nicely said.
+[1836.43s - 1841.09s] A: That's cool. In the morning.
+[1841.09s - 1845.80s] B: Yeah. Well, this time I'm doing taking.
+[1845.95s - 1846.93s] D: I don't know.
+[1846.93s - 1848.49s] B: You can't do it. Yeah.
+[1848.49s - 1856.37s] A: The whole thing is, you know, yeah, something like that could happen anytime because, you know, like my schedule is like a class break, class break, class.
+[1856.37s - 1857.77s] B: Yeah. I'm not going to take an hour.
+[1857.77s - 1858.61s] A: Yeah, I know. Exactly.
+[1858.61s - 1859.13s] C: Exactly.
+[1859.13s - 1861.80s] A: That's what I'm thinking. So something like that. And then if I have a class, I can run off.
+[1862.43s - 1862.91s] C: Do it. Yeah.
+[1862.91s - 1863.61s] B: Pick your time.
+[1863.67s - 1867.61s] A: Yeah. Monday might be good.
+[1868.16s - 1869.35s] B: Yeah, well, Monday.
+[1870.34s - 1871.43s] C: What did you say?
+[1871.53s - 1880.39s] A: Yeah, this Monday. Just anytime. Not at noon or 2 or 4. No, in between those, you know, like 1 or 3.
+[1881.05s - 1881.52s] C: 3 o'clock?
+[1882.00s - 1882.16s] A: Sure.
+[1882.40s - 1888.15s] D: Actually, yeah, possibly 3 is all right. It was— what time's the NLG? 4, isn't it?
+[1888.44s - 1888.77s] C: It's 4.
+[1889.06s - 1889.89s] B: Unless you want to do it after.
+[1891.30s - 1892.97s] A: Yeah, that's an option too.
+[1892.97s - 1900.14s] D: 3 is good though, but we have— whatever, what would you prefer?
+[1900.14s - 1905.14s] A: Or 3:30. I'm just— yeah, I'm talking about necessary time.
+[1905.14s - 1907.44s] D: 3:30 in the computer room in here.
+[1907.44s - 1908.81s] A: I don't think we can get in there though.
+[1908.81s - 1918.75s] D: If you can't, can you get in the front door? Oh, you haven't got a key, do you? Can none of you get in? Well, we can get in through the The computer room's in here, the MSC computer room.
+[1918.75s - 1919.87s] B: I've not found that yet.
+[1919.87s - 1920.91s] A: How about if we take a—
+[1920.91s - 1925.07s] D: Well, if you find me, I'll show you where. I'll let us all in there and we can all go in there.
+[1925.07s - 1927.01s] C: We can look now afterwards.
+[1927.01s - 1930.61s] D: You do need to have a key for it though, that's the thing. It's got a locked door.
+[1930.61s - 1932.31s] A: Just bang on it.
+[1932.31s - 1932.85s] D: Yeah, somebody else.
+[1932.85s - 1938.01s] A: Actually, I was asking Steve about that, whether we can get in there, whether he was gonna get us access into there.
+[1938.01s - 1938.71s] C: Into what?
+[1938.71s - 1939.55s] A: The computer room.
+[1939.55s - 1940.53s] B: Okay.
+[1940.53s - 1947.76s] D: Yeah, it's only got— it's crap. It's only got about 4 or 5 computers. But it would do quite good for our job because it can all sit around. It's not very obnoxious with people in it.
+[1948.31s - 1949.85s] A: Is there a printer there too?
+[1949.85s - 1953.78s] D: Yeah, there's a printer there. And there's a photocopier with the code on it.
+[1953.91s - 1962.59s] A: Yeah, that's cool. Yeah, we could photocopy your assignment if we want to.
+[1962.59s - 1963.55s] B: I've got it on my computer.
+[1964.37s - 1965.59s] A: Yeah, all the comments, I'm thinking.
+[1965.91s - 1968.15s] C: So what time do we say?
+[1968.15s - 1970.61s] B: I just think it's better to do it afterwards. then we have all the time in the world.
+[1970.61s - 1971.39s] A: Yeah, that's true.
+[1971.39s - 1977.69s] B: Yeah, then half an hour and then we'll literally run out. Yeah, yeah, yeah.
+[1977.76s - 1977.85s] C: Okay.
+[1977.85s - 1980.32s] A: As long as Dean Elchi doesn't go late.
+[1980.32s - 1983.35s] D: Hopefully it's not that man, so it won't matter.
+[1983.35s - 1987.78s] B: Actually, it's not even confirmed yet.
+[1987.78s - 1988.85s] C: What?
+[1988.85s - 1989.26s] D: Oh.
+[1989.26s - 1993.96s] B: She doesn't even know what she's talking about. Maybe it doesn't happen at all.
+[1995.48s - 1997.39s] C: It's reading week next week. It should be.
+[1997.60s - 1998.22s] B: Is it really?
+[1999.14s - 2003.18s] C: Well, it's supposed to be. Next week. It's week 6 next week.
+[2003.18s - 2003.80s] A: Really?
+[2003.85s - 2005.57s] B: I don't think we have a reading week though.
+[2005.57s - 2014.82s] C: I don't know. We have one class at least when we— like speech perception, we don't have any lectures, but I think we have in like all other classes. So yeah, I don't think there's much of a point in it.
+[2014.82s - 2018.97s] B: I don't think there was an official one last semester. I think it was just a bank holiday, wasn't it?
+[2018.97s - 2021.24s] A: Something like that. I think when a couple classes—
+[2021.24s - 2026.55s] D: some classes did and some classes Didn't yeah. Yeah, it should have been. It's already they didn't really know what was going on.
+[2026.55s - 2029.75s] C: I think the undergraduates had yeah were told.
+[2029.75s - 2039.78s] A: It goes up to the professor whether they did it or not. Well, I don't feel like yeah okay. Yeah, make it work. Yeah, I think DIL will probably have one to make up for missing classes.
+[2040.59s - 2041.05s] C: What?
+[2041.05s - 2048.09s] A: DIL will probably yeah we will probably have yeah yeah last week okay.
+[2048.09s - 2048.43s] C: Yep.
+[2048.56s - 2049.22s] B: That's me Monday.
+[2049.22s - 2050.52s] D: Done?
+[2050.52s - 2050.99s] C: Yeah.
+[2052.01s - 2054.68s] B: Um, I guess that's it.
+[2055.31s - 2060.37s] C: Was there anything else? Do anyone want to like take care of this, or should I take care of it?
+[2060.37s - 2062.24s] D: Oh, we trust you.
+[2062.24s - 2078.75s] C: Yeah, I don't know if there was something. I think you basically said the same things as in the comments. If I could read it. Can you read that?
+[2079.47s - 2087.37s] A: Top one? Do you really want multiple windows from a single app?
+[2088.85s - 2089.55s] C: From a single app.
+[2089.61s - 2092.45s] A: But most will probably want to go with defaults.
+[2094.89s - 2096.29s] C: Yeah. Oh, that was pretty simple.
+[2096.52s - 2098.65s] D: Yeah, I think the comments are basically the same as what you said.
+[2098.71s - 2104.76s] A: Yeah, exactly. And just the other comment about whether you want to do both speaker characterization and topic segmentation.
+[2105.98s - 2107.00s] D: Okay, that's great.
+[2108.73s - 2116.47s] C: And now we have 7% of the course done. Yeah, it's pretty good.
+[2117.24s - 2118.96s] B: I think you need to tick the okay box, right?
+[2119.22s - 2122.65s] C: If you're okay with having— Sliding boxes.
+[2126.05s - 2127.39s] D: Signing off, yeah.
+[2131.59s - 2132.49s] B: Should we turn these open or not?
+[2132.57s - 2141.39s] C: We're done now. Is she still here? Yes, you are.
+[2141.67s - 2142.29s] B: Yeah.

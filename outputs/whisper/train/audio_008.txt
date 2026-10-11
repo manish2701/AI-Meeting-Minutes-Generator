@@ -1,8 +1,0 @@
-Audio File: audio_008.wav
-Detected Language: en
-Language Probability: 0.9992
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 7.56s] Because if we're going to allow disjoint segments, for example, then how are we going to know what's going to be in context at any given time?

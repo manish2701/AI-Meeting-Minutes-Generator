@@ -1,8 +1,0 @@
-Audio File: audio_003.wav
-Detected Language: en
-Language Probability: 0.9975
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 3.70s] then maybe we can more or less use the same code and just make a few ifs and stuff.

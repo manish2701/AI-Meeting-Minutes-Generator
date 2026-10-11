@@ -1,0 +1,296 @@
+{
+  "audio_file": "MTG_32092.wav",
+  "dataset_split": "train",
+  "detected_language": "en",
+  "language_probability": 1.0,
+  "detected_speaker_count": 5,
+  "detected_speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02",
+    "SPEAKER_03",
+    "SPEAKER_04"
+  ],
+  "speaker_mapping": {
+    "SPEAKER_01": "Speaker A",
+    "SPEAKER_02": "Speaker B",
+    "SPEAKER_03": "Speaker C",
+    "SPEAKER_04": "Speaker D",
+    "SPEAKER_00": "Speaker E"
+  },
+  "unknown_segments": 0,
+  "segments": [
+    {
+      "start": 6.03,
+      "end": 33.51,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Hello. Thank you guys for coming in. So this will be our marketing meeting. We've discussed a little bit about kind of what we want to do, but in this meeting, I really want us to focus on our different channels, the different segmentations, how we can go about targeting each group. If you guys have any ideas for more unique marketing strategies, I'll be more than happy to hear. Does someone want to start?"
+    },
+    {
+      "start": 33.51,
+      "end": 49.71,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "that's a lot to cover okay let's uh start with uh maybe the channels um i think uh we're going to create a brand we want to be on television so uh you know probably cable uh yeah talking about"
+    },
+    {
+      "start": 49.71,
+      "end": 55.87,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "market i'm thinking that we should focus more on like the japanese market oh i see you go"
+    },
+    {
+      "start": 55.87,
+      "end": 72.47,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "geographically i think we're talking there's a few different ways you can do geographically we can do demographic we can do based on um like behavior like people who like to travel it can be many different so i think we can focus on many different ones be japanese market also in television i don't"
+    },
+    {
+      "start": 72.47,
+      "end": 79.23,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "know what you're referring to with television travel for the holiday season strategy for that"
+    },
+    {
+      "start": 79.23,
+      "end": 88.95,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "marketing yeah i was thinking that we were talking about how to market but if we're talking If you have the different markets, then that could be geographical, okay?"
+    },
+    {
+      "start": 89.49,
+      "end": 89.75,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "Yeah."
+    },
+    {
+      "start": 90.29,
+      "end": 93.71,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Do we have distributors? Do we have stores in Japan?"
+    },
+    {
+      "start": 94.85,
+      "end": 98.37,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Well, we could do it for our online channel, maybe. Oh, I see."
+    },
+    {
+      "start": 98.71,
+      "end": 106.79,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "It's a little bit late for this season, but we ought to target certain sports with our sports equipment to those that should be telecast."
+    },
+    {
+      "start": 106.93,
+      "end": 108.05,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Yeah. That's a good point."
+    },
+    {
+      "start": 108.37,
+      "end": 109.85,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "I thought we were doing hiking."
+    },
+    {
+      "start": 109.85,
+      "end": 120.37,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Yeah, but hiking, you can have it more like horseback riding. They can also use our equipment. If it's like track and field, they can probably use some of our equipment as well."
+    },
+    {
+      "start": 120.37,
+      "end": 126.33,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Skiers are also the big hikers, so they have to get up the hill so they can ski down, right? Exactly."
+    },
+    {
+      "start": 126.33,
+      "end": 148.51,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "I believe seriously that we have to narrow, based on our products, see which are the products we want to promote first, and go on those products and find the proper channel for those products and do a survey, a market study on seeing who would be the potential buyer."
+    },
+    {
+      "start": 148.51,
+      "end": 159.51,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "This is actually, you know, this is half a follow-up marketing meeting from what we had last week. So did you all get in your mail that little package that I put together? Yes. Of like the..."
+    },
+    {
+      "start": 159.51,
+      "end": 160.17,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "I looked at it."
+    },
+    {
+      "start": 160.17,
+      "end": 175.95,
+      "speaker_id": "SPEAKER_03",
+      "speaker": "Speaker C",
+      "assignment_method": "overlap",
+      "text": "Yeah, the little kits. So my idea with that was to send it through our Instagram channel and that's to specifically focus on the Japanese market because they're such a big conference."
+    },
+    {
+      "start": 176.91,
+      "end": 190.25,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I was thinking another way could be with the technology of today to have algorithms of what people are interested in online. So based on that, be able to target them maybe on social media, having sponsored posts pop up."
+    },
+    {
+      "start": 190.25,
+      "end": 209.75,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "From experience, I think we can say, or not by experience, just by knowing, I believe that the website, the marketing, the online market is the market that works, of course, and that's much, much cheaper than the TV. Right."
+    },
+    {
+      "start": 209.75,
+      "end": 219.55,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "But then we'll have to market in, let's say, in the Japanese language. Ah, that's something to ask. Do we have people that would be able to put, you know?"
+    },
+    {
+      "start": 219.55,
+      "end": 228.05,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "We do, we can, we can, we have, we have Japanese. How's the currency doing? Can we, is it worth it to do for the Japanese market?"
+    },
+    {
+      "start": 228.05,
+      "end": 252.01,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I don't know why we all of a sudden are focusing on Japan. You know, Beth mentioned it, but, you know, I think, I think focusing within, within the U.S., where we're based first, it's something that is a lot more natural and makes more sense. you know, shipping things to Japan and all of that, something that's going to be way more expensive. We know the culture in the U.S., we know there's a big hiking market for us."
+    },
+    {
+      "start": 252.01,
+      "end": 275.23,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "In the U.S., you've got areas like Southern California and Florida, which is warm weather climate all year long. Also, Southern California, you have the wintertime, the snow, the skiers. California's probably the best target area because you have a multitude of sports and equipment that you would give."
+    },
+    {
+      "start": 275.23,
+      "end": 301.75,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "And people that are sport-oriented, so they'll spend more money on sports, but all over the U.S. But let's go back to our channels, and I'll say that TV is wonderful, but I think that online, and if we have to pay for Google Ads or if we have to pay for the Facebook Ads, they are they give back"
+    },
+    {
+      "start": 301.75,
+      "end": 316.07,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "if we're thinking about California we also might want to use influencers say like Kim Kardashian to wear our hiking boots I'm not sure"
+    },
+    {
+      "start": 316.07,
+      "end": 320.39,
+      "speaker_id": "SPEAKER_04",
+      "speaker": "Speaker D",
+      "assignment_method": "overlap",
+      "text": "Sarah did you have contacts with Kim Kardashian"
+    },
+    {
+      "start": 320.39,
+      "end": 332.31,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "I'm not sure I was about to say I'm not sure Kim Kardashian is who we want to really promote our product but Donald I know you have good connections may be in that field. So do you mind putting out a list of maybe influencers we can work out with?"
+    },
+    {
+      "start": 332.31,
+      "end": 336.17,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "I have several people with the Dodger organization."
+    },
+    {
+      "start": 336.49,
+      "end": 336.81,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "Perfect."
+    },
+    {
+      "start": 337.05,
+      "end": 338.81,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "San Francisco 49er football organization."
+    },
+    {
+      "start": 338.89,
+      "end": 342.11,
+      "speaker_id": "SPEAKER_01",
+      "speaker": "Speaker A",
+      "assignment_method": "overlap",
+      "text": "So could you maybe make me a list of those influencers by Monday?"
+    },
+    {
+      "start": 342.35,
+      "end": 348.25,
+      "speaker_id": "SPEAKER_00",
+      "speaker": "Speaker E",
+      "assignment_method": "overlap",
+      "text": "I'm going to make a list of those. Also, I have a relative of mine that is good friends with Schwarzenegger."
+    },
+    {
+      "start": 349.71,
+      "end": 352.79,
+      "speaker_id": "SPEAKER_02",
+      "speaker": "Speaker B",
+      "assignment_method": "overlap",
+      "text": "Okay. Okay, well, that sounds... It's quite a hyper."
+    }
+  ]
+}

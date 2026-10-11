@@ -1,8 +1,0 @@
-Audio File: audio_023.wav
-Detected Language: en
-Language Probability: 0.2881
-
-TRANSCRIPT
-------------------------------------------------------------
-
-[0.00s - 0.24s] Yay.

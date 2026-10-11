@@ -1,0 +1,38 @@
+MEETING MINUTES
+============================================================
+Source: meeting_conversation_5.txt
+
+KEY POINTS
+--------------------
+• I prepared a four-week social media calendar. Week one focuses on awareness, week two on product demonstrations, week three on customer problems, and week four on launch offers. The calendar is available for download on the.
+• I completed the first draft of the landing page copy. The main sections cover product benefits, energy monitoring, mobile control, security alerts, and compatibility. I will post the rest of the copy as I get it ready.
+• Customer support needs a knowledge base before launch. The common questions are installation, Wi-Fi requirements, subscription billing, and mobile pairing. Customer support needs to be able to answer these questions and more before launching a product.
+• The hardware price is currently proposed at 18,999 rupees. The annual subscription is proposed at 1,999 rupees.
+• The first customer email draft is ready. It introduces the product and links to the early-access registration page.
+
+DECISIONS
+--------------------
+• run a three-creative advertising experiment
+• keep the teaser free of final pricing
+• hold the final campaign review next Friday at 4 PM
+
+ACTION ITEMS
+--------------------
+• Content Lead — update the pricing section after finance confirms the final numbers
+• Video Producer — shoot the remaining demonstrations on Friday if the build is ready
+• Video Producer — use the production-like build
+• Influencer Lead — prepare it by Wednesday
+• Influencer Lead — include estimated cost per thousand impressions and expected engagement
+• Email Lead — prepare the reminder segment and email by Tuesday afternoon
+• Support Lead — finish the remaining articles by Friday
+• Mobile Developer — fix and test it by Thursday evening
+
+IMPORTANT DATES / DEADLINES
+------------------------------
+• Tuesday afternoon — Email Lead: prepare the reminder segment and email by .
+• Thursday evening — Mobile Developer: fix and test it by .
+• Friday morning — Analytics Lead: finish it by .
+• next month — Product Manager: The launch target remains the 15th of .
+• next Friday at 4 PM — Marketing Manager: hold the final campaign review .
+• Friday morning — Analytics Lead: prepare the campaign dashboard by .
+• tomorrow — Marketing Manager: Everyone should update their campaign tasks before 's stand-up.
