@@ -160,32 +160,6 @@
       <div class="pipe-badge">05</div>
       <h4>Structured Output</h4>
       <p>Key points, decisions, actions, dates.</p>
-    <!-- Panel 2 -->
-    <div class="tab-panel" role="tabpanel" id="panel-2">
-      <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — Whisper Transcript (MTG_32040)</h4>
-          <div class="transcript-box" id="transcript-2"></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — BART</h4>
-          <div class="minutes-box" id="minutes-2"></div>
-        </div>
-      </div>
-    </div>
-    <!-- Panel 3 -->
-    <div class="tab-panel" role="tabpanel" id="panel-3">
-      <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — Whisper Transcript (MTG_32040)</h4>
-          <div class="transcript-box" id="transcript-3"></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — FLAN-T5</h4>
-          <div class="minutes-box" id="minutes-3"></div>
-        </div>
-      </div>
-    </div>
     </div>
   </div>
 </section>
@@ -255,37 +229,67 @@
   </div>
 
   <div class="tabs" role="tablist" aria-label="Result examples">
-    <button class="tab-btn active" role="tab" aria-selected="true" onclick="switchTab(0)">AssemblyAI + BART</button>
-    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(1)">AssemblyAI + FLAN-T5</button>
-    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(2)">Whisper + BART</button>
-    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(3)">Whisper + FLAN-T5</button>
+    <button class="tab-btn active" id="result-tab-0" role="tab" aria-controls="panel-0" aria-selected="true" tabindex="0" onclick="switchTab(0)">AssemblyAI + BART</button>
+    <button class="tab-btn" id="result-tab-1" role="tab" aria-controls="panel-1" aria-selected="false" tabindex="-1" onclick="switchTab(1)">AssemblyAI + FLAN-T5</button>
+    <button class="tab-btn" id="result-tab-2" role="tab" aria-controls="panel-2" aria-selected="false" tabindex="-1" onclick="switchTab(2)">Whisper + BART</button>
+    <button class="tab-btn" id="result-tab-3" role="tab" aria-controls="panel-3" aria-selected="false" tabindex="-1" onclick="switchTab(3)">Whisper + FLAN-T5</button>
   </div>
 
   <div class="tab-panels">
-    <!-- Panel 0 -->
-    <div class="tab-panel active" role="tabpanel" id="panel-0">
+    <div class="tab-panel active" role="tabpanel" id="panel-0" aria-labelledby="result-tab-0">
       <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
-          <div class="transcript-box" id="transcript-0"></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — BART</h4>
-          <div class="minutes-box" id="minutes-0"></div>
-        </div>
+        <article class="result-panel">
+          <h4>Input Transcript <span class="result-tag">AssemblyAI</span></h4>
+          <p class="result-meta">Meeting MTG_32040 · Original transcript excerpt/data</p>
+          <div class="transcript-box" id="transcript-0" aria-live="polite"><p class="loading-state">Loading transcript…</p></div>
+        </article>
+        <article class="result-panel">
+          <h4>Generated Meeting Minutes <span class="result-tag">BART</span></h4>
+          <p class="result-meta">Structured output from the project</p>
+          <div class="minutes-box" id="minutes-0" aria-live="polite"><p class="loading-state">Loading minutes…</p></div>
+        </article>
       </div>
     </div>
-    <!-- Panel 1 -->
-    <div class="tab-panel" role="tabpanel" id="panel-1">
+    <div class="tab-panel" role="tabpanel" id="panel-1" aria-labelledby="result-tab-1" hidden>
       <div class="two-col">
-        <div class="result-panel">
-          <h4>Input — AssemblyAI Transcript (MTG_32040)</h4>
-          <div class="transcript-box" id="transcript-1"></div>
-        </div>
-        <div class="result-panel">
-          <h4>Generated Minutes — FLAN-T5</h4>
-          <div class="minutes-box" id="minutes-1"></div>
-        </div>
+        <article class="result-panel">
+          <h4>Input Transcript <span class="result-tag">AssemblyAI</span></h4>
+          <p class="result-meta">Meeting MTG_32040 · Same source transcript for model comparison</p>
+          <div class="transcript-box" id="transcript-1" aria-live="polite"><p class="loading-state">Loading transcript…</p></div>
+        </article>
+        <article class="result-panel">
+          <h4>Generated Meeting Minutes <span class="result-tag">FLAN-T5</span></h4>
+          <p class="result-meta">Structured output from the project</p>
+          <div class="minutes-box" id="minutes-1" aria-live="polite"><p class="loading-state">Loading minutes…</p></div>
+        </article>
+      </div>
+    </div>
+    <div class="tab-panel" role="tabpanel" id="panel-2" aria-labelledby="result-tab-2" hidden>
+      <div class="two-col">
+        <article class="result-panel">
+          <h4>Input Transcript <span class="result-tag">Whisper</span></h4>
+          <p class="result-meta">Meeting MTG_32040 · Whisper transcription</p>
+          <div class="transcript-box" id="transcript-2" aria-live="polite"><p class="loading-state">Loading transcript…</p></div>
+        </article>
+        <article class="result-panel">
+          <h4>Generated Meeting Minutes <span class="result-tag">BART</span></h4>
+          <p class="result-meta">Structured output from the project</p>
+          <div class="minutes-box" id="minutes-2" aria-live="polite"><p class="loading-state">Loading minutes…</p></div>
+        </article>
+      </div>
+    </div>
+    <div class="tab-panel" role="tabpanel" id="panel-3" aria-labelledby="result-tab-3" hidden>
+      <div class="two-col">
+        <article class="result-panel">
+          <h4>Input Transcript <span class="result-tag">Whisper</span></h4>
+          <p class="result-meta">Meeting MTG_32040 · Whisper transcription</p>
+          <div class="transcript-box" id="transcript-3" aria-live="polite"><p class="loading-state">Loading transcript…</p></div>
+        </article>
+        <article class="result-panel">
+          <h4>Generated Meeting Minutes <span class="result-tag">FLAN-T5</span></h4>
+          <p class="result-meta">Structured output from the project</p>
+          <div class="minutes-box" id="minutes-3" aria-live="polite"><p class="loading-state">Loading minutes…</p></div>
+        </article>
       </div>
     </div>
   </div>
